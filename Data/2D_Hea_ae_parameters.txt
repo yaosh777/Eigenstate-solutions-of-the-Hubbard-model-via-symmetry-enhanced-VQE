@@ -1,0 +1,13 @@
+# parameters
+t = 1
+U = 2
+N = 8               # number of qubits
+iterations = 500         # number of iterations
+Learning_Rate = 0.1      # learning rate
+n_file = 5             # number of repeated processes
+iter_step_size = 1       # interval of iteration value output
+prec = 4            # precision of the observables output
+prec_fid = 4        # precision of the fidelity output
+D = 21      # number of layers in the quantum circuit
+
+Code execution time: 32327.8808 seconds

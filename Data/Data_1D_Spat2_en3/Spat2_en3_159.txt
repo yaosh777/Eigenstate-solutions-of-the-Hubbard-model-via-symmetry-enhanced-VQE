@@ -1,0 +1,5100 @@
+iterations: 1, loss: 22.7108
+iterations: 1, NumOp_psi7: 3.0000
+iterations: 1, NumOp_psi10: 3.0000
+iterations: 1, NumOp_psi12: 3.0000
+iterations: 1, NumOp_psi13: 3.0000
+iterations: 1, Sz_psi7: -0.1226
+iterations: 1, Sz_psi10: -0.1527
+iterations: 1, Sz_psi12: 0.2698
+iterations: 1, Sz_psi13: 0.0054
+iterations: 1, E7: 1.4209
+iterations: 1, E10: 2.3171
+iterations: 1, E12: 2.5366
+iterations: 1, E13: 1.7254
+iterations: 1, Fidelity of excited state 7: 0.5442
+iterations: 1, Fidelity of excited state 10: 0.3264
+iterations: 1, Fidelity of excited state 12: 0.0026
+iterations: 1, Fidelity of excited state 13: 0.0813
+iterations: 2, loss: 20.4637
+iterations: 2, NumOp_psi7: 3.0000
+iterations: 2, NumOp_psi10: 3.0000
+iterations: 2, NumOp_psi12: 3.0000
+iterations: 2, NumOp_psi13: 3.0000
+iterations: 2, Sz_psi7: -0.3471
+iterations: 2, Sz_psi10: 0.4196
+iterations: 2, Sz_psi12: 0.2457
+iterations: 2, Sz_psi13: -0.3182
+iterations: 2, E7: 1.5116
+iterations: 2, E10: 1.7957
+iterations: 2, E12: 2.4431
+iterations: 2, E13: 2.2496
+iterations: 2, Fidelity of excited state 7: 0.7055
+iterations: 2, Fidelity of excited state 10: 0.5902
+iterations: 2, Fidelity of excited state 12: 0.1840
+iterations: 2, Fidelity of excited state 13: 0.0190
+iterations: 3, loss: 19.3313
+iterations: 3, NumOp_psi7: 3.0000
+iterations: 3, NumOp_psi10: 3.0000
+iterations: 3, NumOp_psi12: 3.0000
+iterations: 3, NumOp_psi13: 3.0000
+iterations: 3, Sz_psi7: -0.2060
+iterations: 3, Sz_psi10: 0.3688
+iterations: 3, Sz_psi12: -0.0206
+iterations: 3, Sz_psi13: -0.1422
+iterations: 3, E7: 1.4701
+iterations: 3, E10: 1.8099
+iterations: 3, E12: 2.0319
+iterations: 3, E13: 2.6881
+iterations: 3, Fidelity of excited state 7: 0.5720
+iterations: 3, Fidelity of excited state 10: 0.5816
+iterations: 3, Fidelity of excited state 12: 0.2541
+iterations: 3, Fidelity of excited state 13: 0.3499
+iterations: 4, loss: 18.4513
+iterations: 4, NumOp_psi7: 3.0000
+iterations: 4, NumOp_psi10: 3.0000
+iterations: 4, NumOp_psi12: 3.0000
+iterations: 4, NumOp_psi13: 3.0000
+iterations: 4, Sz_psi7: -0.2147
+iterations: 4, Sz_psi10: 0.0987
+iterations: 4, Sz_psi12: -0.2293
+iterations: 4, Sz_psi13: 0.3453
+iterations: 4, E7: 1.2809
+iterations: 4, E10: 1.8633
+iterations: 4, E12: 1.9031
+iterations: 4, E13: 2.9527
+iterations: 4, Fidelity of excited state 7: 0.5976
+iterations: 4, Fidelity of excited state 10: 0.5350
+iterations: 4, Fidelity of excited state 12: 0.3835
+iterations: 4, Fidelity of excited state 13: 0.8449
+iterations: 5, loss: 17.3615
+iterations: 5, NumOp_psi7: 3.0000
+iterations: 5, NumOp_psi10: 3.0000
+iterations: 5, NumOp_psi12: 3.0000
+iterations: 5, NumOp_psi13: 3.0000
+iterations: 5, Sz_psi7: -0.3097
+iterations: 5, Sz_psi10: 0.2016
+iterations: 5, Sz_psi12: -0.3539
+iterations: 5, Sz_psi13: 0.4621
+iterations: 5, E7: 1.1752
+iterations: 5, E10: 1.4991
+iterations: 5, E12: 2.3819
+iterations: 5, E13: 2.9439
+iterations: 5, Fidelity of excited state 7: 0.7419
+iterations: 5, Fidelity of excited state 10: 0.6796
+iterations: 5, Fidelity of excited state 12: 0.6903
+iterations: 5, Fidelity of excited state 13: 0.9576
+iterations: 6, loss: 16.9300
+iterations: 6, NumOp_psi7: 3.0000
+iterations: 6, NumOp_psi10: 3.0000
+iterations: 6, NumOp_psi12: 3.0000
+iterations: 6, NumOp_psi13: 3.0000
+iterations: 6, Sz_psi7: -0.3300
+iterations: 6, Sz_psi10: 0.3092
+iterations: 6, Sz_psi12: -0.3445
+iterations: 6, Sz_psi13: 0.3653
+iterations: 6, E7: 1.0919
+iterations: 6, E10: 1.2632
+iterations: 6, E12: 2.8367
+iterations: 6, E13: 2.8082
+iterations: 6, Fidelity of excited state 7: 0.8299
+iterations: 6, Fidelity of excited state 10: 0.7709
+iterations: 6, Fidelity of excited state 12: 0.8424
+iterations: 6, Fidelity of excited state 13: 0.8400
+iterations: 7, loss: 17.2025
+iterations: 7, NumOp_psi7: 3.0000
+iterations: 7, NumOp_psi10: 3.0000
+iterations: 7, NumOp_psi12: 3.0000
+iterations: 7, NumOp_psi13: 3.0000
+iterations: 7, Sz_psi7: -0.3620
+iterations: 7, Sz_psi10: 0.3137
+iterations: 7, Sz_psi12: -0.2182
+iterations: 7, Sz_psi13: 0.2665
+iterations: 7, E7: 1.0846
+iterations: 7, E10: 1.3382
+iterations: 7, E12: 2.8787
+iterations: 7, E13: 2.6985
+iterations: 7, Fidelity of excited state 7: 0.8272
+iterations: 7, Fidelity of excited state 10: 0.7470
+iterations: 7, Fidelity of excited state 12: 0.6753
+iterations: 7, Fidelity of excited state 13: 0.6616
+iterations: 8, loss: 17.6190
+iterations: 8, NumOp_psi7: 3.0000
+iterations: 8, NumOp_psi10: 3.0000
+iterations: 8, NumOp_psi12: 3.0000
+iterations: 8, NumOp_psi13: 3.0000
+iterations: 8, Sz_psi7: -0.3583
+iterations: 8, Sz_psi10: 0.2843
+iterations: 8, Sz_psi12: -0.1597
+iterations: 8, Sz_psi13: 0.2338
+iterations: 8, E7: 1.1060
+iterations: 8, E10: 1.4541
+iterations: 8, E12: 2.8703
+iterations: 8, E13: 2.5696
+iterations: 8, Fidelity of excited state 7: 0.8150
+iterations: 8, Fidelity of excited state 10: 0.6856
+iterations: 8, Fidelity of excited state 12: 0.5979
+iterations: 8, Fidelity of excited state 13: 0.5544
+iterations: 9, loss: 17.4917
+iterations: 9, NumOp_psi7: 3.0000
+iterations: 9, NumOp_psi10: 3.0000
+iterations: 9, NumOp_psi12: 3.0000
+iterations: 9, NumOp_psi13: 3.0000
+iterations: 9, Sz_psi7: -0.3603
+iterations: 9, Sz_psi10: 0.2835
+iterations: 9, Sz_psi12: -0.1895
+iterations: 9, Sz_psi13: 0.2663
+iterations: 9, E7: 1.0907
+iterations: 9, E10: 1.4276
+iterations: 9, E12: 2.8983
+iterations: 9, E13: 2.5833
+iterations: 9, Fidelity of excited state 7: 0.8259
+iterations: 9, Fidelity of excited state 10: 0.6593
+iterations: 9, Fidelity of excited state 12: 0.6606
+iterations: 9, Fidelity of excited state 13: 0.5763
+iterations: 10, loss: 17.1118
+iterations: 10, NumOp_psi7: 3.0000
+iterations: 10, NumOp_psi10: 3.0000
+iterations: 10, NumOp_psi12: 3.0000
+iterations: 10, NumOp_psi13: 3.0000
+iterations: 10, Sz_psi7: -0.3485
+iterations: 10, Sz_psi10: 0.2903
+iterations: 10, Sz_psi12: -0.2445
+iterations: 10, Sz_psi13: 0.3028
+iterations: 10, E7: 1.0516
+iterations: 10, E10: 1.3236
+iterations: 10, E12: 2.9165
+iterations: 10, E13: 2.7082
+iterations: 10, Fidelity of excited state 7: 0.8267
+iterations: 10, Fidelity of excited state 10: 0.6775
+iterations: 10, Fidelity of excited state 12: 0.7373
+iterations: 10, Fidelity of excited state 13: 0.6623
+iterations: 11, loss: 16.7755
+iterations: 11, NumOp_psi7: 3.0000
+iterations: 11, NumOp_psi10: 3.0000
+iterations: 11, NumOp_psi12: 3.0000
+iterations: 11, NumOp_psi13: 3.0000
+iterations: 11, Sz_psi7: -0.3322
+iterations: 11, Sz_psi10: 0.3008
+iterations: 11, Sz_psi12: -0.2919
+iterations: 11, Sz_psi13: 0.3233
+iterations: 11, E7: 1.0263
+iterations: 11, E10: 1.2260
+iterations: 11, E12: 2.8951
+iterations: 11, E13: 2.8526
+iterations: 11, Fidelity of excited state 7: 0.8232
+iterations: 11, Fidelity of excited state 10: 0.7296
+iterations: 11, Fidelity of excited state 12: 0.7736
+iterations: 11, Fidelity of excited state 13: 0.7507
+iterations: 12, loss: 16.5461
+iterations: 12, NumOp_psi7: 3.0000
+iterations: 12, NumOp_psi10: 3.0000
+iterations: 12, NumOp_psi12: 3.0000
+iterations: 12, NumOp_psi13: 3.0000
+iterations: 12, Sz_psi7: -0.3595
+iterations: 12, Sz_psi10: 0.3379
+iterations: 12, Sz_psi12: -0.3051
+iterations: 12, Sz_psi13: 0.3266
+iterations: 12, E7: 1.0438
+iterations: 12, E10: 1.1441
+iterations: 12, E12: 2.8627
+iterations: 12, E13: 2.9494
+iterations: 12, Fidelity of excited state 7: 0.8444
+iterations: 12, Fidelity of excited state 10: 0.8086
+iterations: 12, Fidelity of excited state 12: 0.7728
+iterations: 12, Fidelity of excited state 13: 0.8053
+iterations: 13, loss: 16.4491
+iterations: 13, NumOp_psi7: 3.0000
+iterations: 13, NumOp_psi10: 3.0000
+iterations: 13, NumOp_psi12: 3.0000
+iterations: 13, NumOp_psi13: 3.0000
+iterations: 13, Sz_psi7: -0.4174
+iterations: 13, Sz_psi10: 0.3869
+iterations: 13, Sz_psi12: -0.2916
+iterations: 13, Sz_psi13: 0.3221
+iterations: 13, E7: 1.0725
+iterations: 13, E10: 1.0980
+iterations: 13, E12: 2.8514
+iterations: 13, E13: 2.9781
+iterations: 13, Fidelity of excited state 7: 0.8882
+iterations: 13, Fidelity of excited state 10: 0.8811
+iterations: 13, Fidelity of excited state 12: 0.7596
+iterations: 13, Fidelity of excited state 13: 0.8210
+iterations: 14, loss: 16.4503
+iterations: 14, NumOp_psi7: 3.0000
+iterations: 14, NumOp_psi10: 3.0000
+iterations: 14, NumOp_psi12: 3.0000
+iterations: 14, NumOp_psi13: 3.0000
+iterations: 14, Sz_psi7: -0.4636
+iterations: 14, Sz_psi10: 0.4155
+iterations: 14, Sz_psi12: -0.2740
+iterations: 14, Sz_psi13: 0.3221
+iterations: 14, E7: 1.0692
+iterations: 14, E10: 1.1089
+iterations: 14, E12: 2.8642
+iterations: 14, E13: 2.9576
+iterations: 14, Fidelity of excited state 7: 0.9347
+iterations: 14, Fidelity of excited state 10: 0.9152
+iterations: 14, Fidelity of excited state 12: 0.7520
+iterations: 14, Fidelity of excited state 13: 0.8139
+iterations: 15, loss: 16.4435
+iterations: 15, NumOp_psi7: 3.0000
+iterations: 15, NumOp_psi10: 3.0000
+iterations: 15, NumOp_psi12: 3.0000
+iterations: 15, NumOp_psi13: 3.0000
+iterations: 15, Sz_psi7: -0.4849
+iterations: 15, Sz_psi10: 0.4225
+iterations: 15, Sz_psi12: -0.2689
+iterations: 15, Sz_psi13: 0.3313
+iterations: 15, E7: 1.0370
+iterations: 15, E10: 1.1438
+iterations: 15, E12: 2.8909
+iterations: 15, E13: 2.9283
+iterations: 15, Fidelity of excited state 7: 0.9699
+iterations: 15, Fidelity of excited state 10: 0.9182
+iterations: 15, Fidelity of excited state 12: 0.7594
+iterations: 15, Fidelity of excited state 13: 0.8061
+iterations: 16, loss: 16.3855
+iterations: 16, NumOp_psi7: 3.0000
+iterations: 16, NumOp_psi10: 3.0000
+iterations: 16, NumOp_psi12: 3.0000
+iterations: 16, NumOp_psi13: 3.0000
+iterations: 16, Sz_psi7: -0.4868
+iterations: 16, Sz_psi10: 0.4265
+iterations: 16, Sz_psi12: -0.2857
+iterations: 16, Sz_psi13: 0.3459
+iterations: 16, E7: 1.0106
+iterations: 16, E10: 1.1508
+iterations: 16, E12: 2.9197
+iterations: 16, E13: 2.9189
+iterations: 16, Fidelity of excited state 7: 0.9839
+iterations: 16, Fidelity of excited state 10: 0.9169
+iterations: 16, Fidelity of excited state 12: 0.7838
+iterations: 16, Fidelity of excited state 13: 0.8120
+iterations: 17, loss: 16.3123
+iterations: 17, NumOp_psi7: 3.0000
+iterations: 17, NumOp_psi10: 3.0000
+iterations: 17, NumOp_psi12: 3.0000
+iterations: 17, NumOp_psi13: 3.0000
+iterations: 17, Sz_psi7: -0.4754
+iterations: 17, Sz_psi10: 0.4381
+iterations: 17, Sz_psi12: -0.3235
+iterations: 17, Sz_psi13: 0.3608
+iterations: 17, E7: 1.0150
+iterations: 17, E10: 1.1142
+iterations: 17, E12: 2.9434
+iterations: 17, E13: 2.9274
+iterations: 17, Fidelity of excited state 7: 0.9753
+iterations: 17, Fidelity of excited state 10: 0.9272
+iterations: 17, Fidelity of excited state 12: 0.8213
+iterations: 17, Fidelity of excited state 13: 0.8314
+iterations: 18, loss: 16.2619
+iterations: 18, NumOp_psi7: 3.0000
+iterations: 18, NumOp_psi10: 3.0000
+iterations: 18, NumOp_psi12: 3.0000
+iterations: 18, NumOp_psi13: 3.0000
+iterations: 18, Sz_psi7: -0.4617
+iterations: 18, Sz_psi10: 0.4552
+iterations: 18, Sz_psi12: -0.3697
+iterations: 18, Sz_psi13: 0.3762
+iterations: 18, E7: 1.0398
+iterations: 18, E10: 1.0604
+iterations: 18, E12: 2.9607
+iterations: 18, E13: 2.9392
+iterations: 18, Fidelity of excited state 7: 0.9588
+iterations: 18, Fidelity of excited state 10: 0.9474
+iterations: 18, Fidelity of excited state 12: 0.8628
+iterations: 18, Fidelity of excited state 13: 0.8576
+iterations: 19, loss: 16.2092
+iterations: 19, NumOp_psi7: 3.0000
+iterations: 19, NumOp_psi10: 3.0000
+iterations: 19, NumOp_psi12: 3.0000
+iterations: 19, NumOp_psi13: 3.0000
+iterations: 19, Sz_psi7: -0.4610
+iterations: 19, Sz_psi10: 0.4730
+iterations: 19, Sz_psi12: -0.4092
+iterations: 19, Sz_psi13: 0.3971
+iterations: 19, E7: 1.0523
+iterations: 19, E10: 1.0216
+iterations: 19, E12: 2.9736
+iterations: 19, E13: 2.9524
+iterations: 19, Fidelity of excited state 7: 0.9558
+iterations: 19, Fidelity of excited state 10: 0.9689
+iterations: 19, Fidelity of excited state 12: 0.8996
+iterations: 19, Fidelity of excited state 13: 0.8877
+iterations: 20, loss: 16.1318
+iterations: 20, NumOp_psi7: 3.0000
+iterations: 20, NumOp_psi10: 3.0000
+iterations: 20, NumOp_psi12: 3.0000
+iterations: 20, NumOp_psi13: 3.0000
+iterations: 20, Sz_psi7: -0.4759
+iterations: 20, Sz_psi10: 0.4878
+iterations: 20, Sz_psi12: -0.4350
+iterations: 20, Sz_psi13: 0.4231
+iterations: 20, E7: 1.0386
+iterations: 20, E10: 1.0078
+iterations: 20, E12: 2.9834
+iterations: 20, E13: 2.9703
+iterations: 20, Fidelity of excited state 7: 0.9709
+iterations: 20, Fidelity of excited state 10: 0.9851
+iterations: 20, Fidelity of excited state 12: 0.9269
+iterations: 20, Fidelity of excited state 13: 0.9182
+iterations: 21, loss: 16.0705
+iterations: 21, NumOp_psi7: 3.0000
+iterations: 21, NumOp_psi10: 3.0000
+iterations: 21, NumOp_psi12: 3.0000
+iterations: 21, NumOp_psi13: 3.0000
+iterations: 21, Sz_psi7: -0.4921
+iterations: 21, Sz_psi10: 0.4953
+iterations: 21, Sz_psi12: -0.4457
+iterations: 21, Sz_psi13: 0.4425
+iterations: 21, E7: 1.0173
+iterations: 21, E10: 1.0100
+iterations: 21, E12: 2.9891
+iterations: 21, E13: 2.9836
+iterations: 21, Fidelity of excited state 7: 0.9886
+iterations: 21, Fidelity of excited state 10: 0.9923
+iterations: 21, Fidelity of excited state 12: 0.9412
+iterations: 21, Fidelity of excited state 13: 0.9385
+iterations: 22, loss: 16.0703
+iterations: 22, NumOp_psi7: 3.0000
+iterations: 22, NumOp_psi10: 3.0000
+iterations: 22, NumOp_psi12: 3.0000
+iterations: 22, NumOp_psi13: 3.0000
+iterations: 22, Sz_psi7: -0.4957
+iterations: 22, Sz_psi10: 0.4939
+iterations: 22, Sz_psi12: -0.4419
+iterations: 22, Sz_psi13: 0.4437
+iterations: 22, E7: 1.0117
+iterations: 22, E10: 1.0179
+iterations: 22, E12: 2.9893
+iterations: 22, E13: 2.9811
+iterations: 22, Fidelity of excited state 7: 0.9941
+iterations: 22, Fidelity of excited state 10: 0.9910
+iterations: 22, Fidelity of excited state 12: 0.9407
+iterations: 22, Fidelity of excited state 13: 0.9389
+iterations: 23, loss: 16.1197
+iterations: 23, NumOp_psi7: 3.0000
+iterations: 23, NumOp_psi10: 3.0000
+iterations: 23, NumOp_psi12: 3.0000
+iterations: 23, NumOp_psi13: 3.0000
+iterations: 23, Sz_psi7: -0.4887
+iterations: 23, Sz_psi10: 0.4872
+iterations: 23, Sz_psi12: -0.4275
+iterations: 23, Sz_psi13: 0.4290
+iterations: 23, E7: 1.0217
+iterations: 23, E10: 1.0280
+iterations: 23, E12: 2.9819
+iterations: 23, E13: 2.9683
+iterations: 23, Fidelity of excited state 7: 0.9884
+iterations: 23, Fidelity of excited state 10: 0.9849
+iterations: 23, Fidelity of excited state 12: 0.9271
+iterations: 23, Fidelity of excited state 13: 0.9233
+iterations: 24, loss: 16.1628
+iterations: 24, NumOp_psi7: 3.0000
+iterations: 24, NumOp_psi10: 3.0000
+iterations: 24, NumOp_psi12: 3.0000
+iterations: 24, NumOp_psi13: 3.0000
+iterations: 24, Sz_psi7: -0.4839
+iterations: 24, Sz_psi10: 0.4808
+iterations: 24, Sz_psi12: -0.4103
+iterations: 24, Sz_psi13: 0.4134
+iterations: 24, E7: 1.0298
+iterations: 24, E10: 1.0398
+iterations: 24, E12: 2.9681
+iterations: 24, E13: 2.9623
+iterations: 24, Fidelity of excited state 7: 0.9839
+iterations: 24, Fidelity of excited state 10: 0.9787
+iterations: 24, Fidelity of excited state 12: 0.9084
+iterations: 24, Fidelity of excited state 13: 0.9074
+iterations: 25, loss: 16.1600
+iterations: 25, NumOp_psi7: 3.0000
+iterations: 25, NumOp_psi10: 3.0000
+iterations: 25, NumOp_psi12: 3.0000
+iterations: 25, NumOp_psi13: 3.0000
+iterations: 25, Sz_psi7: -0.4876
+iterations: 25, Sz_psi10: 0.4773
+iterations: 25, Sz_psi12: -0.3992
+iterations: 25, Sz_psi13: 0.4095
+iterations: 25, E7: 1.0253
+iterations: 25, E10: 1.0494
+iterations: 25, E12: 2.9546
+iterations: 25, E13: 2.9707
+iterations: 25, Fidelity of excited state 7: 0.9869
+iterations: 25, Fidelity of excited state 10: 0.9749
+iterations: 25, Fidelity of excited state 12: 0.8957
+iterations: 25, Fidelity of excited state 13: 0.9041
+iterations: 26, loss: 16.1233
+iterations: 26, NumOp_psi7: 3.0000
+iterations: 26, NumOp_psi10: 3.0000
+iterations: 26, NumOp_psi12: 3.0000
+iterations: 26, NumOp_psi13: 3.0000
+iterations: 26, Sz_psi7: -0.4936
+iterations: 26, Sz_psi10: 0.4759
+iterations: 26, Sz_psi12: -0.4005
+iterations: 26, Sz_psi13: 0.4181
+iterations: 26, E7: 1.0144
+iterations: 26, E10: 1.0507
+iterations: 26, E12: 2.9504
+iterations: 26, E13: 2.9846
+iterations: 26, Fidelity of excited state 7: 0.9919
+iterations: 26, Fidelity of excited state 10: 0.9735
+iterations: 26, Fidelity of excited state 12: 0.8970
+iterations: 26, Fidelity of excited state 13: 0.9138
+iterations: 27, loss: 16.0842
+iterations: 27, NumOp_psi7: 3.0000
+iterations: 27, NumOp_psi10: 3.0000
+iterations: 27, NumOp_psi12: 3.0000
+iterations: 27, NumOp_psi13: 3.0000
+iterations: 27, Sz_psi7: -0.4925
+iterations: 27, Sz_psi10: 0.4757
+iterations: 27, Sz_psi12: -0.4150
+iterations: 27, Sz_psi13: 0.4319
+iterations: 27, E7: 1.0076
+iterations: 27, E10: 1.0403
+iterations: 27, E12: 2.9597
+iterations: 27, E13: 2.9923
+iterations: 27, Fidelity of excited state 7: 0.9907
+iterations: 27, Fidelity of excited state 10: 0.9737
+iterations: 27, Fidelity of excited state 12: 0.9132
+iterations: 27, Fidelity of excited state 13: 0.9293
+iterations: 28, loss: 16.0605
+iterations: 28, NumOp_psi7: 3.0000
+iterations: 28, NumOp_psi10: 3.0000
+iterations: 28, NumOp_psi12: 3.0000
+iterations: 28, NumOp_psi13: 3.0000
+iterations: 28, Sz_psi7: -0.4827
+iterations: 28, Sz_psi10: 0.4754
+iterations: 28, Sz_psi12: -0.4377
+iterations: 28, Sz_psi13: 0.4450
+iterations: 28, E7: 1.0079
+iterations: 28, E10: 1.0226
+iterations: 28, E12: 2.9777
+iterations: 28, E13: 2.9917
+iterations: 28, Fidelity of excited state 7: 0.9817
+iterations: 28, Fidelity of excited state 10: 0.9740
+iterations: 28, Fidelity of excited state 12: 0.9374
+iterations: 28, Fidelity of excited state 13: 0.9441
+iterations: 29, loss: 16.0500
+iterations: 29, NumOp_psi7: 3.0000
+iterations: 29, NumOp_psi10: 3.0000
+iterations: 29, NumOp_psi12: 3.0000
+iterations: 29, NumOp_psi13: 3.0000
+iterations: 29, Sz_psi7: -0.4710
+iterations: 29, Sz_psi10: 0.4737
+iterations: 29, Sz_psi12: -0.4597
+iterations: 29, Sz_psi13: 0.4569
+iterations: 29, E7: 1.0103
+iterations: 29, E10: 1.0077
+iterations: 29, E12: 2.9933
+iterations: 29, E13: 2.9887
+iterations: 29, Fidelity of excited state 7: 0.9708
+iterations: 29, Fidelity of excited state 10: 0.9726
+iterations: 29, Fidelity of excited state 12: 0.9595
+iterations: 29, Fidelity of excited state 13: 0.9567
+iterations: 30, loss: 16.0448
+iterations: 30, NumOp_psi7: 3.0000
+iterations: 30, NumOp_psi10: 3.0000
+iterations: 30, NumOp_psi12: 3.0000
+iterations: 30, NumOp_psi13: 3.0000
+iterations: 30, Sz_psi7: -0.4649
+iterations: 30, Sz_psi10: 0.4694
+iterations: 30, Sz_psi12: -0.4735
+iterations: 30, Sz_psi13: 0.4690
+iterations: 30, E7: 1.0099
+iterations: 30, E10: 1.0040
+iterations: 30, E12: 2.9969
+iterations: 30, E13: 2.9892
+iterations: 30, Fidelity of excited state 7: 0.9645
+iterations: 30, Fidelity of excited state 10: 0.9683
+iterations: 30, Fidelity of excited state 12: 0.9725
+iterations: 30, Fidelity of excited state 13: 0.9684
+iterations: 31, loss: 16.0436
+iterations: 31, NumOp_psi7: 3.0000
+iterations: 31, NumOp_psi10: 3.0000
+iterations: 31, NumOp_psi12: 3.0000
+iterations: 31, NumOp_psi13: 3.0000
+iterations: 31, Sz_psi7: -0.4658
+iterations: 31, Sz_psi10: 0.4631
+iterations: 31, Sz_psi12: -0.4778
+iterations: 31, Sz_psi13: 0.4805
+iterations: 31, E7: 1.0075
+iterations: 31, E10: 1.0120
+iterations: 31, E12: 2.9871
+iterations: 31, E13: 2.9934
+iterations: 31, Fidelity of excited state 7: 0.9642
+iterations: 31, Fidelity of excited state 10: 0.9622
+iterations: 31, Fidelity of excited state 12: 0.9761
+iterations: 31, Fidelity of excited state 13: 0.9794
+iterations: 32, loss: 16.0482
+iterations: 32, NumOp_psi7: 3.0000
+iterations: 32, NumOp_psi10: 3.0000
+iterations: 32, NumOp_psi12: 3.0000
+iterations: 32, NumOp_psi13: 3.0000
+iterations: 32, Sz_psi7: -0.4702
+iterations: 32, Sz_psi10: 0.4577
+iterations: 32, Sz_psi12: -0.4767
+iterations: 32, Sz_psi13: 0.4892
+iterations: 32, E7: 1.0058
+iterations: 32, E10: 1.0245
+iterations: 32, E12: 2.9717
+iterations: 32, E13: 2.9980
+iterations: 32, Fidelity of excited state 7: 0.9676
+iterations: 32, Fidelity of excited state 10: 0.9574
+iterations: 32, Fidelity of excited state 12: 0.9751
+iterations: 32, Fidelity of excited state 13: 0.9886
+iterations: 33, loss: 16.0555
+iterations: 33, NumOp_psi7: 3.0000
+iterations: 33, NumOp_psi10: 3.0000
+iterations: 33, NumOp_psi12: 3.0000
+iterations: 33, NumOp_psi13: 3.0000
+iterations: 33, Sz_psi7: -0.4751
+iterations: 33, Sz_psi10: 0.4569
+iterations: 33, Sz_psi12: -0.4763
+iterations: 33, Sz_psi13: 0.4944
+iterations: 33, E7: 1.0062
+iterations: 33, E10: 1.0334
+iterations: 33, E12: 2.9609
+iterations: 33, E13: 2.9995
+iterations: 33, Fidelity of excited state 7: 0.9721
+iterations: 33, Fidelity of excited state 10: 0.9569
+iterations: 33, Fidelity of excited state 12: 0.9750
+iterations: 33, Fidelity of excited state 13: 0.9944
+iterations: 34, loss: 16.0584
+iterations: 34, NumOp_psi7: 3.0000
+iterations: 34, NumOp_psi10: 3.0000
+iterations: 34, NumOp_psi12: 3.0000
+iterations: 34, NumOp_psi13: 3.0000
+iterations: 34, Sz_psi7: -0.4795
+iterations: 34, Sz_psi10: 0.4622
+iterations: 34, Sz_psi12: -0.4797
+iterations: 34, Sz_psi13: 0.4970
+iterations: 34, E7: 1.0077
+iterations: 34, E10: 1.0339
+iterations: 34, E12: 2.9606
+iterations: 34, E13: 2.9978
+iterations: 34, Fidelity of excited state 7: 0.9763
+iterations: 34, Fidelity of excited state 10: 0.9615
+iterations: 34, Fidelity of excited state 12: 0.9783
+iterations: 34, Fidelity of excited state 13: 0.9967
+iterations: 35, loss: 16.0514
+iterations: 35, NumOp_psi7: 3.0000
+iterations: 35, NumOp_psi10: 3.0000
+iterations: 35, NumOp_psi12: 3.0000
+iterations: 35, NumOp_psi13: 3.0000
+iterations: 35, Sz_psi7: -0.4835
+iterations: 35, Sz_psi10: 0.4716
+iterations: 35, Sz_psi12: -0.4864
+iterations: 35, Sz_psi13: 0.4983
+iterations: 35, E7: 1.0085
+iterations: 35, E10: 1.0261
+iterations: 35, E12: 2.9698
+iterations: 35, E13: 2.9956
+iterations: 35, Fidelity of excited state 7: 0.9801
+iterations: 35, Fidelity of excited state 10: 0.9701
+iterations: 35, Fidelity of excited state 12: 0.9844
+iterations: 35, Fidelity of excited state 13: 0.9972
+iterations: 36, loss: 16.0351
+iterations: 36, NumOp_psi7: 3.0000
+iterations: 36, NumOp_psi10: 3.0000
+iterations: 36, NumOp_psi12: 3.0000
+iterations: 36, NumOp_psi13: 3.0000
+iterations: 36, Sz_psi7: -0.4869
+iterations: 36, Sz_psi10: 0.4815
+iterations: 36, Sz_psi12: -0.4933
+iterations: 36, Sz_psi13: 0.4987
+iterations: 36, E7: 1.0074
+iterations: 36, E10: 1.0141
+iterations: 36, E12: 2.9829
+iterations: 36, E13: 2.9956
+iterations: 36, Fidelity of excited state 7: 0.9840
+iterations: 36, Fidelity of excited state 10: 0.9802
+iterations: 36, Fidelity of excited state 12: 0.9913
+iterations: 36, Fidelity of excited state 13: 0.9976
+iterations: 37, loss: 16.0176
+iterations: 37, NumOp_psi7: 3.0000
+iterations: 37, NumOp_psi10: 3.0000
+iterations: 37, NumOp_psi12: 3.0000
+iterations: 37, NumOp_psi13: 3.0000
+iterations: 37, Sz_psi7: -0.4897
+iterations: 37, Sz_psi10: 0.4889
+iterations: 37, Sz_psi12: -0.4976
+iterations: 37, Sz_psi13: 0.4984
+iterations: 37, E7: 1.0050
+iterations: 37, E10: 1.0040
+iterations: 37, E12: 2.9938
+iterations: 37, E13: 2.9972
+iterations: 37, Fidelity of excited state 7: 0.9881
+iterations: 37, Fidelity of excited state 10: 0.9884
+iterations: 37, Fidelity of excited state 12: 0.9963
+iterations: 37, Fidelity of excited state 13: 0.9980
+iterations: 38, loss: 16.0099
+iterations: 38, NumOp_psi7: 3.0000
+iterations: 38, NumOp_psi10: 3.0000
+iterations: 38, NumOp_psi12: 3.0000
+iterations: 38, NumOp_psi13: 3.0000
+iterations: 38, Sz_psi7: -0.4923
+iterations: 38, Sz_psi10: 0.4930
+iterations: 38, Sz_psi12: -0.4981
+iterations: 38, Sz_psi13: 0.4974
+iterations: 38, E7: 1.0028
+iterations: 38, E10: 1.0012
+iterations: 38, E12: 2.9988
+iterations: 38, E13: 2.9972
+iterations: 38, Fidelity of excited state 7: 0.9918
+iterations: 38, Fidelity of excited state 10: 0.9925
+iterations: 38, Fidelity of excited state 12: 0.9977
+iterations: 38, Fidelity of excited state 13: 0.9968
+iterations: 39, loss: 16.0135
+iterations: 39, NumOp_psi7: 3.0000
+iterations: 39, NumOp_psi10: 3.0000
+iterations: 39, NumOp_psi12: 3.0000
+iterations: 39, NumOp_psi13: 3.0000
+iterations: 39, Sz_psi7: -0.4949
+iterations: 39, Sz_psi10: 0.4948
+iterations: 39, Sz_psi12: -0.4956
+iterations: 39, Sz_psi13: 0.4957
+iterations: 39, E7: 1.0017
+iterations: 39, E10: 1.0049
+iterations: 39, E12: 2.9983
+iterations: 39, E13: 2.9951
+iterations: 39, Fidelity of excited state 7: 0.9947
+iterations: 39, Fidelity of excited state 10: 0.9931
+iterations: 39, Fidelity of excited state 12: 0.9954
+iterations: 39, Fidelity of excited state 13: 0.9938
+iterations: 40, loss: 16.0182
+iterations: 40, NumOp_psi7: 3.0000
+iterations: 40, NumOp_psi10: 3.0000
+iterations: 40, NumOp_psi12: 3.0000
+iterations: 40, NumOp_psi13: 3.0000
+iterations: 40, Sz_psi7: -0.4972
+iterations: 40, Sz_psi10: 0.4956
+iterations: 40, Sz_psi12: -0.4919
+iterations: 40, Sz_psi13: 0.4936
+iterations: 40, E7: 1.0013
+iterations: 40, E10: 1.0092
+iterations: 40, E12: 2.9957
+iterations: 40, E13: 2.9938
+iterations: 40, Fidelity of excited state 7: 0.9969
+iterations: 40, Fidelity of excited state 10: 0.9929
+iterations: 40, Fidelity of excited state 12: 0.9916
+iterations: 40, Fidelity of excited state 13: 0.9908
+iterations: 41, loss: 16.0153
+iterations: 41, NumOp_psi7: 3.0000
+iterations: 41, NumOp_psi10: 3.0000
+iterations: 41, NumOp_psi12: 3.0000
+iterations: 41, NumOp_psi13: 3.0000
+iterations: 41, Sz_psi7: -0.4988
+iterations: 41, Sz_psi10: 0.4960
+iterations: 41, Sz_psi12: -0.4888
+iterations: 41, Sz_psi13: 0.4917
+iterations: 41, E7: 1.0006
+iterations: 41, E10: 1.0096
+iterations: 41, E12: 2.9938
+iterations: 41, E13: 2.9959
+iterations: 41, Fidelity of excited state 7: 0.9985
+iterations: 41, Fidelity of excited state 10: 0.9941
+iterations: 41, Fidelity of excited state 12: 0.9886
+iterations: 41, Fidelity of excited state 13: 0.9897
+iterations: 42, loss: 16.0098
+iterations: 42, NumOp_psi7: 3.0000
+iterations: 42, NumOp_psi10: 3.0000
+iterations: 42, NumOp_psi12: 3.0000
+iterations: 42, NumOp_psi13: 3.0000
+iterations: 42, Sz_psi7: -0.4994
+iterations: 42, Sz_psi10: 0.4962
+iterations: 42, Sz_psi12: -0.4871
+iterations: 42, Sz_psi13: 0.4903
+iterations: 42, E7: 1.0005
+iterations: 42, E10: 1.0073
+iterations: 42, E12: 2.9931
+iterations: 42, E13: 2.9990
+iterations: 42, Fidelity of excited state 7: 0.9992
+iterations: 42, Fidelity of excited state 10: 0.9957
+iterations: 42, Fidelity of excited state 12: 0.9869
+iterations: 42, Fidelity of excited state 13: 0.9898
+iterations: 43, loss: 16.0110
+iterations: 43, NumOp_psi7: 3.0000
+iterations: 43, NumOp_psi10: 3.0000
+iterations: 43, NumOp_psi12: 3.0000
+iterations: 43, NumOp_psi13: 3.0000
+iterations: 43, Sz_psi7: -0.4991
+iterations: 43, Sz_psi10: 0.4963
+iterations: 43, Sz_psi12: -0.4867
+iterations: 43, Sz_psi13: 0.4895
+iterations: 43, E7: 1.0016
+iterations: 43, E10: 1.0066
+iterations: 43, E12: 2.9926
+iterations: 43, E13: 2.9992
+iterations: 43, Fidelity of excited state 7: 0.9986
+iterations: 43, Fidelity of excited state 10: 0.9960
+iterations: 43, Fidelity of excited state 12: 0.9862
+iterations: 43, Fidelity of excited state 13: 0.9894
+iterations: 44, loss: 16.0175
+iterations: 44, NumOp_psi7: 3.0000
+iterations: 44, NumOp_psi10: 3.0000
+iterations: 44, NumOp_psi12: 3.0000
+iterations: 44, NumOp_psi13: 3.0000
+iterations: 44, Sz_psi7: -0.4985
+iterations: 44, Sz_psi10: 0.4963
+iterations: 44, Sz_psi12: -0.4871
+iterations: 44, Sz_psi13: 0.4893
+iterations: 44, E7: 1.0030
+iterations: 44, E10: 1.0079
+iterations: 44, E12: 2.9923
+iterations: 44, E13: 2.9968
+iterations: 44, Fidelity of excited state 7: 0.9976
+iterations: 44, Fidelity of excited state 10: 0.9951
+iterations: 44, Fidelity of excited state 12: 0.9862
+iterations: 44, Fidelity of excited state 13: 0.9883
+iterations: 45, loss: 16.0196
+iterations: 45, NumOp_psi7: 3.0000
+iterations: 45, NumOp_psi10: 3.0000
+iterations: 45, NumOp_psi12: 3.0000
+iterations: 45, NumOp_psi13: 3.0000
+iterations: 45, Sz_psi7: -0.4983
+iterations: 45, Sz_psi10: 0.4966
+iterations: 45, Sz_psi12: -0.4883
+iterations: 45, Sz_psi13: 0.4900
+iterations: 45, E7: 1.0032
+iterations: 45, E10: 1.0083
+iterations: 45, E12: 2.9931
+iterations: 45, E13: 2.9954
+iterations: 45, Fidelity of excited state 7: 0.9973
+iterations: 45, Fidelity of excited state 10: 0.9947
+iterations: 45, Fidelity of excited state 12: 0.9873
+iterations: 45, Fidelity of excited state 13: 0.9883
+iterations: 46, loss: 16.0148
+iterations: 46, NumOp_psi7: 3.0000
+iterations: 46, NumOp_psi10: 3.0000
+iterations: 46, NumOp_psi12: 3.0000
+iterations: 46, NumOp_psi13: 3.0000
+iterations: 46, Sz_psi7: -0.4986
+iterations: 46, Sz_psi10: 0.4972
+iterations: 46, Sz_psi12: -0.4901
+iterations: 46, Sz_psi13: 0.4915
+iterations: 46, E7: 1.0024
+iterations: 46, E10: 1.0064
+iterations: 46, E12: 2.9945
+iterations: 46, E13: 2.9967
+iterations: 46, Fidelity of excited state 7: 0.9978
+iterations: 46, Fidelity of excited state 10: 0.9958
+iterations: 46, Fidelity of excited state 12: 0.9893
+iterations: 46, Fidelity of excited state 13: 0.9902
+iterations: 47, loss: 16.0096
+iterations: 47, NumOp_psi7: 3.0000
+iterations: 47, NumOp_psi10: 3.0000
+iterations: 47, NumOp_psi12: 3.0000
+iterations: 47, NumOp_psi13: 3.0000
+iterations: 47, Sz_psi7: -0.4990
+iterations: 47, Sz_psi10: 0.4981
+iterations: 47, Sz_psi12: -0.4925
+iterations: 47, Sz_psi13: 0.4934
+iterations: 47, E7: 1.0022
+iterations: 47, E10: 1.0037
+iterations: 47, E12: 2.9956
+iterations: 47, E13: 2.9986
+iterations: 47, Fidelity of excited state 7: 0.9982
+iterations: 47, Fidelity of excited state 10: 0.9975
+iterations: 47, Fidelity of excited state 12: 0.9916
+iterations: 47, Fidelity of excited state 13: 0.9929
+iterations: 48, loss: 16.0083
+iterations: 48, NumOp_psi7: 3.0000
+iterations: 48, NumOp_psi10: 3.0000
+iterations: 48, NumOp_psi12: 3.0000
+iterations: 48, NumOp_psi13: 3.0000
+iterations: 48, Sz_psi7: -0.4994
+iterations: 48, Sz_psi10: 0.4988
+iterations: 48, Sz_psi12: -0.4947
+iterations: 48, Sz_psi13: 0.4952
+iterations: 48, E7: 1.0027
+iterations: 48, E10: 1.0021
+iterations: 48, E12: 2.9960
+iterations: 48, E13: 2.9992
+iterations: 48, Fidelity of excited state 7: 0.9982
+iterations: 48, Fidelity of excited state 10: 0.9986
+iterations: 48, Fidelity of excited state 12: 0.9935
+iterations: 48, Fidelity of excited state 13: 0.9951
+iterations: 49, loss: 16.0077
+iterations: 49, NumOp_psi7: 3.0000
+iterations: 49, NumOp_psi10: 3.0000
+iterations: 49, NumOp_psi12: 3.0000
+iterations: 49, NumOp_psi13: 3.0000
+iterations: 49, Sz_psi7: -0.4995
+iterations: 49, Sz_psi10: 0.4993
+iterations: 49, Sz_psi12: -0.4964
+iterations: 49, Sz_psi13: 0.4966
+iterations: 49, E7: 1.0027
+iterations: 49, E10: 1.0014
+iterations: 49, E12: 2.9968
+iterations: 49, E13: 2.9991
+iterations: 49, Fidelity of excited state 7: 0.9984
+iterations: 49, Fidelity of excited state 10: 0.9991
+iterations: 49, Fidelity of excited state 12: 0.9952
+iterations: 49, Fidelity of excited state 13: 0.9964
+iterations: 50, loss: 16.0046
+iterations: 50, NumOp_psi7: 3.0000
+iterations: 50, NumOp_psi10: 3.0000
+iterations: 50, NumOp_psi12: 3.0000
+iterations: 50, NumOp_psi13: 3.0000
+iterations: 50, Sz_psi7: -0.4995
+iterations: 50, Sz_psi10: 0.4994
+iterations: 50, Sz_psi12: -0.4971
+iterations: 50, Sz_psi13: 0.4972
+iterations: 50, E7: 1.0015
+iterations: 50, E10: 1.0008
+iterations: 50, E12: 2.9984
+iterations: 50, E13: 2.9993
+iterations: 50, Fidelity of excited state 7: 0.9989
+iterations: 50, Fidelity of excited state 10: 0.9993
+iterations: 50, Fidelity of excited state 12: 0.9966
+iterations: 50, Fidelity of excited state 13: 0.9970
+iterations: 51, loss: 16.0014
+iterations: 51, NumOp_psi7: 3.0000
+iterations: 51, NumOp_psi10: 3.0000
+iterations: 51, NumOp_psi12: 3.0000
+iterations: 51, NumOp_psi13: 3.0000
+iterations: 51, Sz_psi7: -0.4993
+iterations: 51, Sz_psi10: 0.4992
+iterations: 51, Sz_psi12: -0.4969
+iterations: 51, Sz_psi13: 0.4969
+iterations: 51, E7: 1.0004
+iterations: 51, E10: 1.0003
+iterations: 51, E12: 2.9995
+iterations: 51, E13: 2.9997
+iterations: 51, Fidelity of excited state 7: 0.9992
+iterations: 51, Fidelity of excited state 10: 0.9992
+iterations: 51, Fidelity of excited state 12: 0.9968
+iterations: 51, Fidelity of excited state 13: 0.9969
+iterations: 52, loss: 16.0016
+iterations: 52, NumOp_psi7: 3.0000
+iterations: 52, NumOp_psi10: 3.0000
+iterations: 52, NumOp_psi12: 3.0000
+iterations: 52, NumOp_psi13: 3.0000
+iterations: 52, Sz_psi7: -0.4989
+iterations: 52, Sz_psi10: 0.4988
+iterations: 52, Sz_psi12: -0.4960
+iterations: 52, Sz_psi13: 0.4961
+iterations: 52, E7: 1.0005
+iterations: 52, E10: 1.0004
+iterations: 52, E12: 2.9993
+iterations: 52, E13: 2.9998
+iterations: 52, Fidelity of excited state 7: 0.9987
+iterations: 52, Fidelity of excited state 10: 0.9987
+iterations: 52, Fidelity of excited state 12: 0.9958
+iterations: 52, Fidelity of excited state 13: 0.9960
+iterations: 53, loss: 16.0042
+iterations: 53, NumOp_psi7: 3.0000
+iterations: 53, NumOp_psi10: 3.0000
+iterations: 53, NumOp_psi12: 3.0000
+iterations: 53, NumOp_psi13: 3.0000
+iterations: 53, Sz_psi7: -0.4984
+iterations: 53, Sz_psi10: 0.4982
+iterations: 53, Sz_psi12: -0.4949
+iterations: 53, Sz_psi13: 0.4951
+iterations: 53, E7: 1.0014
+iterations: 53, E10: 1.0009
+iterations: 53, E12: 2.9982
+iterations: 53, E13: 2.9995
+iterations: 53, Fidelity of excited state 7: 0.9978
+iterations: 53, Fidelity of excited state 10: 0.9981
+iterations: 53, Fidelity of excited state 12: 0.9943
+iterations: 53, Fidelity of excited state 13: 0.9949
+iterations: 54, loss: 16.0055
+iterations: 54, NumOp_psi7: 3.0000
+iterations: 54, NumOp_psi10: 3.0000
+iterations: 54, NumOp_psi12: 3.0000
+iterations: 54, NumOp_psi13: 3.0000
+iterations: 54, Sz_psi7: -0.4981
+iterations: 54, Sz_psi10: 0.4977
+iterations: 54, Sz_psi12: -0.4939
+iterations: 54, Sz_psi13: 0.4944
+iterations: 54, E7: 1.0018
+iterations: 54, E10: 1.0014
+iterations: 54, E12: 2.9973
+iterations: 54, E13: 2.9995
+iterations: 54, Fidelity of excited state 7: 0.9974
+iterations: 54, Fidelity of excited state 10: 0.9976
+iterations: 54, Fidelity of excited state 12: 0.9931
+iterations: 54, Fidelity of excited state 13: 0.9942
+iterations: 55, loss: 16.0049
+iterations: 55, NumOp_psi7: 3.0000
+iterations: 55, NumOp_psi10: 3.0000
+iterations: 55, NumOp_psi12: 3.0000
+iterations: 55, NumOp_psi13: 3.0000
+iterations: 55, Sz_psi7: -0.4983
+iterations: 55, Sz_psi10: 0.4975
+iterations: 55, Sz_psi12: -0.4932
+iterations: 55, Sz_psi13: 0.4939
+iterations: 55, E7: 1.0012
+iterations: 55, E10: 1.0020
+iterations: 55, E12: 2.9972
+iterations: 55, E13: 2.9996
+iterations: 55, Fidelity of excited state 7: 0.9978
+iterations: 55, Fidelity of excited state 10: 0.9974
+iterations: 55, Fidelity of excited state 12: 0.9926
+iterations: 55, Fidelity of excited state 13: 0.9938
+iterations: 56, loss: 16.0043
+iterations: 56, NumOp_psi7: 3.0000
+iterations: 56, NumOp_psi10: 3.0000
+iterations: 56, NumOp_psi12: 3.0000
+iterations: 56, NumOp_psi13: 3.0000
+iterations: 56, Sz_psi7: -0.4987
+iterations: 56, Sz_psi10: 0.4977
+iterations: 56, Sz_psi12: -0.4926
+iterations: 56, Sz_psi13: 0.4936
+iterations: 56, E7: 1.0004
+iterations: 56, E10: 1.0028
+iterations: 56, E12: 2.9973
+iterations: 56, E13: 2.9995
+iterations: 56, Fidelity of excited state 7: 0.9985
+iterations: 56, Fidelity of excited state 10: 0.9974
+iterations: 56, Fidelity of excited state 12: 0.9924
+iterations: 56, Fidelity of excited state 13: 0.9934
+iterations: 57, loss: 16.0045
+iterations: 57, NumOp_psi7: 3.0000
+iterations: 57, NumOp_psi10: 3.0000
+iterations: 57, NumOp_psi12: 3.0000
+iterations: 57, NumOp_psi13: 3.0000
+iterations: 57, Sz_psi7: -0.4991
+iterations: 57, Sz_psi10: 0.4980
+iterations: 57, Sz_psi12: -0.4920
+iterations: 57, Sz_psi13: 0.4931
+iterations: 57, E7: 1.0002
+iterations: 57, E10: 1.0031
+iterations: 57, E12: 2.9975
+iterations: 57, E13: 2.9992
+iterations: 57, Fidelity of excited state 7: 0.9990
+iterations: 57, Fidelity of excited state 10: 0.9976
+iterations: 57, Fidelity of excited state 12: 0.9919
+iterations: 57, Fidelity of excited state 13: 0.9927
+iterations: 58, loss: 16.0045
+iterations: 58, NumOp_psi7: 3.0000
+iterations: 58, NumOp_psi10: 3.0000
+iterations: 58, NumOp_psi12: 3.0000
+iterations: 58, NumOp_psi13: 3.0000
+iterations: 58, Sz_psi7: -0.4992
+iterations: 58, Sz_psi10: 0.4984
+iterations: 58, Sz_psi12: -0.4915
+iterations: 58, Sz_psi13: 0.4923
+iterations: 58, E7: 1.0004
+iterations: 58, E10: 1.0026
+iterations: 58, E12: 2.9979
+iterations: 58, E13: 2.9991
+iterations: 58, Fidelity of excited state 7: 0.9992
+iterations: 58, Fidelity of excited state 10: 0.9981
+iterations: 58, Fidelity of excited state 12: 0.9914
+iterations: 58, Fidelity of excited state 13: 0.9920
+iterations: 59, loss: 16.0037
+iterations: 59, NumOp_psi7: 3.0000
+iterations: 59, NumOp_psi10: 3.0000
+iterations: 59, NumOp_psi12: 3.0000
+iterations: 59, NumOp_psi13: 3.0000
+iterations: 59, Sz_psi7: -0.4992
+iterations: 59, Sz_psi10: 0.4987
+iterations: 59, Sz_psi12: -0.4911
+iterations: 59, Sz_psi13: 0.4916
+iterations: 59, E7: 1.0006
+iterations: 59, E10: 1.0016
+iterations: 59, E12: 2.9984
+iterations: 59, E13: 2.9993
+iterations: 59, Fidelity of excited state 7: 0.9991
+iterations: 59, Fidelity of excited state 10: 0.9986
+iterations: 59, Fidelity of excited state 12: 0.9911
+iterations: 59, Fidelity of excited state 13: 0.9915
+iterations: 60, loss: 16.0025
+iterations: 60, NumOp_psi7: 3.0000
+iterations: 60, NumOp_psi10: 3.0000
+iterations: 60, NumOp_psi12: 3.0000
+iterations: 60, NumOp_psi13: 3.0000
+iterations: 60, Sz_psi7: -0.4991
+iterations: 60, Sz_psi10: 0.4987
+iterations: 60, Sz_psi12: -0.4911
+iterations: 60, Sz_psi13: 0.4915
+iterations: 60, E7: 1.0004
+iterations: 60, E10: 1.0011
+iterations: 60, E12: 2.9990
+iterations: 60, E13: 2.9995
+iterations: 60, Fidelity of excited state 7: 0.9990
+iterations: 60, Fidelity of excited state 10: 0.9987
+iterations: 60, Fidelity of excited state 12: 0.9911
+iterations: 60, Fidelity of excited state 13: 0.9914
+iterations: 61, loss: 16.0017
+iterations: 61, NumOp_psi7: 3.0000
+iterations: 61, NumOp_psi10: 3.0000
+iterations: 61, NumOp_psi12: 3.0000
+iterations: 61, NumOp_psi13: 3.0000
+iterations: 61, Sz_psi7: -0.4987
+iterations: 61, Sz_psi10: 0.4985
+iterations: 61, Sz_psi12: -0.4918
+iterations: 61, Sz_psi13: 0.4920
+iterations: 61, E7: 1.0001
+iterations: 61, E10: 1.0008
+iterations: 61, E12: 2.9994
+iterations: 61, E13: 2.9996
+iterations: 61, Fidelity of excited state 7: 0.9987
+iterations: 61, Fidelity of excited state 10: 0.9984
+iterations: 61, Fidelity of excited state 12: 0.9918
+iterations: 61, Fidelity of excited state 13: 0.9919
+iterations: 62, loss: 16.0014
+iterations: 62, NumOp_psi7: 3.0000
+iterations: 62, NumOp_psi10: 3.0000
+iterations: 62, NumOp_psi12: 3.0000
+iterations: 62, NumOp_psi13: 3.0000
+iterations: 62, Sz_psi7: -0.4981
+iterations: 62, Sz_psi10: 0.4980
+iterations: 62, Sz_psi12: -0.4929
+iterations: 62, Sz_psi13: 0.4929
+iterations: 62, E7: 1.0001
+iterations: 62, E10: 1.0005
+iterations: 62, E12: 2.9998
+iterations: 62, E13: 2.9996
+iterations: 62, Fidelity of excited state 7: 0.9981
+iterations: 62, Fidelity of excited state 10: 0.9979
+iterations: 62, Fidelity of excited state 12: 0.9929
+iterations: 62, Fidelity of excited state 13: 0.9928
+iterations: 63, loss: 16.0012
+iterations: 63, NumOp_psi7: 3.0000
+iterations: 63, NumOp_psi10: 3.0000
+iterations: 63, NumOp_psi12: 3.0000
+iterations: 63, NumOp_psi13: 3.0000
+iterations: 63, Sz_psi7: -0.4974
+iterations: 63, Sz_psi10: 0.4975
+iterations: 63, Sz_psi12: -0.4940
+iterations: 63, Sz_psi13: 0.4939
+iterations: 63, E7: 1.0003
+iterations: 63, E10: 1.0001
+iterations: 63, E12: 3.0000
+iterations: 63, E13: 2.9996
+iterations: 63, Fidelity of excited state 7: 0.9974
+iterations: 63, Fidelity of excited state 10: 0.9974
+iterations: 63, Fidelity of excited state 12: 0.9940
+iterations: 63, Fidelity of excited state 13: 0.9938
+iterations: 64, loss: 16.0010
+iterations: 64, NumOp_psi7: 3.0000
+iterations: 64, NumOp_psi10: 3.0000
+iterations: 64, NumOp_psi12: 3.0000
+iterations: 64, NumOp_psi13: 3.0000
+iterations: 64, Sz_psi7: -0.4970
+iterations: 64, Sz_psi10: 0.4971
+iterations: 64, Sz_psi12: -0.4948
+iterations: 64, Sz_psi13: 0.4947
+iterations: 64, E7: 1.0003
+iterations: 64, E10: 1.0000
+iterations: 64, E12: 2.9999
+iterations: 64, E13: 2.9997
+iterations: 64, Fidelity of excited state 7: 0.9970
+iterations: 64, Fidelity of excited state 10: 0.9971
+iterations: 64, Fidelity of excited state 12: 0.9948
+iterations: 64, Fidelity of excited state 13: 0.9947
+iterations: 65, loss: 16.0008
+iterations: 65, NumOp_psi7: 3.0000
+iterations: 65, NumOp_psi10: 3.0000
+iterations: 65, NumOp_psi12: 3.0000
+iterations: 65, NumOp_psi13: 3.0000
+iterations: 65, Sz_psi7: -0.4970
+iterations: 65, Sz_psi10: 0.4969
+iterations: 65, Sz_psi12: -0.4950
+iterations: 65, Sz_psi13: 0.4951
+iterations: 65, E7: 1.0001
+iterations: 65, E10: 1.0003
+iterations: 65, E12: 2.9997
+iterations: 65, E13: 2.9999
+iterations: 65, Fidelity of excited state 7: 0.9970
+iterations: 65, Fidelity of excited state 10: 0.9969
+iterations: 65, Fidelity of excited state 12: 0.9950
+iterations: 65, Fidelity of excited state 13: 0.9951
+iterations: 66, loss: 16.0012
+iterations: 66, NumOp_psi7: 3.0000
+iterations: 66, NumOp_psi10: 3.0000
+iterations: 66, NumOp_psi12: 3.0000
+iterations: 66, NumOp_psi13: 3.0000
+iterations: 66, Sz_psi7: -0.4972
+iterations: 66, Sz_psi10: 0.4969
+iterations: 66, Sz_psi12: -0.4948
+iterations: 66, Sz_psi13: 0.4951
+iterations: 66, E7: 1.0001
+iterations: 66, E10: 1.0008
+iterations: 66, E12: 2.9993
+iterations: 66, E13: 2.9998
+iterations: 66, Fidelity of excited state 7: 0.9972
+iterations: 66, Fidelity of excited state 10: 0.9969
+iterations: 66, Fidelity of excited state 12: 0.9948
+iterations: 66, Fidelity of excited state 13: 0.9950
+iterations: 67, loss: 16.0017
+iterations: 67, NumOp_psi7: 3.0000
+iterations: 67, NumOp_psi10: 3.0000
+iterations: 67, NumOp_psi12: 3.0000
+iterations: 67, NumOp_psi13: 3.0000
+iterations: 67, Sz_psi7: -0.4973
+iterations: 67, Sz_psi10: 0.4969
+iterations: 67, Sz_psi12: -0.4944
+iterations: 67, Sz_psi13: 0.4948
+iterations: 67, E7: 1.0002
+iterations: 67, E10: 1.0010
+iterations: 67, E12: 2.9990
+iterations: 67, E13: 2.9998
+iterations: 67, Fidelity of excited state 7: 0.9973
+iterations: 67, Fidelity of excited state 10: 0.9969
+iterations: 67, Fidelity of excited state 12: 0.9944
+iterations: 67, Fidelity of excited state 13: 0.9948
+iterations: 68, loss: 16.0019
+iterations: 68, NumOp_psi7: 3.0000
+iterations: 68, NumOp_psi10: 3.0000
+iterations: 68, NumOp_psi12: 3.0000
+iterations: 68, NumOp_psi13: 3.0000
+iterations: 68, Sz_psi7: -0.4973
+iterations: 68, Sz_psi10: 0.4969
+iterations: 68, Sz_psi12: -0.4942
+iterations: 68, Sz_psi13: 0.4946
+iterations: 68, E7: 1.0003
+iterations: 68, E10: 1.0010
+iterations: 68, E12: 2.9990
+iterations: 68, E13: 2.9998
+iterations: 68, Fidelity of excited state 7: 0.9973
+iterations: 68, Fidelity of excited state 10: 0.9969
+iterations: 68, Fidelity of excited state 12: 0.9942
+iterations: 68, Fidelity of excited state 13: 0.9946
+iterations: 69, loss: 16.0014
+iterations: 69, NumOp_psi7: 3.0000
+iterations: 69, NumOp_psi10: 3.0000
+iterations: 69, NumOp_psi12: 3.0000
+iterations: 69, NumOp_psi13: 3.0000
+iterations: 69, Sz_psi7: -0.4973
+iterations: 69, Sz_psi10: 0.4970
+iterations: 69, Sz_psi12: -0.4943
+iterations: 69, Sz_psi13: 0.4946
+iterations: 69, E7: 1.0002
+iterations: 69, E10: 1.0008
+iterations: 69, E12: 2.9992
+iterations: 69, E13: 2.9999
+iterations: 69, Fidelity of excited state 7: 0.9972
+iterations: 69, Fidelity of excited state 10: 0.9969
+iterations: 69, Fidelity of excited state 12: 0.9942
+iterations: 69, Fidelity of excited state 13: 0.9946
+iterations: 70, loss: 16.0011
+iterations: 70, NumOp_psi7: 3.0000
+iterations: 70, NumOp_psi10: 3.0000
+iterations: 70, NumOp_psi12: 3.0000
+iterations: 70, NumOp_psi13: 3.0000
+iterations: 70, Sz_psi7: -0.4972
+iterations: 70, Sz_psi10: 0.4971
+iterations: 70, Sz_psi12: -0.4946
+iterations: 70, Sz_psi13: 0.4947
+iterations: 70, E7: 1.0002
+iterations: 70, E10: 1.0005
+iterations: 70, E12: 2.9995
+iterations: 70, E13: 2.9999
+iterations: 70, Fidelity of excited state 7: 0.9971
+iterations: 70, Fidelity of excited state 10: 0.9970
+iterations: 70, Fidelity of excited state 12: 0.9945
+iterations: 70, Fidelity of excited state 13: 0.9947
+iterations: 71, loss: 16.0011
+iterations: 71, NumOp_psi7: 3.0000
+iterations: 71, NumOp_psi10: 3.0000
+iterations: 71, NumOp_psi12: 3.0000
+iterations: 71, NumOp_psi13: 3.0000
+iterations: 71, Sz_psi7: -0.4972
+iterations: 71, Sz_psi10: 0.4972
+iterations: 71, Sz_psi12: -0.4948
+iterations: 71, Sz_psi13: 0.4948
+iterations: 71, E7: 1.0002
+iterations: 71, E10: 1.0002
+iterations: 71, E12: 2.9998
+iterations: 71, E13: 2.9997
+iterations: 71, Fidelity of excited state 7: 0.9972
+iterations: 71, Fidelity of excited state 10: 0.9972
+iterations: 71, Fidelity of excited state 12: 0.9948
+iterations: 71, Fidelity of excited state 13: 0.9947
+iterations: 72, loss: 16.0010
+iterations: 72, NumOp_psi7: 3.0000
+iterations: 72, NumOp_psi10: 3.0000
+iterations: 72, NumOp_psi12: 3.0000
+iterations: 72, NumOp_psi13: 3.0000
+iterations: 72, Sz_psi7: -0.4974
+iterations: 72, Sz_psi10: 0.4975
+iterations: 72, Sz_psi12: -0.4948
+iterations: 72, Sz_psi13: 0.4948
+iterations: 72, E7: 1.0002
+iterations: 72, E10: 1.0001
+iterations: 72, E12: 2.9999
+iterations: 72, E13: 2.9998
+iterations: 72, Fidelity of excited state 7: 0.9974
+iterations: 72, Fidelity of excited state 10: 0.9975
+iterations: 72, Fidelity of excited state 12: 0.9948
+iterations: 72, Fidelity of excited state 13: 0.9948
+iterations: 73, loss: 16.0005
+iterations: 73, NumOp_psi7: 3.0000
+iterations: 73, NumOp_psi10: 3.0000
+iterations: 73, NumOp_psi12: 3.0000
+iterations: 73, NumOp_psi13: 3.0000
+iterations: 73, Sz_psi7: -0.4979
+iterations: 73, Sz_psi10: 0.4979
+iterations: 73, Sz_psi12: -0.4947
+iterations: 73, Sz_psi13: 0.4947
+iterations: 73, E7: 1.0001
+iterations: 73, E10: 1.0001
+iterations: 73, E12: 2.9999
+iterations: 73, E13: 2.9999
+iterations: 73, Fidelity of excited state 7: 0.9979
+iterations: 73, Fidelity of excited state 10: 0.9979
+iterations: 73, Fidelity of excited state 12: 0.9946
+iterations: 73, Fidelity of excited state 13: 0.9946
+iterations: 74, loss: 16.0003
+iterations: 74, NumOp_psi7: 3.0000
+iterations: 74, NumOp_psi10: 3.0000
+iterations: 74, NumOp_psi12: 3.0000
+iterations: 74, NumOp_psi13: 3.0000
+iterations: 74, Sz_psi7: -0.4983
+iterations: 74, Sz_psi10: 0.4983
+iterations: 74, Sz_psi12: -0.4943
+iterations: 74, Sz_psi13: 0.4944
+iterations: 74, E7: 1.0001
+iterations: 74, E10: 1.0000
+iterations: 74, E12: 2.9999
+iterations: 74, E13: 3.0000
+iterations: 74, Fidelity of excited state 7: 0.9983
+iterations: 74, Fidelity of excited state 10: 0.9983
+iterations: 74, Fidelity of excited state 12: 0.9943
+iterations: 74, Fidelity of excited state 13: 0.9944
+iterations: 75, loss: 16.0005
+iterations: 75, NumOp_psi7: 3.0000
+iterations: 75, NumOp_psi10: 3.0000
+iterations: 75, NumOp_psi12: 3.0000
+iterations: 75, NumOp_psi13: 3.0000
+iterations: 75, Sz_psi7: -0.4986
+iterations: 75, Sz_psi10: 0.4986
+iterations: 75, Sz_psi12: -0.4941
+iterations: 75, Sz_psi13: 0.4940
+iterations: 75, E7: 1.0001
+iterations: 75, E10: 1.0000
+iterations: 75, E12: 2.9999
+iterations: 75, E13: 2.9999
+iterations: 75, Fidelity of excited state 7: 0.9986
+iterations: 75, Fidelity of excited state 10: 0.9986
+iterations: 75, Fidelity of excited state 12: 0.9940
+iterations: 75, Fidelity of excited state 13: 0.9940
+iterations: 76, loss: 16.0005
+iterations: 76, NumOp_psi7: 3.0000
+iterations: 76, NumOp_psi10: 3.0000
+iterations: 76, NumOp_psi12: 3.0000
+iterations: 76, NumOp_psi13: 3.0000
+iterations: 76, Sz_psi7: -0.4987
+iterations: 76, Sz_psi10: 0.4988
+iterations: 76, Sz_psi12: -0.4940
+iterations: 76, Sz_psi13: 0.4939
+iterations: 76, E7: 1.0001
+iterations: 76, E10: 1.0000
+iterations: 76, E12: 3.0000
+iterations: 76, E13: 2.9999
+iterations: 76, Fidelity of excited state 7: 0.9987
+iterations: 76, Fidelity of excited state 10: 0.9988
+iterations: 76, Fidelity of excited state 12: 0.9940
+iterations: 76, Fidelity of excited state 13: 0.9939
+iterations: 77, loss: 16.0003
+iterations: 77, NumOp_psi7: 3.0000
+iterations: 77, NumOp_psi10: 3.0000
+iterations: 77, NumOp_psi12: 3.0000
+iterations: 77, NumOp_psi13: 3.0000
+iterations: 77, Sz_psi7: -0.4988
+iterations: 77, Sz_psi10: 0.4988
+iterations: 77, Sz_psi12: -0.4941
+iterations: 77, Sz_psi13: 0.4941
+iterations: 77, E7: 1.0000
+iterations: 77, E10: 1.0000
+iterations: 77, E12: 3.0000
+iterations: 77, E13: 2.9999
+iterations: 77, Fidelity of excited state 7: 0.9988
+iterations: 77, Fidelity of excited state 10: 0.9988
+iterations: 77, Fidelity of excited state 12: 0.9941
+iterations: 77, Fidelity of excited state 13: 0.9941
+iterations: 78, loss: 16.0003
+iterations: 78, NumOp_psi7: 3.0000
+iterations: 78, NumOp_psi10: 3.0000
+iterations: 78, NumOp_psi12: 3.0000
+iterations: 78, NumOp_psi13: 3.0000
+iterations: 78, Sz_psi7: -0.4987
+iterations: 78, Sz_psi10: 0.4987
+iterations: 78, Sz_psi12: -0.4943
+iterations: 78, Sz_psi13: 0.4944
+iterations: 78, E7: 1.0000
+iterations: 78, E10: 1.0001
+iterations: 78, E12: 2.9999
+iterations: 78, E13: 3.0000
+iterations: 78, Fidelity of excited state 7: 0.9987
+iterations: 78, Fidelity of excited state 10: 0.9987
+iterations: 78, Fidelity of excited state 12: 0.9943
+iterations: 78, Fidelity of excited state 13: 0.9944
+iterations: 79, loss: 16.0006
+iterations: 79, NumOp_psi7: 3.0000
+iterations: 79, NumOp_psi10: 3.0000
+iterations: 79, NumOp_psi12: 3.0000
+iterations: 79, NumOp_psi13: 3.0000
+iterations: 79, Sz_psi7: -0.4987
+iterations: 79, Sz_psi10: 0.4986
+iterations: 79, Sz_psi12: -0.4945
+iterations: 79, Sz_psi13: 0.4946
+iterations: 79, E7: 1.0001
+iterations: 79, E10: 1.0003
+iterations: 79, E12: 2.9997
+iterations: 79, E13: 2.9999
+iterations: 79, Fidelity of excited state 7: 0.9987
+iterations: 79, Fidelity of excited state 10: 0.9986
+iterations: 79, Fidelity of excited state 12: 0.9945
+iterations: 79, Fidelity of excited state 13: 0.9946
+iterations: 80, loss: 16.0006
+iterations: 80, NumOp_psi7: 3.0000
+iterations: 80, NumOp_psi10: 3.0000
+iterations: 80, NumOp_psi12: 3.0000
+iterations: 80, NumOp_psi13: 3.0000
+iterations: 80, Sz_psi7: -0.4988
+iterations: 80, Sz_psi10: 0.4987
+iterations: 80, Sz_psi12: -0.4946
+iterations: 80, Sz_psi13: 0.4947
+iterations: 80, E7: 1.0001
+iterations: 80, E10: 1.0003
+iterations: 80, E12: 2.9997
+iterations: 80, E13: 2.9999
+iterations: 80, Fidelity of excited state 7: 0.9988
+iterations: 80, Fidelity of excited state 10: 0.9987
+iterations: 80, Fidelity of excited state 12: 0.9946
+iterations: 80, Fidelity of excited state 13: 0.9947
+iterations: 81, loss: 16.0004
+iterations: 81, NumOp_psi7: 3.0000
+iterations: 81, NumOp_psi10: 3.0000
+iterations: 81, NumOp_psi12: 3.0000
+iterations: 81, NumOp_psi13: 3.0000
+iterations: 81, Sz_psi7: -0.4990
+iterations: 81, Sz_psi10: 0.4989
+iterations: 81, Sz_psi12: -0.4946
+iterations: 81, Sz_psi13: 0.4947
+iterations: 81, E7: 1.0000
+iterations: 81, E10: 1.0002
+iterations: 81, E12: 2.9997
+iterations: 81, E13: 3.0000
+iterations: 81, Fidelity of excited state 7: 0.9989
+iterations: 81, Fidelity of excited state 10: 0.9988
+iterations: 81, Fidelity of excited state 12: 0.9946
+iterations: 81, Fidelity of excited state 13: 0.9947
+iterations: 82, loss: 16.0003
+iterations: 82, NumOp_psi7: 3.0000
+iterations: 82, NumOp_psi10: 3.0000
+iterations: 82, NumOp_psi12: 3.0000
+iterations: 82, NumOp_psi13: 3.0000
+iterations: 82, Sz_psi7: -0.4991
+iterations: 82, Sz_psi10: 0.4990
+iterations: 82, Sz_psi12: -0.4946
+iterations: 82, Sz_psi13: 0.4946
+iterations: 82, E7: 1.0000
+iterations: 82, E10: 1.0001
+iterations: 82, E12: 2.9998
+iterations: 82, E13: 3.0000
+iterations: 82, Fidelity of excited state 7: 0.9991
+iterations: 82, Fidelity of excited state 10: 0.9990
+iterations: 82, Fidelity of excited state 12: 0.9945
+iterations: 82, Fidelity of excited state 13: 0.9946
+iterations: 83, loss: 16.0004
+iterations: 83, NumOp_psi7: 3.0000
+iterations: 83, NumOp_psi10: 3.0000
+iterations: 83, NumOp_psi12: 3.0000
+iterations: 83, NumOp_psi13: 3.0000
+iterations: 83, Sz_psi7: -0.4992
+iterations: 83, Sz_psi10: 0.4992
+iterations: 83, Sz_psi12: -0.4946
+iterations: 83, Sz_psi13: 0.4946
+iterations: 83, E7: 1.0001
+iterations: 83, E10: 1.0001
+iterations: 83, E12: 2.9999
+iterations: 83, E13: 2.9999
+iterations: 83, Fidelity of excited state 7: 0.9992
+iterations: 83, Fidelity of excited state 10: 0.9992
+iterations: 83, Fidelity of excited state 12: 0.9946
+iterations: 83, Fidelity of excited state 13: 0.9946
+iterations: 84, loss: 16.0003
+iterations: 84, NumOp_psi7: 3.0000
+iterations: 84, NumOp_psi10: 3.0000
+iterations: 84, NumOp_psi12: 3.0000
+iterations: 84, NumOp_psi13: 3.0000
+iterations: 84, Sz_psi7: -0.4992
+iterations: 84, Sz_psi10: 0.4992
+iterations: 84, Sz_psi12: -0.4948
+iterations: 84, Sz_psi13: 0.4948
+iterations: 84, E7: 1.0001
+iterations: 84, E10: 1.0000
+iterations: 84, E12: 3.0000
+iterations: 84, E13: 2.9999
+iterations: 84, Fidelity of excited state 7: 0.9992
+iterations: 84, Fidelity of excited state 10: 0.9992
+iterations: 84, Fidelity of excited state 12: 0.9948
+iterations: 84, Fidelity of excited state 13: 0.9948
+iterations: 85, loss: 16.0002
+iterations: 85, NumOp_psi7: 3.0000
+iterations: 85, NumOp_psi10: 3.0000
+iterations: 85, NumOp_psi12: 3.0000
+iterations: 85, NumOp_psi13: 3.0000
+iterations: 85, Sz_psi7: -0.4991
+iterations: 85, Sz_psi10: 0.4991
+iterations: 85, Sz_psi12: -0.4951
+iterations: 85, Sz_psi13: 0.4951
+iterations: 85, E7: 1.0000
+iterations: 85, E10: 1.0000
+iterations: 85, E12: 3.0000
+iterations: 85, E13: 3.0000
+iterations: 85, Fidelity of excited state 7: 0.9991
+iterations: 85, Fidelity of excited state 10: 0.9991
+iterations: 85, Fidelity of excited state 12: 0.9951
+iterations: 85, Fidelity of excited state 13: 0.9951
+iterations: 86, loss: 16.0001
+iterations: 86, NumOp_psi7: 3.0000
+iterations: 86, NumOp_psi10: 3.0000
+iterations: 86, NumOp_psi12: 3.0000
+iterations: 86, NumOp_psi13: 3.0000
+iterations: 86, Sz_psi7: -0.4991
+iterations: 86, Sz_psi10: 0.4991
+iterations: 86, Sz_psi12: -0.4953
+iterations: 86, Sz_psi13: 0.4953
+iterations: 86, E7: 1.0000
+iterations: 86, E10: 1.0000
+iterations: 86, E12: 3.0000
+iterations: 86, E13: 3.0000
+iterations: 86, Fidelity of excited state 7: 0.9991
+iterations: 86, Fidelity of excited state 10: 0.9991
+iterations: 86, Fidelity of excited state 12: 0.9953
+iterations: 86, Fidelity of excited state 13: 0.9953
+iterations: 87, loss: 16.0002
+iterations: 87, NumOp_psi7: 3.0000
+iterations: 87, NumOp_psi10: 3.0000
+iterations: 87, NumOp_psi12: 3.0000
+iterations: 87, NumOp_psi13: 3.0000
+iterations: 87, Sz_psi7: -0.4990
+iterations: 87, Sz_psi10: 0.4990
+iterations: 87, Sz_psi12: -0.4954
+iterations: 87, Sz_psi13: 0.4954
+iterations: 87, E7: 1.0000
+iterations: 87, E10: 1.0000
+iterations: 87, E12: 3.0000
+iterations: 87, E13: 3.0000
+iterations: 87, Fidelity of excited state 7: 0.9990
+iterations: 87, Fidelity of excited state 10: 0.9990
+iterations: 87, Fidelity of excited state 12: 0.9954
+iterations: 87, Fidelity of excited state 13: 0.9954
+iterations: 88, loss: 16.0002
+iterations: 88, NumOp_psi7: 3.0000
+iterations: 88, NumOp_psi10: 3.0000
+iterations: 88, NumOp_psi12: 3.0000
+iterations: 88, NumOp_psi13: 3.0000
+iterations: 88, Sz_psi7: -0.4990
+iterations: 88, Sz_psi10: 0.4991
+iterations: 88, Sz_psi12: -0.4954
+iterations: 88, Sz_psi13: 0.4954
+iterations: 88, E7: 1.0000
+iterations: 88, E10: 1.0000
+iterations: 88, E12: 3.0000
+iterations: 88, E13: 3.0000
+iterations: 88, Fidelity of excited state 7: 0.9990
+iterations: 88, Fidelity of excited state 10: 0.9991
+iterations: 88, Fidelity of excited state 12: 0.9954
+iterations: 88, Fidelity of excited state 13: 0.9954
+iterations: 89, loss: 16.0001
+iterations: 89, NumOp_psi7: 3.0000
+iterations: 89, NumOp_psi10: 3.0000
+iterations: 89, NumOp_psi12: 3.0000
+iterations: 89, NumOp_psi13: 3.0000
+iterations: 89, Sz_psi7: -0.4991
+iterations: 89, Sz_psi10: 0.4991
+iterations: 89, Sz_psi12: -0.4954
+iterations: 89, Sz_psi13: 0.4954
+iterations: 89, E7: 1.0000
+iterations: 89, E10: 1.0000
+iterations: 89, E12: 3.0000
+iterations: 89, E13: 3.0000
+iterations: 89, Fidelity of excited state 7: 0.9991
+iterations: 89, Fidelity of excited state 10: 0.9991
+iterations: 89, Fidelity of excited state 12: 0.9954
+iterations: 89, Fidelity of excited state 13: 0.9954
+iterations: 90, loss: 16.0002
+iterations: 90, NumOp_psi7: 3.0000
+iterations: 90, NumOp_psi10: 3.0000
+iterations: 90, NumOp_psi12: 3.0000
+iterations: 90, NumOp_psi13: 3.0000
+iterations: 90, Sz_psi7: -0.4992
+iterations: 90, Sz_psi10: 0.4992
+iterations: 90, Sz_psi12: -0.4954
+iterations: 90, Sz_psi13: 0.4954
+iterations: 90, E7: 1.0000
+iterations: 90, E10: 1.0001
+iterations: 90, E12: 2.9999
+iterations: 90, E13: 3.0000
+iterations: 90, Fidelity of excited state 7: 0.9992
+iterations: 90, Fidelity of excited state 10: 0.9992
+iterations: 90, Fidelity of excited state 12: 0.9954
+iterations: 90, Fidelity of excited state 13: 0.9954
+iterations: 91, loss: 16.0002
+iterations: 91, NumOp_psi7: 3.0000
+iterations: 91, NumOp_psi10: 3.0000
+iterations: 91, NumOp_psi12: 3.0000
+iterations: 91, NumOp_psi13: 3.0000
+iterations: 91, Sz_psi7: -0.4993
+iterations: 91, Sz_psi10: 0.4992
+iterations: 91, Sz_psi12: -0.4954
+iterations: 91, Sz_psi13: 0.4955
+iterations: 91, E7: 1.0000
+iterations: 91, E10: 1.0001
+iterations: 91, E12: 2.9999
+iterations: 91, E13: 3.0000
+iterations: 91, Fidelity of excited state 7: 0.9993
+iterations: 91, Fidelity of excited state 10: 0.9992
+iterations: 91, Fidelity of excited state 12: 0.9954
+iterations: 91, Fidelity of excited state 13: 0.9955
+iterations: 92, loss: 16.0002
+iterations: 92, NumOp_psi7: 3.0000
+iterations: 92, NumOp_psi10: 3.0000
+iterations: 92, NumOp_psi12: 3.0000
+iterations: 92, NumOp_psi13: 3.0000
+iterations: 92, Sz_psi7: -0.4993
+iterations: 92, Sz_psi10: 0.4993
+iterations: 92, Sz_psi12: -0.4955
+iterations: 92, Sz_psi13: 0.4956
+iterations: 92, E7: 1.0000
+iterations: 92, E10: 1.0001
+iterations: 92, E12: 2.9999
+iterations: 92, E13: 3.0000
+iterations: 92, Fidelity of excited state 7: 0.9993
+iterations: 92, Fidelity of excited state 10: 0.9993
+iterations: 92, Fidelity of excited state 12: 0.9955
+iterations: 92, Fidelity of excited state 13: 0.9956
+iterations: 93, loss: 16.0002
+iterations: 93, NumOp_psi7: 3.0000
+iterations: 93, NumOp_psi10: 3.0000
+iterations: 93, NumOp_psi12: 3.0000
+iterations: 93, NumOp_psi13: 3.0000
+iterations: 93, Sz_psi7: -0.4993
+iterations: 93, Sz_psi10: 0.4993
+iterations: 93, Sz_psi12: -0.4956
+iterations: 93, Sz_psi13: 0.4957
+iterations: 93, E7: 1.0000
+iterations: 93, E10: 1.0001
+iterations: 93, E12: 2.9999
+iterations: 93, E13: 3.0000
+iterations: 93, Fidelity of excited state 7: 0.9993
+iterations: 93, Fidelity of excited state 10: 0.9993
+iterations: 93, Fidelity of excited state 12: 0.9956
+iterations: 93, Fidelity of excited state 13: 0.9957
+iterations: 94, loss: 16.0001
+iterations: 94, NumOp_psi7: 3.0000
+iterations: 94, NumOp_psi10: 3.0000
+iterations: 94, NumOp_psi12: 3.0000
+iterations: 94, NumOp_psi13: 3.0000
+iterations: 94, Sz_psi7: -0.4993
+iterations: 94, Sz_psi10: 0.4993
+iterations: 94, Sz_psi12: -0.4957
+iterations: 94, Sz_psi13: 0.4957
+iterations: 94, E7: 1.0000
+iterations: 94, E10: 1.0000
+iterations: 94, E12: 3.0000
+iterations: 94, E13: 3.0000
+iterations: 94, Fidelity of excited state 7: 0.9993
+iterations: 94, Fidelity of excited state 10: 0.9993
+iterations: 94, Fidelity of excited state 12: 0.9957
+iterations: 94, Fidelity of excited state 13: 0.9957
+iterations: 95, loss: 16.0001
+iterations: 95, NumOp_psi7: 3.0000
+iterations: 95, NumOp_psi10: 3.0000
+iterations: 95, NumOp_psi12: 3.0000
+iterations: 95, NumOp_psi13: 3.0000
+iterations: 95, Sz_psi7: -0.4994
+iterations: 95, Sz_psi10: 0.4994
+iterations: 95, Sz_psi12: -0.4957
+iterations: 95, Sz_psi13: 0.4957
+iterations: 95, E7: 1.0000
+iterations: 95, E10: 1.0000
+iterations: 95, E12: 3.0000
+iterations: 95, E13: 3.0000
+iterations: 95, Fidelity of excited state 7: 0.9994
+iterations: 95, Fidelity of excited state 10: 0.9994
+iterations: 95, Fidelity of excited state 12: 0.9957
+iterations: 95, Fidelity of excited state 13: 0.9957
+iterations: 96, loss: 16.0001
+iterations: 96, NumOp_psi7: 3.0000
+iterations: 96, NumOp_psi10: 3.0000
+iterations: 96, NumOp_psi12: 3.0000
+iterations: 96, NumOp_psi13: 3.0000
+iterations: 96, Sz_psi7: -0.4994
+iterations: 96, Sz_psi10: 0.4994
+iterations: 96, Sz_psi12: -0.4957
+iterations: 96, Sz_psi13: 0.4957
+iterations: 96, E7: 1.0000
+iterations: 96, E10: 1.0000
+iterations: 96, E12: 3.0000
+iterations: 96, E13: 3.0000
+iterations: 96, Fidelity of excited state 7: 0.9994
+iterations: 96, Fidelity of excited state 10: 0.9994
+iterations: 96, Fidelity of excited state 12: 0.9957
+iterations: 96, Fidelity of excited state 13: 0.9957
+iterations: 97, loss: 16.0001
+iterations: 97, NumOp_psi7: 3.0000
+iterations: 97, NumOp_psi10: 3.0000
+iterations: 97, NumOp_psi12: 3.0000
+iterations: 97, NumOp_psi13: 3.0000
+iterations: 97, Sz_psi7: -0.4995
+iterations: 97, Sz_psi10: 0.4995
+iterations: 97, Sz_psi12: -0.4957
+iterations: 97, Sz_psi13: 0.4957
+iterations: 97, E7: 1.0000
+iterations: 97, E10: 1.0000
+iterations: 97, E12: 3.0000
+iterations: 97, E13: 3.0000
+iterations: 97, Fidelity of excited state 7: 0.9995
+iterations: 97, Fidelity of excited state 10: 0.9995
+iterations: 97, Fidelity of excited state 12: 0.9957
+iterations: 97, Fidelity of excited state 13: 0.9957
+iterations: 98, loss: 16.0001
+iterations: 98, NumOp_psi7: 3.0000
+iterations: 98, NumOp_psi10: 3.0000
+iterations: 98, NumOp_psi12: 3.0000
+iterations: 98, NumOp_psi13: 3.0000
+iterations: 98, Sz_psi7: -0.4996
+iterations: 98, Sz_psi10: 0.4996
+iterations: 98, Sz_psi12: -0.4957
+iterations: 98, Sz_psi13: 0.4957
+iterations: 98, E7: 1.0000
+iterations: 98, E10: 1.0000
+iterations: 98, E12: 3.0000
+iterations: 98, E13: 3.0000
+iterations: 98, Fidelity of excited state 7: 0.9996
+iterations: 98, Fidelity of excited state 10: 0.9996
+iterations: 98, Fidelity of excited state 12: 0.9957
+iterations: 98, Fidelity of excited state 13: 0.9957
+iterations: 99, loss: 16.0001
+iterations: 99, NumOp_psi7: 3.0000
+iterations: 99, NumOp_psi10: 3.0000
+iterations: 99, NumOp_psi12: 3.0000
+iterations: 99, NumOp_psi13: 3.0000
+iterations: 99, Sz_psi7: -0.4997
+iterations: 99, Sz_psi10: 0.4997
+iterations: 99, Sz_psi12: -0.4958
+iterations: 99, Sz_psi13: 0.4958
+iterations: 99, E7: 1.0000
+iterations: 99, E10: 1.0000
+iterations: 99, E12: 3.0000
+iterations: 99, E13: 3.0000
+iterations: 99, Fidelity of excited state 7: 0.9996
+iterations: 99, Fidelity of excited state 10: 0.9997
+iterations: 99, Fidelity of excited state 12: 0.9958
+iterations: 99, Fidelity of excited state 13: 0.9958
+iterations: 100, loss: 16.0001
+iterations: 100, NumOp_psi7: 3.0000
+iterations: 100, NumOp_psi10: 3.0000
+iterations: 100, NumOp_psi12: 3.0000
+iterations: 100, NumOp_psi13: 3.0000
+iterations: 100, Sz_psi7: -0.4997
+iterations: 100, Sz_psi10: 0.4997
+iterations: 100, Sz_psi12: -0.4959
+iterations: 100, Sz_psi13: 0.4959
+iterations: 100, E7: 1.0000
+iterations: 100, E10: 1.0000
+iterations: 100, E12: 3.0000
+iterations: 100, E13: 3.0000
+iterations: 100, Fidelity of excited state 7: 0.9997
+iterations: 100, Fidelity of excited state 10: 0.9997
+iterations: 100, Fidelity of excited state 12: 0.9959
+iterations: 100, Fidelity of excited state 13: 0.9959
+iterations: 101, loss: 16.0001
+iterations: 101, NumOp_psi7: 3.0000
+iterations: 101, NumOp_psi10: 3.0000
+iterations: 101, NumOp_psi12: 3.0000
+iterations: 101, NumOp_psi13: 3.0000
+iterations: 101, Sz_psi7: -0.4997
+iterations: 101, Sz_psi10: 0.4997
+iterations: 101, Sz_psi12: -0.4960
+iterations: 101, Sz_psi13: 0.4960
+iterations: 101, E7: 1.0000
+iterations: 101, E10: 1.0000
+iterations: 101, E12: 3.0000
+iterations: 101, E13: 3.0000
+iterations: 101, Fidelity of excited state 7: 0.9997
+iterations: 101, Fidelity of excited state 10: 0.9997
+iterations: 101, Fidelity of excited state 12: 0.9960
+iterations: 101, Fidelity of excited state 13: 0.9960
+iterations: 102, loss: 16.0001
+iterations: 102, NumOp_psi7: 3.0000
+iterations: 102, NumOp_psi10: 3.0000
+iterations: 102, NumOp_psi12: 3.0000
+iterations: 102, NumOp_psi13: 3.0000
+iterations: 102, Sz_psi7: -0.4997
+iterations: 102, Sz_psi10: 0.4997
+iterations: 102, Sz_psi12: -0.4960
+iterations: 102, Sz_psi13: 0.4960
+iterations: 102, E7: 1.0000
+iterations: 102, E10: 1.0000
+iterations: 102, E12: 3.0000
+iterations: 102, E13: 3.0000
+iterations: 102, Fidelity of excited state 7: 0.9997
+iterations: 102, Fidelity of excited state 10: 0.9997
+iterations: 102, Fidelity of excited state 12: 0.9960
+iterations: 102, Fidelity of excited state 13: 0.9960
+iterations: 103, loss: 16.0001
+iterations: 103, NumOp_psi7: 3.0000
+iterations: 103, NumOp_psi10: 3.0000
+iterations: 103, NumOp_psi12: 3.0000
+iterations: 103, NumOp_psi13: 3.0000
+iterations: 103, Sz_psi7: -0.4997
+iterations: 103, Sz_psi10: 0.4997
+iterations: 103, Sz_psi12: -0.4960
+iterations: 103, Sz_psi13: 0.4960
+iterations: 103, E7: 1.0000
+iterations: 103, E10: 1.0000
+iterations: 103, E12: 3.0000
+iterations: 103, E13: 3.0000
+iterations: 103, Fidelity of excited state 7: 0.9997
+iterations: 103, Fidelity of excited state 10: 0.9997
+iterations: 103, Fidelity of excited state 12: 0.9960
+iterations: 103, Fidelity of excited state 13: 0.9960
+iterations: 104, loss: 16.0001
+iterations: 104, NumOp_psi7: 3.0000
+iterations: 104, NumOp_psi10: 3.0000
+iterations: 104, NumOp_psi12: 3.0000
+iterations: 104, NumOp_psi13: 3.0000
+iterations: 104, Sz_psi7: -0.4997
+iterations: 104, Sz_psi10: 0.4997
+iterations: 104, Sz_psi12: -0.4961
+iterations: 104, Sz_psi13: 0.4961
+iterations: 104, E7: 1.0000
+iterations: 104, E10: 1.0000
+iterations: 104, E12: 3.0000
+iterations: 104, E13: 3.0000
+iterations: 104, Fidelity of excited state 7: 0.9997
+iterations: 104, Fidelity of excited state 10: 0.9997
+iterations: 104, Fidelity of excited state 12: 0.9961
+iterations: 104, Fidelity of excited state 13: 0.9961
+iterations: 105, loss: 16.0001
+iterations: 105, NumOp_psi7: 3.0000
+iterations: 105, NumOp_psi10: 3.0000
+iterations: 105, NumOp_psi12: 3.0000
+iterations: 105, NumOp_psi13: 3.0000
+iterations: 105, Sz_psi7: -0.4997
+iterations: 105, Sz_psi10: 0.4997
+iterations: 105, Sz_psi12: -0.4961
+iterations: 105, Sz_psi13: 0.4961
+iterations: 105, E7: 1.0000
+iterations: 105, E10: 1.0000
+iterations: 105, E12: 3.0000
+iterations: 105, E13: 3.0000
+iterations: 105, Fidelity of excited state 7: 0.9997
+iterations: 105, Fidelity of excited state 10: 0.9997
+iterations: 105, Fidelity of excited state 12: 0.9961
+iterations: 105, Fidelity of excited state 13: 0.9961
+iterations: 106, loss: 16.0000
+iterations: 106, NumOp_psi7: 3.0000
+iterations: 106, NumOp_psi10: 3.0000
+iterations: 106, NumOp_psi12: 3.0000
+iterations: 106, NumOp_psi13: 3.0000
+iterations: 106, Sz_psi7: -0.4997
+iterations: 106, Sz_psi10: 0.4997
+iterations: 106, Sz_psi12: -0.4961
+iterations: 106, Sz_psi13: 0.4961
+iterations: 106, E7: 1.0000
+iterations: 106, E10: 1.0000
+iterations: 106, E12: 3.0000
+iterations: 106, E13: 3.0000
+iterations: 106, Fidelity of excited state 7: 0.9997
+iterations: 106, Fidelity of excited state 10: 0.9997
+iterations: 106, Fidelity of excited state 12: 0.9961
+iterations: 106, Fidelity of excited state 13: 0.9961
+iterations: 107, loss: 16.0001
+iterations: 107, NumOp_psi7: 3.0000
+iterations: 107, NumOp_psi10: 3.0000
+iterations: 107, NumOp_psi12: 3.0000
+iterations: 107, NumOp_psi13: 3.0000
+iterations: 107, Sz_psi7: -0.4998
+iterations: 107, Sz_psi10: 0.4998
+iterations: 107, Sz_psi12: -0.4962
+iterations: 107, Sz_psi13: 0.4962
+iterations: 107, E7: 1.0000
+iterations: 107, E10: 1.0000
+iterations: 107, E12: 3.0000
+iterations: 107, E13: 3.0000
+iterations: 107, Fidelity of excited state 7: 0.9998
+iterations: 107, Fidelity of excited state 10: 0.9998
+iterations: 107, Fidelity of excited state 12: 0.9962
+iterations: 107, Fidelity of excited state 13: 0.9962
+iterations: 108, loss: 16.0000
+iterations: 108, NumOp_psi7: 3.0000
+iterations: 108, NumOp_psi10: 3.0000
+iterations: 108, NumOp_psi12: 3.0000
+iterations: 108, NumOp_psi13: 3.0000
+iterations: 108, Sz_psi7: -0.4998
+iterations: 108, Sz_psi10: 0.4998
+iterations: 108, Sz_psi12: -0.4962
+iterations: 108, Sz_psi13: 0.4962
+iterations: 108, E7: 1.0000
+iterations: 108, E10: 1.0000
+iterations: 108, E12: 3.0000
+iterations: 108, E13: 3.0000
+iterations: 108, Fidelity of excited state 7: 0.9998
+iterations: 108, Fidelity of excited state 10: 0.9998
+iterations: 108, Fidelity of excited state 12: 0.9962
+iterations: 108, Fidelity of excited state 13: 0.9962
+iterations: 109, loss: 16.0000
+iterations: 109, NumOp_psi7: 3.0000
+iterations: 109, NumOp_psi10: 3.0000
+iterations: 109, NumOp_psi12: 3.0000
+iterations: 109, NumOp_psi13: 3.0000
+iterations: 109, Sz_psi7: -0.4998
+iterations: 109, Sz_psi10: 0.4998
+iterations: 109, Sz_psi12: -0.4961
+iterations: 109, Sz_psi13: 0.4961
+iterations: 109, E7: 1.0000
+iterations: 109, E10: 1.0000
+iterations: 109, E12: 3.0000
+iterations: 109, E13: 3.0000
+iterations: 109, Fidelity of excited state 7: 0.9998
+iterations: 109, Fidelity of excited state 10: 0.9998
+iterations: 109, Fidelity of excited state 12: 0.9961
+iterations: 109, Fidelity of excited state 13: 0.9961
+iterations: 110, loss: 16.0000
+iterations: 110, NumOp_psi7: 3.0000
+iterations: 110, NumOp_psi10: 3.0000
+iterations: 110, NumOp_psi12: 3.0000
+iterations: 110, NumOp_psi13: 3.0000
+iterations: 110, Sz_psi7: -0.4998
+iterations: 110, Sz_psi10: 0.4998
+iterations: 110, Sz_psi12: -0.4961
+iterations: 110, Sz_psi13: 0.4961
+iterations: 110, E7: 1.0000
+iterations: 110, E10: 1.0000
+iterations: 110, E12: 3.0000
+iterations: 110, E13: 3.0000
+iterations: 110, Fidelity of excited state 7: 0.9998
+iterations: 110, Fidelity of excited state 10: 0.9998
+iterations: 110, Fidelity of excited state 12: 0.9961
+iterations: 110, Fidelity of excited state 13: 0.9961
+iterations: 111, loss: 16.0000
+iterations: 111, NumOp_psi7: 3.0000
+iterations: 111, NumOp_psi10: 3.0000
+iterations: 111, NumOp_psi12: 3.0000
+iterations: 111, NumOp_psi13: 3.0000
+iterations: 111, Sz_psi7: -0.4998
+iterations: 111, Sz_psi10: 0.4998
+iterations: 111, Sz_psi12: -0.4961
+iterations: 111, Sz_psi13: 0.4961
+iterations: 111, E7: 1.0000
+iterations: 111, E10: 1.0000
+iterations: 111, E12: 3.0000
+iterations: 111, E13: 3.0000
+iterations: 111, Fidelity of excited state 7: 0.9998
+iterations: 111, Fidelity of excited state 10: 0.9998
+iterations: 111, Fidelity of excited state 12: 0.9961
+iterations: 111, Fidelity of excited state 13: 0.9961
+iterations: 112, loss: 16.0000
+iterations: 112, NumOp_psi7: 3.0000
+iterations: 112, NumOp_psi10: 3.0000
+iterations: 112, NumOp_psi12: 3.0000
+iterations: 112, NumOp_psi13: 3.0000
+iterations: 112, Sz_psi7: -0.4998
+iterations: 112, Sz_psi10: 0.4998
+iterations: 112, Sz_psi12: -0.4962
+iterations: 112, Sz_psi13: 0.4962
+iterations: 112, E7: 1.0000
+iterations: 112, E10: 1.0000
+iterations: 112, E12: 3.0000
+iterations: 112, E13: 3.0000
+iterations: 112, Fidelity of excited state 7: 0.9998
+iterations: 112, Fidelity of excited state 10: 0.9998
+iterations: 112, Fidelity of excited state 12: 0.9962
+iterations: 112, Fidelity of excited state 13: 0.9962
+iterations: 113, loss: 16.0000
+iterations: 113, NumOp_psi7: 3.0000
+iterations: 113, NumOp_psi10: 3.0000
+iterations: 113, NumOp_psi12: 3.0000
+iterations: 113, NumOp_psi13: 3.0000
+iterations: 113, Sz_psi7: -0.4998
+iterations: 113, Sz_psi10: 0.4998
+iterations: 113, Sz_psi12: -0.4963
+iterations: 113, Sz_psi13: 0.4963
+iterations: 113, E7: 1.0000
+iterations: 113, E10: 1.0000
+iterations: 113, E12: 3.0000
+iterations: 113, E13: 3.0000
+iterations: 113, Fidelity of excited state 7: 0.9998
+iterations: 113, Fidelity of excited state 10: 0.9998
+iterations: 113, Fidelity of excited state 12: 0.9963
+iterations: 113, Fidelity of excited state 13: 0.9963
+iterations: 114, loss: 16.0000
+iterations: 114, NumOp_psi7: 3.0000
+iterations: 114, NumOp_psi10: 3.0000
+iterations: 114, NumOp_psi12: 3.0000
+iterations: 114, NumOp_psi13: 3.0000
+iterations: 114, Sz_psi7: -0.4998
+iterations: 114, Sz_psi10: 0.4998
+iterations: 114, Sz_psi12: -0.4963
+iterations: 114, Sz_psi13: 0.4963
+iterations: 114, E7: 1.0000
+iterations: 114, E10: 1.0000
+iterations: 114, E12: 3.0000
+iterations: 114, E13: 3.0000
+iterations: 114, Fidelity of excited state 7: 0.9998
+iterations: 114, Fidelity of excited state 10: 0.9998
+iterations: 114, Fidelity of excited state 12: 0.9963
+iterations: 114, Fidelity of excited state 13: 0.9963
+iterations: 115, loss: 16.0000
+iterations: 115, NumOp_psi7: 3.0000
+iterations: 115, NumOp_psi10: 3.0000
+iterations: 115, NumOp_psi12: 3.0000
+iterations: 115, NumOp_psi13: 3.0000
+iterations: 115, Sz_psi7: -0.4998
+iterations: 115, Sz_psi10: 0.4998
+iterations: 115, Sz_psi12: -0.4963
+iterations: 115, Sz_psi13: 0.4963
+iterations: 115, E7: 1.0000
+iterations: 115, E10: 1.0000
+iterations: 115, E12: 3.0000
+iterations: 115, E13: 3.0000
+iterations: 115, Fidelity of excited state 7: 0.9998
+iterations: 115, Fidelity of excited state 10: 0.9998
+iterations: 115, Fidelity of excited state 12: 0.9963
+iterations: 115, Fidelity of excited state 13: 0.9963
+iterations: 116, loss: 16.0000
+iterations: 116, NumOp_psi7: 3.0000
+iterations: 116, NumOp_psi10: 3.0000
+iterations: 116, NumOp_psi12: 3.0000
+iterations: 116, NumOp_psi13: 3.0000
+iterations: 116, Sz_psi7: -0.4998
+iterations: 116, Sz_psi10: 0.4998
+iterations: 116, Sz_psi12: -0.4963
+iterations: 116, Sz_psi13: 0.4963
+iterations: 116, E7: 1.0000
+iterations: 116, E10: 1.0000
+iterations: 116, E12: 3.0000
+iterations: 116, E13: 3.0000
+iterations: 116, Fidelity of excited state 7: 0.9998
+iterations: 116, Fidelity of excited state 10: 0.9998
+iterations: 116, Fidelity of excited state 12: 0.9963
+iterations: 116, Fidelity of excited state 13: 0.9963
+iterations: 117, loss: 16.0000
+iterations: 117, NumOp_psi7: 3.0000
+iterations: 117, NumOp_psi10: 3.0000
+iterations: 117, NumOp_psi12: 3.0000
+iterations: 117, NumOp_psi13: 3.0000
+iterations: 117, Sz_psi7: -0.4998
+iterations: 117, Sz_psi10: 0.4998
+iterations: 117, Sz_psi12: -0.4964
+iterations: 117, Sz_psi13: 0.4964
+iterations: 117, E7: 1.0000
+iterations: 117, E10: 1.0000
+iterations: 117, E12: 3.0000
+iterations: 117, E13: 3.0000
+iterations: 117, Fidelity of excited state 7: 0.9998
+iterations: 117, Fidelity of excited state 10: 0.9998
+iterations: 117, Fidelity of excited state 12: 0.9963
+iterations: 117, Fidelity of excited state 13: 0.9963
+iterations: 118, loss: 16.0000
+iterations: 118, NumOp_psi7: 3.0000
+iterations: 118, NumOp_psi10: 3.0000
+iterations: 118, NumOp_psi12: 3.0000
+iterations: 118, NumOp_psi13: 3.0000
+iterations: 118, Sz_psi7: -0.4998
+iterations: 118, Sz_psi10: 0.4998
+iterations: 118, Sz_psi12: -0.4964
+iterations: 118, Sz_psi13: 0.4964
+iterations: 118, E7: 1.0000
+iterations: 118, E10: 1.0000
+iterations: 118, E12: 3.0000
+iterations: 118, E13: 3.0000
+iterations: 118, Fidelity of excited state 7: 0.9998
+iterations: 118, Fidelity of excited state 10: 0.9998
+iterations: 118, Fidelity of excited state 12: 0.9964
+iterations: 118, Fidelity of excited state 13: 0.9964
+iterations: 119, loss: 16.0000
+iterations: 119, NumOp_psi7: 3.0000
+iterations: 119, NumOp_psi10: 3.0000
+iterations: 119, NumOp_psi12: 3.0000
+iterations: 119, NumOp_psi13: 3.0000
+iterations: 119, Sz_psi7: -0.4999
+iterations: 119, Sz_psi10: 0.4999
+iterations: 119, Sz_psi12: -0.4964
+iterations: 119, Sz_psi13: 0.4964
+iterations: 119, E7: 1.0000
+iterations: 119, E10: 1.0000
+iterations: 119, E12: 3.0000
+iterations: 119, E13: 3.0000
+iterations: 119, Fidelity of excited state 7: 0.9999
+iterations: 119, Fidelity of excited state 10: 0.9999
+iterations: 119, Fidelity of excited state 12: 0.9964
+iterations: 119, Fidelity of excited state 13: 0.9964
+iterations: 120, loss: 16.0000
+iterations: 120, NumOp_psi7: 3.0000
+iterations: 120, NumOp_psi10: 3.0000
+iterations: 120, NumOp_psi12: 3.0000
+iterations: 120, NumOp_psi13: 3.0000
+iterations: 120, Sz_psi7: -0.4999
+iterations: 120, Sz_psi10: 0.4999
+iterations: 120, Sz_psi12: -0.4964
+iterations: 120, Sz_psi13: 0.4964
+iterations: 120, E7: 1.0000
+iterations: 120, E10: 1.0000
+iterations: 120, E12: 3.0000
+iterations: 120, E13: 3.0000
+iterations: 120, Fidelity of excited state 7: 0.9999
+iterations: 120, Fidelity of excited state 10: 0.9999
+iterations: 120, Fidelity of excited state 12: 0.9964
+iterations: 120, Fidelity of excited state 13: 0.9964
+iterations: 121, loss: 16.0000
+iterations: 121, NumOp_psi7: 3.0000
+iterations: 121, NumOp_psi10: 3.0000
+iterations: 121, NumOp_psi12: 3.0000
+iterations: 121, NumOp_psi13: 3.0000
+iterations: 121, Sz_psi7: -0.4999
+iterations: 121, Sz_psi10: 0.4999
+iterations: 121, Sz_psi12: -0.4965
+iterations: 121, Sz_psi13: 0.4965
+iterations: 121, E7: 1.0000
+iterations: 121, E10: 1.0000
+iterations: 121, E12: 3.0000
+iterations: 121, E13: 3.0000
+iterations: 121, Fidelity of excited state 7: 0.9999
+iterations: 121, Fidelity of excited state 10: 0.9999
+iterations: 121, Fidelity of excited state 12: 0.9965
+iterations: 121, Fidelity of excited state 13: 0.9965
+iterations: 122, loss: 16.0000
+iterations: 122, NumOp_psi7: 3.0000
+iterations: 122, NumOp_psi10: 3.0000
+iterations: 122, NumOp_psi12: 3.0000
+iterations: 122, NumOp_psi13: 3.0000
+iterations: 122, Sz_psi7: -0.4999
+iterations: 122, Sz_psi10: 0.4999
+iterations: 122, Sz_psi12: -0.4965
+iterations: 122, Sz_psi13: 0.4965
+iterations: 122, E7: 1.0000
+iterations: 122, E10: 1.0000
+iterations: 122, E12: 3.0000
+iterations: 122, E13: 3.0000
+iterations: 122, Fidelity of excited state 7: 0.9999
+iterations: 122, Fidelity of excited state 10: 0.9999
+iterations: 122, Fidelity of excited state 12: 0.9965
+iterations: 122, Fidelity of excited state 13: 0.9965
+iterations: 123, loss: 16.0000
+iterations: 123, NumOp_psi7: 3.0000
+iterations: 123, NumOp_psi10: 3.0000
+iterations: 123, NumOp_psi12: 3.0000
+iterations: 123, NumOp_psi13: 3.0000
+iterations: 123, Sz_psi7: -0.4999
+iterations: 123, Sz_psi10: 0.4999
+iterations: 123, Sz_psi12: -0.4965
+iterations: 123, Sz_psi13: 0.4965
+iterations: 123, E7: 1.0000
+iterations: 123, E10: 1.0000
+iterations: 123, E12: 3.0000
+iterations: 123, E13: 3.0000
+iterations: 123, Fidelity of excited state 7: 0.9999
+iterations: 123, Fidelity of excited state 10: 0.9999
+iterations: 123, Fidelity of excited state 12: 0.9965
+iterations: 123, Fidelity of excited state 13: 0.9965
+iterations: 124, loss: 16.0000
+iterations: 124, NumOp_psi7: 3.0000
+iterations: 124, NumOp_psi10: 3.0000
+iterations: 124, NumOp_psi12: 3.0000
+iterations: 124, NumOp_psi13: 3.0000
+iterations: 124, Sz_psi7: -0.4999
+iterations: 124, Sz_psi10: 0.4999
+iterations: 124, Sz_psi12: -0.4965
+iterations: 124, Sz_psi13: 0.4965
+iterations: 124, E7: 1.0000
+iterations: 124, E10: 1.0000
+iterations: 124, E12: 3.0000
+iterations: 124, E13: 3.0000
+iterations: 124, Fidelity of excited state 7: 0.9999
+iterations: 124, Fidelity of excited state 10: 0.9999
+iterations: 124, Fidelity of excited state 12: 0.9965
+iterations: 124, Fidelity of excited state 13: 0.9965
+iterations: 125, loss: 16.0000
+iterations: 125, NumOp_psi7: 3.0000
+iterations: 125, NumOp_psi10: 3.0000
+iterations: 125, NumOp_psi12: 3.0000
+iterations: 125, NumOp_psi13: 3.0000
+iterations: 125, Sz_psi7: -0.4999
+iterations: 125, Sz_psi10: 0.4999
+iterations: 125, Sz_psi12: -0.4966
+iterations: 125, Sz_psi13: 0.4966
+iterations: 125, E7: 1.0000
+iterations: 125, E10: 1.0000
+iterations: 125, E12: 3.0000
+iterations: 125, E13: 3.0000
+iterations: 125, Fidelity of excited state 7: 0.9999
+iterations: 125, Fidelity of excited state 10: 0.9999
+iterations: 125, Fidelity of excited state 12: 0.9966
+iterations: 125, Fidelity of excited state 13: 0.9966
+iterations: 126, loss: 16.0000
+iterations: 126, NumOp_psi7: 3.0000
+iterations: 126, NumOp_psi10: 3.0000
+iterations: 126, NumOp_psi12: 3.0000
+iterations: 126, NumOp_psi13: 3.0000
+iterations: 126, Sz_psi7: -0.4999
+iterations: 126, Sz_psi10: 0.4999
+iterations: 126, Sz_psi12: -0.4966
+iterations: 126, Sz_psi13: 0.4966
+iterations: 126, E7: 1.0000
+iterations: 126, E10: 1.0000
+iterations: 126, E12: 3.0000
+iterations: 126, E13: 3.0000
+iterations: 126, Fidelity of excited state 7: 0.9999
+iterations: 126, Fidelity of excited state 10: 0.9999
+iterations: 126, Fidelity of excited state 12: 0.9966
+iterations: 126, Fidelity of excited state 13: 0.9966
+iterations: 127, loss: 16.0000
+iterations: 127, NumOp_psi7: 3.0000
+iterations: 127, NumOp_psi10: 3.0000
+iterations: 127, NumOp_psi12: 3.0000
+iterations: 127, NumOp_psi13: 3.0000
+iterations: 127, Sz_psi7: -0.4999
+iterations: 127, Sz_psi10: 0.4999
+iterations: 127, Sz_psi12: -0.4966
+iterations: 127, Sz_psi13: 0.4966
+iterations: 127, E7: 1.0000
+iterations: 127, E10: 1.0000
+iterations: 127, E12: 3.0000
+iterations: 127, E13: 3.0000
+iterations: 127, Fidelity of excited state 7: 0.9999
+iterations: 127, Fidelity of excited state 10: 0.9999
+iterations: 127, Fidelity of excited state 12: 0.9966
+iterations: 127, Fidelity of excited state 13: 0.9966
+iterations: 128, loss: 16.0000
+iterations: 128, NumOp_psi7: 3.0000
+iterations: 128, NumOp_psi10: 3.0000
+iterations: 128, NumOp_psi12: 3.0000
+iterations: 128, NumOp_psi13: 3.0000
+iterations: 128, Sz_psi7: -0.4999
+iterations: 128, Sz_psi10: 0.4999
+iterations: 128, Sz_psi12: -0.4966
+iterations: 128, Sz_psi13: 0.4966
+iterations: 128, E7: 1.0000
+iterations: 128, E10: 1.0000
+iterations: 128, E12: 3.0000
+iterations: 128, E13: 3.0000
+iterations: 128, Fidelity of excited state 7: 0.9999
+iterations: 128, Fidelity of excited state 10: 0.9999
+iterations: 128, Fidelity of excited state 12: 0.9966
+iterations: 128, Fidelity of excited state 13: 0.9966
+iterations: 129, loss: 16.0000
+iterations: 129, NumOp_psi7: 3.0000
+iterations: 129, NumOp_psi10: 3.0000
+iterations: 129, NumOp_psi12: 3.0000
+iterations: 129, NumOp_psi13: 3.0000
+iterations: 129, Sz_psi7: -0.4999
+iterations: 129, Sz_psi10: 0.4999
+iterations: 129, Sz_psi12: -0.4966
+iterations: 129, Sz_psi13: 0.4966
+iterations: 129, E7: 1.0000
+iterations: 129, E10: 1.0000
+iterations: 129, E12: 3.0000
+iterations: 129, E13: 3.0000
+iterations: 129, Fidelity of excited state 7: 0.9999
+iterations: 129, Fidelity of excited state 10: 0.9999
+iterations: 129, Fidelity of excited state 12: 0.9966
+iterations: 129, Fidelity of excited state 13: 0.9966
+iterations: 130, loss: 16.0000
+iterations: 130, NumOp_psi7: 3.0000
+iterations: 130, NumOp_psi10: 3.0000
+iterations: 130, NumOp_psi12: 3.0000
+iterations: 130, NumOp_psi13: 3.0000
+iterations: 130, Sz_psi7: -0.4999
+iterations: 130, Sz_psi10: 0.4999
+iterations: 130, Sz_psi12: -0.4966
+iterations: 130, Sz_psi13: 0.4966
+iterations: 130, E7: 1.0000
+iterations: 130, E10: 1.0000
+iterations: 130, E12: 3.0000
+iterations: 130, E13: 3.0000
+iterations: 130, Fidelity of excited state 7: 0.9999
+iterations: 130, Fidelity of excited state 10: 0.9999
+iterations: 130, Fidelity of excited state 12: 0.9966
+iterations: 130, Fidelity of excited state 13: 0.9966
+iterations: 131, loss: 16.0000
+iterations: 131, NumOp_psi7: 3.0000
+iterations: 131, NumOp_psi10: 3.0000
+iterations: 131, NumOp_psi12: 3.0000
+iterations: 131, NumOp_psi13: 3.0000
+iterations: 131, Sz_psi7: -0.4999
+iterations: 131, Sz_psi10: 0.4999
+iterations: 131, Sz_psi12: -0.4966
+iterations: 131, Sz_psi13: 0.4966
+iterations: 131, E7: 1.0000
+iterations: 131, E10: 1.0000
+iterations: 131, E12: 3.0000
+iterations: 131, E13: 3.0000
+iterations: 131, Fidelity of excited state 7: 0.9999
+iterations: 131, Fidelity of excited state 10: 0.9999
+iterations: 131, Fidelity of excited state 12: 0.9966
+iterations: 131, Fidelity of excited state 13: 0.9966
+iterations: 132, loss: 16.0000
+iterations: 132, NumOp_psi7: 3.0000
+iterations: 132, NumOp_psi10: 3.0000
+iterations: 132, NumOp_psi12: 3.0000
+iterations: 132, NumOp_psi13: 3.0000
+iterations: 132, Sz_psi7: -0.4999
+iterations: 132, Sz_psi10: 0.4999
+iterations: 132, Sz_psi12: -0.4966
+iterations: 132, Sz_psi13: 0.4966
+iterations: 132, E7: 1.0000
+iterations: 132, E10: 1.0000
+iterations: 132, E12: 3.0000
+iterations: 132, E13: 3.0000
+iterations: 132, Fidelity of excited state 7: 0.9999
+iterations: 132, Fidelity of excited state 10: 0.9999
+iterations: 132, Fidelity of excited state 12: 0.9966
+iterations: 132, Fidelity of excited state 13: 0.9966
+iterations: 133, loss: 16.0000
+iterations: 133, NumOp_psi7: 3.0000
+iterations: 133, NumOp_psi10: 3.0000
+iterations: 133, NumOp_psi12: 3.0000
+iterations: 133, NumOp_psi13: 3.0000
+iterations: 133, Sz_psi7: -0.4999
+iterations: 133, Sz_psi10: 0.4999
+iterations: 133, Sz_psi12: -0.4967
+iterations: 133, Sz_psi13: 0.4967
+iterations: 133, E7: 1.0000
+iterations: 133, E10: 1.0000
+iterations: 133, E12: 3.0000
+iterations: 133, E13: 3.0000
+iterations: 133, Fidelity of excited state 7: 0.9999
+iterations: 133, Fidelity of excited state 10: 0.9999
+iterations: 133, Fidelity of excited state 12: 0.9967
+iterations: 133, Fidelity of excited state 13: 0.9967
+iterations: 134, loss: 16.0000
+iterations: 134, NumOp_psi7: 3.0000
+iterations: 134, NumOp_psi10: 3.0000
+iterations: 134, NumOp_psi12: 3.0000
+iterations: 134, NumOp_psi13: 3.0000
+iterations: 134, Sz_psi7: -0.4999
+iterations: 134, Sz_psi10: 0.4999
+iterations: 134, Sz_psi12: -0.4967
+iterations: 134, Sz_psi13: 0.4967
+iterations: 134, E7: 1.0000
+iterations: 134, E10: 1.0000
+iterations: 134, E12: 3.0000
+iterations: 134, E13: 3.0000
+iterations: 134, Fidelity of excited state 7: 0.9999
+iterations: 134, Fidelity of excited state 10: 0.9999
+iterations: 134, Fidelity of excited state 12: 0.9967
+iterations: 134, Fidelity of excited state 13: 0.9967
+iterations: 135, loss: 16.0000
+iterations: 135, NumOp_psi7: 3.0000
+iterations: 135, NumOp_psi10: 3.0000
+iterations: 135, NumOp_psi12: 3.0000
+iterations: 135, NumOp_psi13: 3.0000
+iterations: 135, Sz_psi7: -0.4999
+iterations: 135, Sz_psi10: 0.4999
+iterations: 135, Sz_psi12: -0.4967
+iterations: 135, Sz_psi13: 0.4967
+iterations: 135, E7: 1.0000
+iterations: 135, E10: 1.0000
+iterations: 135, E12: 3.0000
+iterations: 135, E13: 3.0000
+iterations: 135, Fidelity of excited state 7: 0.9999
+iterations: 135, Fidelity of excited state 10: 0.9999
+iterations: 135, Fidelity of excited state 12: 0.9967
+iterations: 135, Fidelity of excited state 13: 0.9967
+iterations: 136, loss: 16.0000
+iterations: 136, NumOp_psi7: 3.0000
+iterations: 136, NumOp_psi10: 3.0000
+iterations: 136, NumOp_psi12: 3.0000
+iterations: 136, NumOp_psi13: 3.0000
+iterations: 136, Sz_psi7: -0.4999
+iterations: 136, Sz_psi10: 0.4999
+iterations: 136, Sz_psi12: -0.4967
+iterations: 136, Sz_psi13: 0.4967
+iterations: 136, E7: 1.0000
+iterations: 136, E10: 1.0000
+iterations: 136, E12: 3.0000
+iterations: 136, E13: 3.0000
+iterations: 136, Fidelity of excited state 7: 0.9999
+iterations: 136, Fidelity of excited state 10: 0.9999
+iterations: 136, Fidelity of excited state 12: 0.9967
+iterations: 136, Fidelity of excited state 13: 0.9967
+iterations: 137, loss: 16.0000
+iterations: 137, NumOp_psi7: 3.0000
+iterations: 137, NumOp_psi10: 3.0000
+iterations: 137, NumOp_psi12: 3.0000
+iterations: 137, NumOp_psi13: 3.0000
+iterations: 137, Sz_psi7: -0.4999
+iterations: 137, Sz_psi10: 0.4999
+iterations: 137, Sz_psi12: -0.4967
+iterations: 137, Sz_psi13: 0.4967
+iterations: 137, E7: 1.0000
+iterations: 137, E10: 1.0000
+iterations: 137, E12: 3.0000
+iterations: 137, E13: 3.0000
+iterations: 137, Fidelity of excited state 7: 0.9999
+iterations: 137, Fidelity of excited state 10: 0.9999
+iterations: 137, Fidelity of excited state 12: 0.9967
+iterations: 137, Fidelity of excited state 13: 0.9967
+iterations: 138, loss: 16.0000
+iterations: 138, NumOp_psi7: 3.0000
+iterations: 138, NumOp_psi10: 3.0000
+iterations: 138, NumOp_psi12: 3.0000
+iterations: 138, NumOp_psi13: 3.0000
+iterations: 138, Sz_psi7: -0.4999
+iterations: 138, Sz_psi10: 0.4999
+iterations: 138, Sz_psi12: -0.4967
+iterations: 138, Sz_psi13: 0.4967
+iterations: 138, E7: 1.0000
+iterations: 138, E10: 1.0000
+iterations: 138, E12: 3.0000
+iterations: 138, E13: 3.0000
+iterations: 138, Fidelity of excited state 7: 0.9999
+iterations: 138, Fidelity of excited state 10: 0.9999
+iterations: 138, Fidelity of excited state 12: 0.9967
+iterations: 138, Fidelity of excited state 13: 0.9967
+iterations: 139, loss: 16.0000
+iterations: 139, NumOp_psi7: 3.0000
+iterations: 139, NumOp_psi10: 3.0000
+iterations: 139, NumOp_psi12: 3.0000
+iterations: 139, NumOp_psi13: 3.0000
+iterations: 139, Sz_psi7: -0.4999
+iterations: 139, Sz_psi10: 0.4999
+iterations: 139, Sz_psi12: -0.4968
+iterations: 139, Sz_psi13: 0.4968
+iterations: 139, E7: 1.0000
+iterations: 139, E10: 1.0000
+iterations: 139, E12: 3.0000
+iterations: 139, E13: 3.0000
+iterations: 139, Fidelity of excited state 7: 0.9999
+iterations: 139, Fidelity of excited state 10: 0.9999
+iterations: 139, Fidelity of excited state 12: 0.9968
+iterations: 139, Fidelity of excited state 13: 0.9968
+iterations: 140, loss: 16.0000
+iterations: 140, NumOp_psi7: 3.0000
+iterations: 140, NumOp_psi10: 3.0000
+iterations: 140, NumOp_psi12: 3.0000
+iterations: 140, NumOp_psi13: 3.0000
+iterations: 140, Sz_psi7: -0.4999
+iterations: 140, Sz_psi10: 0.4999
+iterations: 140, Sz_psi12: -0.4968
+iterations: 140, Sz_psi13: 0.4968
+iterations: 140, E7: 1.0000
+iterations: 140, E10: 1.0000
+iterations: 140, E12: 3.0000
+iterations: 140, E13: 3.0000
+iterations: 140, Fidelity of excited state 7: 0.9999
+iterations: 140, Fidelity of excited state 10: 0.9999
+iterations: 140, Fidelity of excited state 12: 0.9968
+iterations: 140, Fidelity of excited state 13: 0.9968
+iterations: 141, loss: 16.0000
+iterations: 141, NumOp_psi7: 3.0000
+iterations: 141, NumOp_psi10: 3.0000
+iterations: 141, NumOp_psi12: 3.0000
+iterations: 141, NumOp_psi13: 3.0000
+iterations: 141, Sz_psi7: -0.4999
+iterations: 141, Sz_psi10: 0.4999
+iterations: 141, Sz_psi12: -0.4968
+iterations: 141, Sz_psi13: 0.4968
+iterations: 141, E7: 1.0000
+iterations: 141, E10: 1.0000
+iterations: 141, E12: 3.0000
+iterations: 141, E13: 3.0000
+iterations: 141, Fidelity of excited state 7: 0.9999
+iterations: 141, Fidelity of excited state 10: 0.9999
+iterations: 141, Fidelity of excited state 12: 0.9968
+iterations: 141, Fidelity of excited state 13: 0.9968
+iterations: 142, loss: 16.0000
+iterations: 142, NumOp_psi7: 3.0000
+iterations: 142, NumOp_psi10: 3.0000
+iterations: 142, NumOp_psi12: 3.0000
+iterations: 142, NumOp_psi13: 3.0000
+iterations: 142, Sz_psi7: -0.4999
+iterations: 142, Sz_psi10: 0.4999
+iterations: 142, Sz_psi12: -0.4968
+iterations: 142, Sz_psi13: 0.4968
+iterations: 142, E7: 1.0000
+iterations: 142, E10: 1.0000
+iterations: 142, E12: 3.0000
+iterations: 142, E13: 3.0000
+iterations: 142, Fidelity of excited state 7: 0.9999
+iterations: 142, Fidelity of excited state 10: 0.9999
+iterations: 142, Fidelity of excited state 12: 0.9968
+iterations: 142, Fidelity of excited state 13: 0.9968
+iterations: 143, loss: 16.0000
+iterations: 143, NumOp_psi7: 3.0000
+iterations: 143, NumOp_psi10: 3.0000
+iterations: 143, NumOp_psi12: 3.0000
+iterations: 143, NumOp_psi13: 3.0000
+iterations: 143, Sz_psi7: -0.5000
+iterations: 143, Sz_psi10: 0.4999
+iterations: 143, Sz_psi12: -0.4968
+iterations: 143, Sz_psi13: 0.4968
+iterations: 143, E7: 1.0000
+iterations: 143, E10: 1.0000
+iterations: 143, E12: 3.0000
+iterations: 143, E13: 3.0000
+iterations: 143, Fidelity of excited state 7: 0.9999
+iterations: 143, Fidelity of excited state 10: 0.9999
+iterations: 143, Fidelity of excited state 12: 0.9968
+iterations: 143, Fidelity of excited state 13: 0.9968
+iterations: 144, loss: 16.0000
+iterations: 144, NumOp_psi7: 3.0000
+iterations: 144, NumOp_psi10: 3.0000
+iterations: 144, NumOp_psi12: 3.0000
+iterations: 144, NumOp_psi13: 3.0000
+iterations: 144, Sz_psi7: -0.5000
+iterations: 144, Sz_psi10: 0.5000
+iterations: 144, Sz_psi12: -0.4968
+iterations: 144, Sz_psi13: 0.4968
+iterations: 144, E7: 1.0000
+iterations: 144, E10: 1.0000
+iterations: 144, E12: 3.0000
+iterations: 144, E13: 3.0000
+iterations: 144, Fidelity of excited state 7: 0.9999
+iterations: 144, Fidelity of excited state 10: 0.9999
+iterations: 144, Fidelity of excited state 12: 0.9968
+iterations: 144, Fidelity of excited state 13: 0.9968
+iterations: 145, loss: 16.0000
+iterations: 145, NumOp_psi7: 3.0000
+iterations: 145, NumOp_psi10: 3.0000
+iterations: 145, NumOp_psi12: 3.0000
+iterations: 145, NumOp_psi13: 3.0000
+iterations: 145, Sz_psi7: -0.5000
+iterations: 145, Sz_psi10: 0.5000
+iterations: 145, Sz_psi12: -0.4969
+iterations: 145, Sz_psi13: 0.4969
+iterations: 145, E7: 1.0000
+iterations: 145, E10: 1.0000
+iterations: 145, E12: 3.0000
+iterations: 145, E13: 3.0000
+iterations: 145, Fidelity of excited state 7: 1.0000
+iterations: 145, Fidelity of excited state 10: 0.9999
+iterations: 145, Fidelity of excited state 12: 0.9969
+iterations: 145, Fidelity of excited state 13: 0.9969
+iterations: 146, loss: 16.0000
+iterations: 146, NumOp_psi7: 3.0000
+iterations: 146, NumOp_psi10: 3.0000
+iterations: 146, NumOp_psi12: 3.0000
+iterations: 146, NumOp_psi13: 3.0000
+iterations: 146, Sz_psi7: -0.5000
+iterations: 146, Sz_psi10: 0.5000
+iterations: 146, Sz_psi12: -0.4969
+iterations: 146, Sz_psi13: 0.4969
+iterations: 146, E7: 1.0000
+iterations: 146, E10: 1.0000
+iterations: 146, E12: 3.0000
+iterations: 146, E13: 3.0000
+iterations: 146, Fidelity of excited state 7: 1.0000
+iterations: 146, Fidelity of excited state 10: 1.0000
+iterations: 146, Fidelity of excited state 12: 0.9969
+iterations: 146, Fidelity of excited state 13: 0.9969
+iterations: 147, loss: 16.0000
+iterations: 147, NumOp_psi7: 3.0000
+iterations: 147, NumOp_psi10: 3.0000
+iterations: 147, NumOp_psi12: 3.0000
+iterations: 147, NumOp_psi13: 3.0000
+iterations: 147, Sz_psi7: -0.5000
+iterations: 147, Sz_psi10: 0.5000
+iterations: 147, Sz_psi12: -0.4969
+iterations: 147, Sz_psi13: 0.4969
+iterations: 147, E7: 1.0000
+iterations: 147, E10: 1.0000
+iterations: 147, E12: 3.0000
+iterations: 147, E13: 3.0000
+iterations: 147, Fidelity of excited state 7: 1.0000
+iterations: 147, Fidelity of excited state 10: 1.0000
+iterations: 147, Fidelity of excited state 12: 0.9969
+iterations: 147, Fidelity of excited state 13: 0.9969
+iterations: 148, loss: 16.0000
+iterations: 148, NumOp_psi7: 3.0000
+iterations: 148, NumOp_psi10: 3.0000
+iterations: 148, NumOp_psi12: 3.0000
+iterations: 148, NumOp_psi13: 3.0000
+iterations: 148, Sz_psi7: -0.5000
+iterations: 148, Sz_psi10: 0.5000
+iterations: 148, Sz_psi12: -0.4969
+iterations: 148, Sz_psi13: 0.4969
+iterations: 148, E7: 1.0000
+iterations: 148, E10: 1.0000
+iterations: 148, E12: 3.0000
+iterations: 148, E13: 3.0000
+iterations: 148, Fidelity of excited state 7: 1.0000
+iterations: 148, Fidelity of excited state 10: 1.0000
+iterations: 148, Fidelity of excited state 12: 0.9969
+iterations: 148, Fidelity of excited state 13: 0.9969
+iterations: 149, loss: 16.0000
+iterations: 149, NumOp_psi7: 3.0000
+iterations: 149, NumOp_psi10: 3.0000
+iterations: 149, NumOp_psi12: 3.0000
+iterations: 149, NumOp_psi13: 3.0000
+iterations: 149, Sz_psi7: -0.5000
+iterations: 149, Sz_psi10: 0.5000
+iterations: 149, Sz_psi12: -0.4969
+iterations: 149, Sz_psi13: 0.4969
+iterations: 149, E7: 1.0000
+iterations: 149, E10: 1.0000
+iterations: 149, E12: 3.0000
+iterations: 149, E13: 3.0000
+iterations: 149, Fidelity of excited state 7: 1.0000
+iterations: 149, Fidelity of excited state 10: 1.0000
+iterations: 149, Fidelity of excited state 12: 0.9969
+iterations: 149, Fidelity of excited state 13: 0.9969
+iterations: 150, loss: 16.0000
+iterations: 150, NumOp_psi7: 3.0000
+iterations: 150, NumOp_psi10: 3.0000
+iterations: 150, NumOp_psi12: 3.0000
+iterations: 150, NumOp_psi13: 3.0000
+iterations: 150, Sz_psi7: -0.5000
+iterations: 150, Sz_psi10: 0.5000
+iterations: 150, Sz_psi12: -0.4969
+iterations: 150, Sz_psi13: 0.4969
+iterations: 150, E7: 1.0000
+iterations: 150, E10: 1.0000
+iterations: 150, E12: 3.0000
+iterations: 150, E13: 3.0000
+iterations: 150, Fidelity of excited state 7: 1.0000
+iterations: 150, Fidelity of excited state 10: 1.0000
+iterations: 150, Fidelity of excited state 12: 0.9969
+iterations: 150, Fidelity of excited state 13: 0.9969
+iterations: 151, loss: 16.0000
+iterations: 151, NumOp_psi7: 3.0000
+iterations: 151, NumOp_psi10: 3.0000
+iterations: 151, NumOp_psi12: 3.0000
+iterations: 151, NumOp_psi13: 3.0000
+iterations: 151, Sz_psi7: -0.5000
+iterations: 151, Sz_psi10: 0.5000
+iterations: 151, Sz_psi12: -0.4969
+iterations: 151, Sz_psi13: 0.4969
+iterations: 151, E7: 1.0000
+iterations: 151, E10: 1.0000
+iterations: 151, E12: 3.0000
+iterations: 151, E13: 3.0000
+iterations: 151, Fidelity of excited state 7: 1.0000
+iterations: 151, Fidelity of excited state 10: 1.0000
+iterations: 151, Fidelity of excited state 12: 0.9969
+iterations: 151, Fidelity of excited state 13: 0.9969
+iterations: 152, loss: 16.0000
+iterations: 152, NumOp_psi7: 3.0000
+iterations: 152, NumOp_psi10: 3.0000
+iterations: 152, NumOp_psi12: 3.0000
+iterations: 152, NumOp_psi13: 3.0000
+iterations: 152, Sz_psi7: -0.5000
+iterations: 152, Sz_psi10: 0.5000
+iterations: 152, Sz_psi12: -0.4969
+iterations: 152, Sz_psi13: 0.4969
+iterations: 152, E7: 1.0000
+iterations: 152, E10: 1.0000
+iterations: 152, E12: 3.0000
+iterations: 152, E13: 3.0000
+iterations: 152, Fidelity of excited state 7: 1.0000
+iterations: 152, Fidelity of excited state 10: 1.0000
+iterations: 152, Fidelity of excited state 12: 0.9969
+iterations: 152, Fidelity of excited state 13: 0.9969
+iterations: 153, loss: 16.0000
+iterations: 153, NumOp_psi7: 3.0000
+iterations: 153, NumOp_psi10: 3.0000
+iterations: 153, NumOp_psi12: 3.0000
+iterations: 153, NumOp_psi13: 3.0000
+iterations: 153, Sz_psi7: -0.5000
+iterations: 153, Sz_psi10: 0.5000
+iterations: 153, Sz_psi12: -0.4969
+iterations: 153, Sz_psi13: 0.4969
+iterations: 153, E7: 1.0000
+iterations: 153, E10: 1.0000
+iterations: 153, E12: 3.0000
+iterations: 153, E13: 3.0000
+iterations: 153, Fidelity of excited state 7: 1.0000
+iterations: 153, Fidelity of excited state 10: 1.0000
+iterations: 153, Fidelity of excited state 12: 0.9969
+iterations: 153, Fidelity of excited state 13: 0.9969
+iterations: 154, loss: 16.0000
+iterations: 154, NumOp_psi7: 3.0000
+iterations: 154, NumOp_psi10: 3.0000
+iterations: 154, NumOp_psi12: 3.0000
+iterations: 154, NumOp_psi13: 3.0000
+iterations: 154, Sz_psi7: -0.5000
+iterations: 154, Sz_psi10: 0.5000
+iterations: 154, Sz_psi12: -0.4970
+iterations: 154, Sz_psi13: 0.4970
+iterations: 154, E7: 1.0000
+iterations: 154, E10: 1.0000
+iterations: 154, E12: 3.0000
+iterations: 154, E13: 3.0000
+iterations: 154, Fidelity of excited state 7: 1.0000
+iterations: 154, Fidelity of excited state 10: 1.0000
+iterations: 154, Fidelity of excited state 12: 0.9970
+iterations: 154, Fidelity of excited state 13: 0.9970
+iterations: 155, loss: 16.0000
+iterations: 155, NumOp_psi7: 3.0000
+iterations: 155, NumOp_psi10: 3.0000
+iterations: 155, NumOp_psi12: 3.0000
+iterations: 155, NumOp_psi13: 3.0000
+iterations: 155, Sz_psi7: -0.5000
+iterations: 155, Sz_psi10: 0.5000
+iterations: 155, Sz_psi12: -0.4970
+iterations: 155, Sz_psi13: 0.4970
+iterations: 155, E7: 1.0000
+iterations: 155, E10: 1.0000
+iterations: 155, E12: 3.0000
+iterations: 155, E13: 3.0000
+iterations: 155, Fidelity of excited state 7: 1.0000
+iterations: 155, Fidelity of excited state 10: 1.0000
+iterations: 155, Fidelity of excited state 12: 0.9970
+iterations: 155, Fidelity of excited state 13: 0.9970
+iterations: 156, loss: 16.0000
+iterations: 156, NumOp_psi7: 3.0000
+iterations: 156, NumOp_psi10: 3.0000
+iterations: 156, NumOp_psi12: 3.0000
+iterations: 156, NumOp_psi13: 3.0000
+iterations: 156, Sz_psi7: -0.5000
+iterations: 156, Sz_psi10: 0.5000
+iterations: 156, Sz_psi12: -0.4970
+iterations: 156, Sz_psi13: 0.4970
+iterations: 156, E7: 1.0000
+iterations: 156, E10: 1.0000
+iterations: 156, E12: 3.0000
+iterations: 156, E13: 3.0000
+iterations: 156, Fidelity of excited state 7: 1.0000
+iterations: 156, Fidelity of excited state 10: 1.0000
+iterations: 156, Fidelity of excited state 12: 0.9970
+iterations: 156, Fidelity of excited state 13: 0.9970
+iterations: 157, loss: 16.0000
+iterations: 157, NumOp_psi7: 3.0000
+iterations: 157, NumOp_psi10: 3.0000
+iterations: 157, NumOp_psi12: 3.0000
+iterations: 157, NumOp_psi13: 3.0000
+iterations: 157, Sz_psi7: -0.5000
+iterations: 157, Sz_psi10: 0.5000
+iterations: 157, Sz_psi12: -0.4970
+iterations: 157, Sz_psi13: 0.4970
+iterations: 157, E7: 1.0000
+iterations: 157, E10: 1.0000
+iterations: 157, E12: 3.0000
+iterations: 157, E13: 3.0000
+iterations: 157, Fidelity of excited state 7: 1.0000
+iterations: 157, Fidelity of excited state 10: 1.0000
+iterations: 157, Fidelity of excited state 12: 0.9970
+iterations: 157, Fidelity of excited state 13: 0.9970
+iterations: 158, loss: 16.0000
+iterations: 158, NumOp_psi7: 3.0000
+iterations: 158, NumOp_psi10: 3.0000
+iterations: 158, NumOp_psi12: 3.0000
+iterations: 158, NumOp_psi13: 3.0000
+iterations: 158, Sz_psi7: -0.5000
+iterations: 158, Sz_psi10: 0.5000
+iterations: 158, Sz_psi12: -0.4970
+iterations: 158, Sz_psi13: 0.4970
+iterations: 158, E7: 1.0000
+iterations: 158, E10: 1.0000
+iterations: 158, E12: 3.0000
+iterations: 158, E13: 3.0000
+iterations: 158, Fidelity of excited state 7: 1.0000
+iterations: 158, Fidelity of excited state 10: 1.0000
+iterations: 158, Fidelity of excited state 12: 0.9970
+iterations: 158, Fidelity of excited state 13: 0.9970
+iterations: 159, loss: 16.0000
+iterations: 159, NumOp_psi7: 3.0000
+iterations: 159, NumOp_psi10: 3.0000
+iterations: 159, NumOp_psi12: 3.0000
+iterations: 159, NumOp_psi13: 3.0000
+iterations: 159, Sz_psi7: -0.5000
+iterations: 159, Sz_psi10: 0.5000
+iterations: 159, Sz_psi12: -0.4970
+iterations: 159, Sz_psi13: 0.4970
+iterations: 159, E7: 1.0000
+iterations: 159, E10: 1.0000
+iterations: 159, E12: 3.0000
+iterations: 159, E13: 3.0000
+iterations: 159, Fidelity of excited state 7: 1.0000
+iterations: 159, Fidelity of excited state 10: 1.0000
+iterations: 159, Fidelity of excited state 12: 0.9970
+iterations: 159, Fidelity of excited state 13: 0.9970
+iterations: 160, loss: 16.0000
+iterations: 160, NumOp_psi7: 3.0000
+iterations: 160, NumOp_psi10: 3.0000
+iterations: 160, NumOp_psi12: 3.0000
+iterations: 160, NumOp_psi13: 3.0000
+iterations: 160, Sz_psi7: -0.5000
+iterations: 160, Sz_psi10: 0.5000
+iterations: 160, Sz_psi12: -0.4970
+iterations: 160, Sz_psi13: 0.4970
+iterations: 160, E7: 1.0000
+iterations: 160, E10: 1.0000
+iterations: 160, E12: 3.0000
+iterations: 160, E13: 3.0000
+iterations: 160, Fidelity of excited state 7: 1.0000
+iterations: 160, Fidelity of excited state 10: 1.0000
+iterations: 160, Fidelity of excited state 12: 0.9970
+iterations: 160, Fidelity of excited state 13: 0.9970
+iterations: 161, loss: 16.0000
+iterations: 161, NumOp_psi7: 3.0000
+iterations: 161, NumOp_psi10: 3.0000
+iterations: 161, NumOp_psi12: 3.0000
+iterations: 161, NumOp_psi13: 3.0000
+iterations: 161, Sz_psi7: -0.5000
+iterations: 161, Sz_psi10: 0.5000
+iterations: 161, Sz_psi12: -0.4971
+iterations: 161, Sz_psi13: 0.4971
+iterations: 161, E7: 1.0000
+iterations: 161, E10: 1.0000
+iterations: 161, E12: 3.0000
+iterations: 161, E13: 3.0000
+iterations: 161, Fidelity of excited state 7: 1.0000
+iterations: 161, Fidelity of excited state 10: 1.0000
+iterations: 161, Fidelity of excited state 12: 0.9971
+iterations: 161, Fidelity of excited state 13: 0.9971
+iterations: 162, loss: 16.0000
+iterations: 162, NumOp_psi7: 3.0000
+iterations: 162, NumOp_psi10: 3.0000
+iterations: 162, NumOp_psi12: 3.0000
+iterations: 162, NumOp_psi13: 3.0000
+iterations: 162, Sz_psi7: -0.5000
+iterations: 162, Sz_psi10: 0.5000
+iterations: 162, Sz_psi12: -0.4971
+iterations: 162, Sz_psi13: 0.4971
+iterations: 162, E7: 1.0000
+iterations: 162, E10: 1.0000
+iterations: 162, E12: 3.0000
+iterations: 162, E13: 3.0000
+iterations: 162, Fidelity of excited state 7: 1.0000
+iterations: 162, Fidelity of excited state 10: 1.0000
+iterations: 162, Fidelity of excited state 12: 0.9971
+iterations: 162, Fidelity of excited state 13: 0.9971
+iterations: 163, loss: 16.0000
+iterations: 163, NumOp_psi7: 3.0000
+iterations: 163, NumOp_psi10: 3.0000
+iterations: 163, NumOp_psi12: 3.0000
+iterations: 163, NumOp_psi13: 3.0000
+iterations: 163, Sz_psi7: -0.5000
+iterations: 163, Sz_psi10: 0.5000
+iterations: 163, Sz_psi12: -0.4971
+iterations: 163, Sz_psi13: 0.4971
+iterations: 163, E7: 1.0000
+iterations: 163, E10: 1.0000
+iterations: 163, E12: 3.0000
+iterations: 163, E13: 3.0000
+iterations: 163, Fidelity of excited state 7: 1.0000
+iterations: 163, Fidelity of excited state 10: 1.0000
+iterations: 163, Fidelity of excited state 12: 0.9971
+iterations: 163, Fidelity of excited state 13: 0.9971
+iterations: 164, loss: 16.0000
+iterations: 164, NumOp_psi7: 3.0000
+iterations: 164, NumOp_psi10: 3.0000
+iterations: 164, NumOp_psi12: 3.0000
+iterations: 164, NumOp_psi13: 3.0000
+iterations: 164, Sz_psi7: -0.5000
+iterations: 164, Sz_psi10: 0.5000
+iterations: 164, Sz_psi12: -0.4971
+iterations: 164, Sz_psi13: 0.4971
+iterations: 164, E7: 1.0000
+iterations: 164, E10: 1.0000
+iterations: 164, E12: 3.0000
+iterations: 164, E13: 3.0000
+iterations: 164, Fidelity of excited state 7: 1.0000
+iterations: 164, Fidelity of excited state 10: 1.0000
+iterations: 164, Fidelity of excited state 12: 0.9971
+iterations: 164, Fidelity of excited state 13: 0.9971
+iterations: 165, loss: 16.0000
+iterations: 165, NumOp_psi7: 3.0000
+iterations: 165, NumOp_psi10: 3.0000
+iterations: 165, NumOp_psi12: 3.0000
+iterations: 165, NumOp_psi13: 3.0000
+iterations: 165, Sz_psi7: -0.5000
+iterations: 165, Sz_psi10: 0.5000
+iterations: 165, Sz_psi12: -0.4971
+iterations: 165, Sz_psi13: 0.4971
+iterations: 165, E7: 1.0000
+iterations: 165, E10: 1.0000
+iterations: 165, E12: 3.0000
+iterations: 165, E13: 3.0000
+iterations: 165, Fidelity of excited state 7: 1.0000
+iterations: 165, Fidelity of excited state 10: 1.0000
+iterations: 165, Fidelity of excited state 12: 0.9971
+iterations: 165, Fidelity of excited state 13: 0.9971
+iterations: 166, loss: 16.0000
+iterations: 166, NumOp_psi7: 3.0000
+iterations: 166, NumOp_psi10: 3.0000
+iterations: 166, NumOp_psi12: 3.0000
+iterations: 166, NumOp_psi13: 3.0000
+iterations: 166, Sz_psi7: -0.5000
+iterations: 166, Sz_psi10: 0.5000
+iterations: 166, Sz_psi12: -0.4971
+iterations: 166, Sz_psi13: 0.4971
+iterations: 166, E7: 1.0000
+iterations: 166, E10: 1.0000
+iterations: 166, E12: 3.0000
+iterations: 166, E13: 3.0000
+iterations: 166, Fidelity of excited state 7: 1.0000
+iterations: 166, Fidelity of excited state 10: 1.0000
+iterations: 166, Fidelity of excited state 12: 0.9971
+iterations: 166, Fidelity of excited state 13: 0.9971
+iterations: 167, loss: 16.0000
+iterations: 167, NumOp_psi7: 3.0000
+iterations: 167, NumOp_psi10: 3.0000
+iterations: 167, NumOp_psi12: 3.0000
+iterations: 167, NumOp_psi13: 3.0000
+iterations: 167, Sz_psi7: -0.5000
+iterations: 167, Sz_psi10: 0.5000
+iterations: 167, Sz_psi12: -0.4971
+iterations: 167, Sz_psi13: 0.4971
+iterations: 167, E7: 1.0000
+iterations: 167, E10: 1.0000
+iterations: 167, E12: 3.0000
+iterations: 167, E13: 3.0000
+iterations: 167, Fidelity of excited state 7: 1.0000
+iterations: 167, Fidelity of excited state 10: 1.0000
+iterations: 167, Fidelity of excited state 12: 0.9971
+iterations: 167, Fidelity of excited state 13: 0.9971
+iterations: 168, loss: 16.0000
+iterations: 168, NumOp_psi7: 3.0000
+iterations: 168, NumOp_psi10: 3.0000
+iterations: 168, NumOp_psi12: 3.0000
+iterations: 168, NumOp_psi13: 3.0000
+iterations: 168, Sz_psi7: -0.5000
+iterations: 168, Sz_psi10: 0.5000
+iterations: 168, Sz_psi12: -0.4971
+iterations: 168, Sz_psi13: 0.4971
+iterations: 168, E7: 1.0000
+iterations: 168, E10: 1.0000
+iterations: 168, E12: 3.0000
+iterations: 168, E13: 3.0000
+iterations: 168, Fidelity of excited state 7: 1.0000
+iterations: 168, Fidelity of excited state 10: 1.0000
+iterations: 168, Fidelity of excited state 12: 0.9971
+iterations: 168, Fidelity of excited state 13: 0.9971
+iterations: 169, loss: 16.0000
+iterations: 169, NumOp_psi7: 3.0000
+iterations: 169, NumOp_psi10: 3.0000
+iterations: 169, NumOp_psi12: 3.0000
+iterations: 169, NumOp_psi13: 3.0000
+iterations: 169, Sz_psi7: -0.5000
+iterations: 169, Sz_psi10: 0.5000
+iterations: 169, Sz_psi12: -0.4971
+iterations: 169, Sz_psi13: 0.4971
+iterations: 169, E7: 1.0000
+iterations: 169, E10: 1.0000
+iterations: 169, E12: 3.0000
+iterations: 169, E13: 3.0000
+iterations: 169, Fidelity of excited state 7: 1.0000
+iterations: 169, Fidelity of excited state 10: 1.0000
+iterations: 169, Fidelity of excited state 12: 0.9971
+iterations: 169, Fidelity of excited state 13: 0.9971
+iterations: 170, loss: 16.0000
+iterations: 170, NumOp_psi7: 3.0000
+iterations: 170, NumOp_psi10: 3.0000
+iterations: 170, NumOp_psi12: 3.0000
+iterations: 170, NumOp_psi13: 3.0000
+iterations: 170, Sz_psi7: -0.5000
+iterations: 170, Sz_psi10: 0.5000
+iterations: 170, Sz_psi12: -0.4972
+iterations: 170, Sz_psi13: 0.4972
+iterations: 170, E7: 1.0000
+iterations: 170, E10: 1.0000
+iterations: 170, E12: 3.0000
+iterations: 170, E13: 3.0000
+iterations: 170, Fidelity of excited state 7: 1.0000
+iterations: 170, Fidelity of excited state 10: 1.0000
+iterations: 170, Fidelity of excited state 12: 0.9972
+iterations: 170, Fidelity of excited state 13: 0.9972
+iterations: 171, loss: 16.0000
+iterations: 171, NumOp_psi7: 3.0000
+iterations: 171, NumOp_psi10: 3.0000
+iterations: 171, NumOp_psi12: 3.0000
+iterations: 171, NumOp_psi13: 3.0000
+iterations: 171, Sz_psi7: -0.5000
+iterations: 171, Sz_psi10: 0.5000
+iterations: 171, Sz_psi12: -0.4972
+iterations: 171, Sz_psi13: 0.4972
+iterations: 171, E7: 1.0000
+iterations: 171, E10: 1.0000
+iterations: 171, E12: 3.0000
+iterations: 171, E13: 3.0000
+iterations: 171, Fidelity of excited state 7: 1.0000
+iterations: 171, Fidelity of excited state 10: 1.0000
+iterations: 171, Fidelity of excited state 12: 0.9972
+iterations: 171, Fidelity of excited state 13: 0.9972
+iterations: 172, loss: 16.0000
+iterations: 172, NumOp_psi7: 3.0000
+iterations: 172, NumOp_psi10: 3.0000
+iterations: 172, NumOp_psi12: 3.0000
+iterations: 172, NumOp_psi13: 3.0000
+iterations: 172, Sz_psi7: -0.5000
+iterations: 172, Sz_psi10: 0.5000
+iterations: 172, Sz_psi12: -0.4972
+iterations: 172, Sz_psi13: 0.4972
+iterations: 172, E7: 1.0000
+iterations: 172, E10: 1.0000
+iterations: 172, E12: 3.0000
+iterations: 172, E13: 3.0000
+iterations: 172, Fidelity of excited state 7: 1.0000
+iterations: 172, Fidelity of excited state 10: 1.0000
+iterations: 172, Fidelity of excited state 12: 0.9972
+iterations: 172, Fidelity of excited state 13: 0.9972
+iterations: 173, loss: 16.0000
+iterations: 173, NumOp_psi7: 3.0000
+iterations: 173, NumOp_psi10: 3.0000
+iterations: 173, NumOp_psi12: 3.0000
+iterations: 173, NumOp_psi13: 3.0000
+iterations: 173, Sz_psi7: -0.5000
+iterations: 173, Sz_psi10: 0.5000
+iterations: 173, Sz_psi12: -0.4972
+iterations: 173, Sz_psi13: 0.4972
+iterations: 173, E7: 1.0000
+iterations: 173, E10: 1.0000
+iterations: 173, E12: 3.0000
+iterations: 173, E13: 3.0000
+iterations: 173, Fidelity of excited state 7: 1.0000
+iterations: 173, Fidelity of excited state 10: 1.0000
+iterations: 173, Fidelity of excited state 12: 0.9972
+iterations: 173, Fidelity of excited state 13: 0.9972
+iterations: 174, loss: 16.0000
+iterations: 174, NumOp_psi7: 3.0000
+iterations: 174, NumOp_psi10: 3.0000
+iterations: 174, NumOp_psi12: 3.0000
+iterations: 174, NumOp_psi13: 3.0000
+iterations: 174, Sz_psi7: -0.5000
+iterations: 174, Sz_psi10: 0.5000
+iterations: 174, Sz_psi12: -0.4972
+iterations: 174, Sz_psi13: 0.4972
+iterations: 174, E7: 1.0000
+iterations: 174, E10: 1.0000
+iterations: 174, E12: 3.0000
+iterations: 174, E13: 3.0000
+iterations: 174, Fidelity of excited state 7: 1.0000
+iterations: 174, Fidelity of excited state 10: 1.0000
+iterations: 174, Fidelity of excited state 12: 0.9972
+iterations: 174, Fidelity of excited state 13: 0.9972
+iterations: 175, loss: 16.0000
+iterations: 175, NumOp_psi7: 3.0000
+iterations: 175, NumOp_psi10: 3.0000
+iterations: 175, NumOp_psi12: 3.0000
+iterations: 175, NumOp_psi13: 3.0000
+iterations: 175, Sz_psi7: -0.5000
+iterations: 175, Sz_psi10: 0.5000
+iterations: 175, Sz_psi12: -0.4972
+iterations: 175, Sz_psi13: 0.4972
+iterations: 175, E7: 1.0000
+iterations: 175, E10: 1.0000
+iterations: 175, E12: 3.0000
+iterations: 175, E13: 3.0000
+iterations: 175, Fidelity of excited state 7: 1.0000
+iterations: 175, Fidelity of excited state 10: 1.0000
+iterations: 175, Fidelity of excited state 12: 0.9972
+iterations: 175, Fidelity of excited state 13: 0.9972
+iterations: 176, loss: 16.0000
+iterations: 176, NumOp_psi7: 3.0000
+iterations: 176, NumOp_psi10: 3.0000
+iterations: 176, NumOp_psi12: 3.0000
+iterations: 176, NumOp_psi13: 3.0000
+iterations: 176, Sz_psi7: -0.5000
+iterations: 176, Sz_psi10: 0.5000
+iterations: 176, Sz_psi12: -0.4972
+iterations: 176, Sz_psi13: 0.4972
+iterations: 176, E7: 1.0000
+iterations: 176, E10: 1.0000
+iterations: 176, E12: 3.0000
+iterations: 176, E13: 3.0000
+iterations: 176, Fidelity of excited state 7: 1.0000
+iterations: 176, Fidelity of excited state 10: 1.0000
+iterations: 176, Fidelity of excited state 12: 0.9972
+iterations: 176, Fidelity of excited state 13: 0.9972
+iterations: 177, loss: 16.0000
+iterations: 177, NumOp_psi7: 3.0000
+iterations: 177, NumOp_psi10: 3.0000
+iterations: 177, NumOp_psi12: 3.0000
+iterations: 177, NumOp_psi13: 3.0000
+iterations: 177, Sz_psi7: -0.5000
+iterations: 177, Sz_psi10: 0.5000
+iterations: 177, Sz_psi12: -0.4972
+iterations: 177, Sz_psi13: 0.4972
+iterations: 177, E7: 1.0000
+iterations: 177, E10: 1.0000
+iterations: 177, E12: 3.0000
+iterations: 177, E13: 3.0000
+iterations: 177, Fidelity of excited state 7: 1.0000
+iterations: 177, Fidelity of excited state 10: 1.0000
+iterations: 177, Fidelity of excited state 12: 0.9972
+iterations: 177, Fidelity of excited state 13: 0.9972
+iterations: 178, loss: 16.0000
+iterations: 178, NumOp_psi7: 3.0000
+iterations: 178, NumOp_psi10: 3.0000
+iterations: 178, NumOp_psi12: 3.0000
+iterations: 178, NumOp_psi13: 3.0000
+iterations: 178, Sz_psi7: -0.5000
+iterations: 178, Sz_psi10: 0.5000
+iterations: 178, Sz_psi12: -0.4972
+iterations: 178, Sz_psi13: 0.4972
+iterations: 178, E7: 1.0000
+iterations: 178, E10: 1.0000
+iterations: 178, E12: 3.0000
+iterations: 178, E13: 3.0000
+iterations: 178, Fidelity of excited state 7: 1.0000
+iterations: 178, Fidelity of excited state 10: 1.0000
+iterations: 178, Fidelity of excited state 12: 0.9972
+iterations: 178, Fidelity of excited state 13: 0.9972
+iterations: 179, loss: 16.0000
+iterations: 179, NumOp_psi7: 3.0000
+iterations: 179, NumOp_psi10: 3.0000
+iterations: 179, NumOp_psi12: 3.0000
+iterations: 179, NumOp_psi13: 3.0000
+iterations: 179, Sz_psi7: -0.5000
+iterations: 179, Sz_psi10: 0.5000
+iterations: 179, Sz_psi12: -0.4973
+iterations: 179, Sz_psi13: 0.4973
+iterations: 179, E7: 1.0000
+iterations: 179, E10: 1.0000
+iterations: 179, E12: 3.0000
+iterations: 179, E13: 3.0000
+iterations: 179, Fidelity of excited state 7: 1.0000
+iterations: 179, Fidelity of excited state 10: 1.0000
+iterations: 179, Fidelity of excited state 12: 0.9973
+iterations: 179, Fidelity of excited state 13: 0.9973
+iterations: 180, loss: 16.0000
+iterations: 180, NumOp_psi7: 3.0000
+iterations: 180, NumOp_psi10: 3.0000
+iterations: 180, NumOp_psi12: 3.0000
+iterations: 180, NumOp_psi13: 3.0000
+iterations: 180, Sz_psi7: -0.5000
+iterations: 180, Sz_psi10: 0.5000
+iterations: 180, Sz_psi12: -0.4973
+iterations: 180, Sz_psi13: 0.4973
+iterations: 180, E7: 1.0000
+iterations: 180, E10: 1.0000
+iterations: 180, E12: 3.0000
+iterations: 180, E13: 3.0000
+iterations: 180, Fidelity of excited state 7: 1.0000
+iterations: 180, Fidelity of excited state 10: 1.0000
+iterations: 180, Fidelity of excited state 12: 0.9973
+iterations: 180, Fidelity of excited state 13: 0.9973
+iterations: 181, loss: 16.0000
+iterations: 181, NumOp_psi7: 3.0000
+iterations: 181, NumOp_psi10: 3.0000
+iterations: 181, NumOp_psi12: 3.0000
+iterations: 181, NumOp_psi13: 3.0000
+iterations: 181, Sz_psi7: -0.5000
+iterations: 181, Sz_psi10: 0.5000
+iterations: 181, Sz_psi12: -0.4973
+iterations: 181, Sz_psi13: 0.4973
+iterations: 181, E7: 1.0000
+iterations: 181, E10: 1.0000
+iterations: 181, E12: 3.0000
+iterations: 181, E13: 3.0000
+iterations: 181, Fidelity of excited state 7: 1.0000
+iterations: 181, Fidelity of excited state 10: 1.0000
+iterations: 181, Fidelity of excited state 12: 0.9973
+iterations: 181, Fidelity of excited state 13: 0.9973
+iterations: 182, loss: 16.0000
+iterations: 182, NumOp_psi7: 3.0000
+iterations: 182, NumOp_psi10: 3.0000
+iterations: 182, NumOp_psi12: 3.0000
+iterations: 182, NumOp_psi13: 3.0000
+iterations: 182, Sz_psi7: -0.5000
+iterations: 182, Sz_psi10: 0.5000
+iterations: 182, Sz_psi12: -0.4973
+iterations: 182, Sz_psi13: 0.4973
+iterations: 182, E7: 1.0000
+iterations: 182, E10: 1.0000
+iterations: 182, E12: 3.0000
+iterations: 182, E13: 3.0000
+iterations: 182, Fidelity of excited state 7: 1.0000
+iterations: 182, Fidelity of excited state 10: 1.0000
+iterations: 182, Fidelity of excited state 12: 0.9973
+iterations: 182, Fidelity of excited state 13: 0.9973
+iterations: 183, loss: 16.0000
+iterations: 183, NumOp_psi7: 3.0000
+iterations: 183, NumOp_psi10: 3.0000
+iterations: 183, NumOp_psi12: 3.0000
+iterations: 183, NumOp_psi13: 3.0000
+iterations: 183, Sz_psi7: -0.5000
+iterations: 183, Sz_psi10: 0.5000
+iterations: 183, Sz_psi12: -0.4973
+iterations: 183, Sz_psi13: 0.4973
+iterations: 183, E7: 1.0000
+iterations: 183, E10: 1.0000
+iterations: 183, E12: 3.0000
+iterations: 183, E13: 3.0000
+iterations: 183, Fidelity of excited state 7: 1.0000
+iterations: 183, Fidelity of excited state 10: 1.0000
+iterations: 183, Fidelity of excited state 12: 0.9973
+iterations: 183, Fidelity of excited state 13: 0.9973
+iterations: 184, loss: 16.0000
+iterations: 184, NumOp_psi7: 3.0000
+iterations: 184, NumOp_psi10: 3.0000
+iterations: 184, NumOp_psi12: 3.0000
+iterations: 184, NumOp_psi13: 3.0000
+iterations: 184, Sz_psi7: -0.5000
+iterations: 184, Sz_psi10: 0.5000
+iterations: 184, Sz_psi12: -0.4973
+iterations: 184, Sz_psi13: 0.4973
+iterations: 184, E7: 1.0000
+iterations: 184, E10: 1.0000
+iterations: 184, E12: 3.0000
+iterations: 184, E13: 3.0000
+iterations: 184, Fidelity of excited state 7: 1.0000
+iterations: 184, Fidelity of excited state 10: 1.0000
+iterations: 184, Fidelity of excited state 12: 0.9973
+iterations: 184, Fidelity of excited state 13: 0.9973
+iterations: 185, loss: 16.0000
+iterations: 185, NumOp_psi7: 3.0000
+iterations: 185, NumOp_psi10: 3.0000
+iterations: 185, NumOp_psi12: 3.0000
+iterations: 185, NumOp_psi13: 3.0000
+iterations: 185, Sz_psi7: -0.5000
+iterations: 185, Sz_psi10: 0.5000
+iterations: 185, Sz_psi12: -0.4973
+iterations: 185, Sz_psi13: 0.4973
+iterations: 185, E7: 1.0000
+iterations: 185, E10: 1.0000
+iterations: 185, E12: 3.0000
+iterations: 185, E13: 3.0000
+iterations: 185, Fidelity of excited state 7: 1.0000
+iterations: 185, Fidelity of excited state 10: 1.0000
+iterations: 185, Fidelity of excited state 12: 0.9973
+iterations: 185, Fidelity of excited state 13: 0.9973
+iterations: 186, loss: 16.0000
+iterations: 186, NumOp_psi7: 3.0000
+iterations: 186, NumOp_psi10: 3.0000
+iterations: 186, NumOp_psi12: 3.0000
+iterations: 186, NumOp_psi13: 3.0000
+iterations: 186, Sz_psi7: -0.5000
+iterations: 186, Sz_psi10: 0.5000
+iterations: 186, Sz_psi12: -0.4973
+iterations: 186, Sz_psi13: 0.4973
+iterations: 186, E7: 1.0000
+iterations: 186, E10: 1.0000
+iterations: 186, E12: 3.0000
+iterations: 186, E13: 3.0000
+iterations: 186, Fidelity of excited state 7: 1.0000
+iterations: 186, Fidelity of excited state 10: 1.0000
+iterations: 186, Fidelity of excited state 12: 0.9973
+iterations: 186, Fidelity of excited state 13: 0.9973
+iterations: 187, loss: 16.0000
+iterations: 187, NumOp_psi7: 3.0000
+iterations: 187, NumOp_psi10: 3.0000
+iterations: 187, NumOp_psi12: 3.0000
+iterations: 187, NumOp_psi13: 3.0000
+iterations: 187, Sz_psi7: -0.5000
+iterations: 187, Sz_psi10: 0.5000
+iterations: 187, Sz_psi12: -0.4973
+iterations: 187, Sz_psi13: 0.4973
+iterations: 187, E7: 1.0000
+iterations: 187, E10: 1.0000
+iterations: 187, E12: 3.0000
+iterations: 187, E13: 3.0000
+iterations: 187, Fidelity of excited state 7: 1.0000
+iterations: 187, Fidelity of excited state 10: 1.0000
+iterations: 187, Fidelity of excited state 12: 0.9973
+iterations: 187, Fidelity of excited state 13: 0.9973
+iterations: 188, loss: 16.0000
+iterations: 188, NumOp_psi7: 3.0000
+iterations: 188, NumOp_psi10: 3.0000
+iterations: 188, NumOp_psi12: 3.0000
+iterations: 188, NumOp_psi13: 3.0000
+iterations: 188, Sz_psi7: -0.5000
+iterations: 188, Sz_psi10: 0.5000
+iterations: 188, Sz_psi12: -0.4973
+iterations: 188, Sz_psi13: 0.4973
+iterations: 188, E7: 1.0000
+iterations: 188, E10: 1.0000
+iterations: 188, E12: 3.0000
+iterations: 188, E13: 3.0000
+iterations: 188, Fidelity of excited state 7: 1.0000
+iterations: 188, Fidelity of excited state 10: 1.0000
+iterations: 188, Fidelity of excited state 12: 0.9973
+iterations: 188, Fidelity of excited state 13: 0.9973
+iterations: 189, loss: 16.0000
+iterations: 189, NumOp_psi7: 3.0000
+iterations: 189, NumOp_psi10: 3.0000
+iterations: 189, NumOp_psi12: 3.0000
+iterations: 189, NumOp_psi13: 3.0000
+iterations: 189, Sz_psi7: -0.5000
+iterations: 189, Sz_psi10: 0.5000
+iterations: 189, Sz_psi12: -0.4974
+iterations: 189, Sz_psi13: 0.4974
+iterations: 189, E7: 1.0000
+iterations: 189, E10: 1.0000
+iterations: 189, E12: 3.0000
+iterations: 189, E13: 3.0000
+iterations: 189, Fidelity of excited state 7: 1.0000
+iterations: 189, Fidelity of excited state 10: 1.0000
+iterations: 189, Fidelity of excited state 12: 0.9974
+iterations: 189, Fidelity of excited state 13: 0.9974
+iterations: 190, loss: 16.0000
+iterations: 190, NumOp_psi7: 3.0000
+iterations: 190, NumOp_psi10: 3.0000
+iterations: 190, NumOp_psi12: 3.0000
+iterations: 190, NumOp_psi13: 3.0000
+iterations: 190, Sz_psi7: -0.5000
+iterations: 190, Sz_psi10: 0.5000
+iterations: 190, Sz_psi12: -0.4974
+iterations: 190, Sz_psi13: 0.4974
+iterations: 190, E7: 1.0000
+iterations: 190, E10: 1.0000
+iterations: 190, E12: 3.0000
+iterations: 190, E13: 3.0000
+iterations: 190, Fidelity of excited state 7: 1.0000
+iterations: 190, Fidelity of excited state 10: 1.0000
+iterations: 190, Fidelity of excited state 12: 0.9974
+iterations: 190, Fidelity of excited state 13: 0.9974
+iterations: 191, loss: 16.0000
+iterations: 191, NumOp_psi7: 3.0000
+iterations: 191, NumOp_psi10: 3.0000
+iterations: 191, NumOp_psi12: 3.0000
+iterations: 191, NumOp_psi13: 3.0000
+iterations: 191, Sz_psi7: -0.5000
+iterations: 191, Sz_psi10: 0.5000
+iterations: 191, Sz_psi12: -0.4974
+iterations: 191, Sz_psi13: 0.4974
+iterations: 191, E7: 1.0000
+iterations: 191, E10: 1.0000
+iterations: 191, E12: 3.0000
+iterations: 191, E13: 3.0000
+iterations: 191, Fidelity of excited state 7: 1.0000
+iterations: 191, Fidelity of excited state 10: 1.0000
+iterations: 191, Fidelity of excited state 12: 0.9974
+iterations: 191, Fidelity of excited state 13: 0.9974
+iterations: 192, loss: 16.0000
+iterations: 192, NumOp_psi7: 3.0000
+iterations: 192, NumOp_psi10: 3.0000
+iterations: 192, NumOp_psi12: 3.0000
+iterations: 192, NumOp_psi13: 3.0000
+iterations: 192, Sz_psi7: -0.5000
+iterations: 192, Sz_psi10: 0.5000
+iterations: 192, Sz_psi12: -0.4974
+iterations: 192, Sz_psi13: 0.4974
+iterations: 192, E7: 1.0000
+iterations: 192, E10: 1.0000
+iterations: 192, E12: 3.0000
+iterations: 192, E13: 3.0000
+iterations: 192, Fidelity of excited state 7: 1.0000
+iterations: 192, Fidelity of excited state 10: 1.0000
+iterations: 192, Fidelity of excited state 12: 0.9974
+iterations: 192, Fidelity of excited state 13: 0.9974
+iterations: 193, loss: 16.0000
+iterations: 193, NumOp_psi7: 3.0000
+iterations: 193, NumOp_psi10: 3.0000
+iterations: 193, NumOp_psi12: 3.0000
+iterations: 193, NumOp_psi13: 3.0000
+iterations: 193, Sz_psi7: -0.5000
+iterations: 193, Sz_psi10: 0.5000
+iterations: 193, Sz_psi12: -0.4974
+iterations: 193, Sz_psi13: 0.4974
+iterations: 193, E7: 1.0000
+iterations: 193, E10: 1.0000
+iterations: 193, E12: 3.0000
+iterations: 193, E13: 3.0000
+iterations: 193, Fidelity of excited state 7: 1.0000
+iterations: 193, Fidelity of excited state 10: 1.0000
+iterations: 193, Fidelity of excited state 12: 0.9974
+iterations: 193, Fidelity of excited state 13: 0.9974
+iterations: 194, loss: 16.0000
+iterations: 194, NumOp_psi7: 3.0000
+iterations: 194, NumOp_psi10: 3.0000
+iterations: 194, NumOp_psi12: 3.0000
+iterations: 194, NumOp_psi13: 3.0000
+iterations: 194, Sz_psi7: -0.5000
+iterations: 194, Sz_psi10: 0.5000
+iterations: 194, Sz_psi12: -0.4974
+iterations: 194, Sz_psi13: 0.4974
+iterations: 194, E7: 1.0000
+iterations: 194, E10: 1.0000
+iterations: 194, E12: 3.0000
+iterations: 194, E13: 3.0000
+iterations: 194, Fidelity of excited state 7: 1.0000
+iterations: 194, Fidelity of excited state 10: 1.0000
+iterations: 194, Fidelity of excited state 12: 0.9974
+iterations: 194, Fidelity of excited state 13: 0.9974
+iterations: 195, loss: 16.0000
+iterations: 195, NumOp_psi7: 3.0000
+iterations: 195, NumOp_psi10: 3.0000
+iterations: 195, NumOp_psi12: 3.0000
+iterations: 195, NumOp_psi13: 3.0000
+iterations: 195, Sz_psi7: -0.5000
+iterations: 195, Sz_psi10: 0.5000
+iterations: 195, Sz_psi12: -0.4974
+iterations: 195, Sz_psi13: 0.4974
+iterations: 195, E7: 1.0000
+iterations: 195, E10: 1.0000
+iterations: 195, E12: 3.0000
+iterations: 195, E13: 3.0000
+iterations: 195, Fidelity of excited state 7: 1.0000
+iterations: 195, Fidelity of excited state 10: 1.0000
+iterations: 195, Fidelity of excited state 12: 0.9974
+iterations: 195, Fidelity of excited state 13: 0.9974
+iterations: 196, loss: 16.0000
+iterations: 196, NumOp_psi7: 3.0000
+iterations: 196, NumOp_psi10: 3.0000
+iterations: 196, NumOp_psi12: 3.0000
+iterations: 196, NumOp_psi13: 3.0000
+iterations: 196, Sz_psi7: -0.5000
+iterations: 196, Sz_psi10: 0.5000
+iterations: 196, Sz_psi12: -0.4974
+iterations: 196, Sz_psi13: 0.4974
+iterations: 196, E7: 1.0000
+iterations: 196, E10: 1.0000
+iterations: 196, E12: 3.0000
+iterations: 196, E13: 3.0000
+iterations: 196, Fidelity of excited state 7: 1.0000
+iterations: 196, Fidelity of excited state 10: 1.0000
+iterations: 196, Fidelity of excited state 12: 0.9974
+iterations: 196, Fidelity of excited state 13: 0.9974
+iterations: 197, loss: 16.0000
+iterations: 197, NumOp_psi7: 3.0000
+iterations: 197, NumOp_psi10: 3.0000
+iterations: 197, NumOp_psi12: 3.0000
+iterations: 197, NumOp_psi13: 3.0000
+iterations: 197, Sz_psi7: -0.5000
+iterations: 197, Sz_psi10: 0.5000
+iterations: 197, Sz_psi12: -0.4974
+iterations: 197, Sz_psi13: 0.4974
+iterations: 197, E7: 1.0000
+iterations: 197, E10: 1.0000
+iterations: 197, E12: 3.0000
+iterations: 197, E13: 3.0000
+iterations: 197, Fidelity of excited state 7: 1.0000
+iterations: 197, Fidelity of excited state 10: 1.0000
+iterations: 197, Fidelity of excited state 12: 0.9974
+iterations: 197, Fidelity of excited state 13: 0.9974
+iterations: 198, loss: 16.0000
+iterations: 198, NumOp_psi7: 3.0000
+iterations: 198, NumOp_psi10: 3.0000
+iterations: 198, NumOp_psi12: 3.0000
+iterations: 198, NumOp_psi13: 3.0000
+iterations: 198, Sz_psi7: -0.5000
+iterations: 198, Sz_psi10: 0.5000
+iterations: 198, Sz_psi12: -0.4974
+iterations: 198, Sz_psi13: 0.4974
+iterations: 198, E7: 1.0000
+iterations: 198, E10: 1.0000
+iterations: 198, E12: 3.0000
+iterations: 198, E13: 3.0000
+iterations: 198, Fidelity of excited state 7: 1.0000
+iterations: 198, Fidelity of excited state 10: 1.0000
+iterations: 198, Fidelity of excited state 12: 0.9974
+iterations: 198, Fidelity of excited state 13: 0.9974
+iterations: 199, loss: 16.0000
+iterations: 199, NumOp_psi7: 3.0000
+iterations: 199, NumOp_psi10: 3.0000
+iterations: 199, NumOp_psi12: 3.0000
+iterations: 199, NumOp_psi13: 3.0000
+iterations: 199, Sz_psi7: -0.5000
+iterations: 199, Sz_psi10: 0.5000
+iterations: 199, Sz_psi12: -0.4975
+iterations: 199, Sz_psi13: 0.4975
+iterations: 199, E7: 1.0000
+iterations: 199, E10: 1.0000
+iterations: 199, E12: 3.0000
+iterations: 199, E13: 3.0000
+iterations: 199, Fidelity of excited state 7: 1.0000
+iterations: 199, Fidelity of excited state 10: 1.0000
+iterations: 199, Fidelity of excited state 12: 0.9974
+iterations: 199, Fidelity of excited state 13: 0.9975
+iterations: 200, loss: 16.0000
+iterations: 200, NumOp_psi7: 3.0000
+iterations: 200, NumOp_psi10: 3.0000
+iterations: 200, NumOp_psi12: 3.0000
+iterations: 200, NumOp_psi13: 3.0000
+iterations: 200, Sz_psi7: -0.5000
+iterations: 200, Sz_psi10: 0.5000
+iterations: 200, Sz_psi12: -0.4975
+iterations: 200, Sz_psi13: 0.4975
+iterations: 200, E7: 1.0000
+iterations: 200, E10: 1.0000
+iterations: 200, E12: 3.0000
+iterations: 200, E13: 3.0000
+iterations: 200, Fidelity of excited state 7: 1.0000
+iterations: 200, Fidelity of excited state 10: 1.0000
+iterations: 200, Fidelity of excited state 12: 0.9975
+iterations: 200, Fidelity of excited state 13: 0.9975
+iterations: 201, loss: 16.0000
+iterations: 201, NumOp_psi7: 3.0000
+iterations: 201, NumOp_psi10: 3.0000
+iterations: 201, NumOp_psi12: 3.0000
+iterations: 201, NumOp_psi13: 3.0000
+iterations: 201, Sz_psi7: -0.5000
+iterations: 201, Sz_psi10: 0.5000
+iterations: 201, Sz_psi12: -0.4975
+iterations: 201, Sz_psi13: 0.4975
+iterations: 201, E7: 1.0000
+iterations: 201, E10: 1.0000
+iterations: 201, E12: 3.0000
+iterations: 201, E13: 3.0000
+iterations: 201, Fidelity of excited state 7: 1.0000
+iterations: 201, Fidelity of excited state 10: 1.0000
+iterations: 201, Fidelity of excited state 12: 0.9975
+iterations: 201, Fidelity of excited state 13: 0.9975
+iterations: 202, loss: 16.0000
+iterations: 202, NumOp_psi7: 3.0000
+iterations: 202, NumOp_psi10: 3.0000
+iterations: 202, NumOp_psi12: 3.0000
+iterations: 202, NumOp_psi13: 3.0000
+iterations: 202, Sz_psi7: -0.5000
+iterations: 202, Sz_psi10: 0.5000
+iterations: 202, Sz_psi12: -0.4975
+iterations: 202, Sz_psi13: 0.4975
+iterations: 202, E7: 1.0000
+iterations: 202, E10: 1.0000
+iterations: 202, E12: 3.0000
+iterations: 202, E13: 3.0000
+iterations: 202, Fidelity of excited state 7: 1.0000
+iterations: 202, Fidelity of excited state 10: 1.0000
+iterations: 202, Fidelity of excited state 12: 0.9975
+iterations: 202, Fidelity of excited state 13: 0.9975
+iterations: 203, loss: 16.0000
+iterations: 203, NumOp_psi7: 3.0000
+iterations: 203, NumOp_psi10: 3.0000
+iterations: 203, NumOp_psi12: 3.0000
+iterations: 203, NumOp_psi13: 3.0000
+iterations: 203, Sz_psi7: -0.5000
+iterations: 203, Sz_psi10: 0.5000
+iterations: 203, Sz_psi12: -0.4975
+iterations: 203, Sz_psi13: 0.4975
+iterations: 203, E7: 1.0000
+iterations: 203, E10: 1.0000
+iterations: 203, E12: 3.0000
+iterations: 203, E13: 3.0000
+iterations: 203, Fidelity of excited state 7: 1.0000
+iterations: 203, Fidelity of excited state 10: 1.0000
+iterations: 203, Fidelity of excited state 12: 0.9975
+iterations: 203, Fidelity of excited state 13: 0.9975
+iterations: 204, loss: 16.0000
+iterations: 204, NumOp_psi7: 3.0000
+iterations: 204, NumOp_psi10: 3.0000
+iterations: 204, NumOp_psi12: 3.0000
+iterations: 204, NumOp_psi13: 3.0000
+iterations: 204, Sz_psi7: -0.5000
+iterations: 204, Sz_psi10: 0.5000
+iterations: 204, Sz_psi12: -0.4975
+iterations: 204, Sz_psi13: 0.4975
+iterations: 204, E7: 1.0000
+iterations: 204, E10: 1.0000
+iterations: 204, E12: 3.0000
+iterations: 204, E13: 3.0000
+iterations: 204, Fidelity of excited state 7: 1.0000
+iterations: 204, Fidelity of excited state 10: 1.0000
+iterations: 204, Fidelity of excited state 12: 0.9975
+iterations: 204, Fidelity of excited state 13: 0.9975
+iterations: 205, loss: 16.0000
+iterations: 205, NumOp_psi7: 3.0000
+iterations: 205, NumOp_psi10: 3.0000
+iterations: 205, NumOp_psi12: 3.0000
+iterations: 205, NumOp_psi13: 3.0000
+iterations: 205, Sz_psi7: -0.5000
+iterations: 205, Sz_psi10: 0.5000
+iterations: 205, Sz_psi12: -0.4975
+iterations: 205, Sz_psi13: 0.4975
+iterations: 205, E7: 1.0000
+iterations: 205, E10: 1.0000
+iterations: 205, E12: 3.0000
+iterations: 205, E13: 3.0000
+iterations: 205, Fidelity of excited state 7: 1.0000
+iterations: 205, Fidelity of excited state 10: 1.0000
+iterations: 205, Fidelity of excited state 12: 0.9975
+iterations: 205, Fidelity of excited state 13: 0.9975
+iterations: 206, loss: 16.0000
+iterations: 206, NumOp_psi7: 3.0000
+iterations: 206, NumOp_psi10: 3.0000
+iterations: 206, NumOp_psi12: 3.0000
+iterations: 206, NumOp_psi13: 3.0000
+iterations: 206, Sz_psi7: -0.5000
+iterations: 206, Sz_psi10: 0.5000
+iterations: 206, Sz_psi12: -0.4975
+iterations: 206, Sz_psi13: 0.4975
+iterations: 206, E7: 1.0000
+iterations: 206, E10: 1.0000
+iterations: 206, E12: 3.0000
+iterations: 206, E13: 3.0000
+iterations: 206, Fidelity of excited state 7: 1.0000
+iterations: 206, Fidelity of excited state 10: 1.0000
+iterations: 206, Fidelity of excited state 12: 0.9975
+iterations: 206, Fidelity of excited state 13: 0.9975
+iterations: 207, loss: 16.0000
+iterations: 207, NumOp_psi7: 3.0000
+iterations: 207, NumOp_psi10: 3.0000
+iterations: 207, NumOp_psi12: 3.0000
+iterations: 207, NumOp_psi13: 3.0000
+iterations: 207, Sz_psi7: -0.5000
+iterations: 207, Sz_psi10: 0.5000
+iterations: 207, Sz_psi12: -0.4975
+iterations: 207, Sz_psi13: 0.4975
+iterations: 207, E7: 1.0000
+iterations: 207, E10: 1.0000
+iterations: 207, E12: 3.0000
+iterations: 207, E13: 3.0000
+iterations: 207, Fidelity of excited state 7: 1.0000
+iterations: 207, Fidelity of excited state 10: 1.0000
+iterations: 207, Fidelity of excited state 12: 0.9975
+iterations: 207, Fidelity of excited state 13: 0.9975
+iterations: 208, loss: 16.0000
+iterations: 208, NumOp_psi7: 3.0000
+iterations: 208, NumOp_psi10: 3.0000
+iterations: 208, NumOp_psi12: 3.0000
+iterations: 208, NumOp_psi13: 3.0000
+iterations: 208, Sz_psi7: -0.5000
+iterations: 208, Sz_psi10: 0.5000
+iterations: 208, Sz_psi12: -0.4975
+iterations: 208, Sz_psi13: 0.4975
+iterations: 208, E7: 1.0000
+iterations: 208, E10: 1.0000
+iterations: 208, E12: 3.0000
+iterations: 208, E13: 3.0000
+iterations: 208, Fidelity of excited state 7: 1.0000
+iterations: 208, Fidelity of excited state 10: 1.0000
+iterations: 208, Fidelity of excited state 12: 0.9975
+iterations: 208, Fidelity of excited state 13: 0.9975
+iterations: 209, loss: 16.0000
+iterations: 209, NumOp_psi7: 3.0000
+iterations: 209, NumOp_psi10: 3.0000
+iterations: 209, NumOp_psi12: 3.0000
+iterations: 209, NumOp_psi13: 3.0000
+iterations: 209, Sz_psi7: -0.5000
+iterations: 209, Sz_psi10: 0.5000
+iterations: 209, Sz_psi12: -0.4975
+iterations: 209, Sz_psi13: 0.4975
+iterations: 209, E7: 1.0000
+iterations: 209, E10: 1.0000
+iterations: 209, E12: 3.0000
+iterations: 209, E13: 3.0000
+iterations: 209, Fidelity of excited state 7: 1.0000
+iterations: 209, Fidelity of excited state 10: 1.0000
+iterations: 209, Fidelity of excited state 12: 0.9975
+iterations: 209, Fidelity of excited state 13: 0.9975
+iterations: 210, loss: 16.0000
+iterations: 210, NumOp_psi7: 3.0000
+iterations: 210, NumOp_psi10: 3.0000
+iterations: 210, NumOp_psi12: 3.0000
+iterations: 210, NumOp_psi13: 3.0000
+iterations: 210, Sz_psi7: -0.5000
+iterations: 210, Sz_psi10: 0.5000
+iterations: 210, Sz_psi12: -0.4975
+iterations: 210, Sz_psi13: 0.4975
+iterations: 210, E7: 1.0000
+iterations: 210, E10: 1.0000
+iterations: 210, E12: 3.0000
+iterations: 210, E13: 3.0000
+iterations: 210, Fidelity of excited state 7: 1.0000
+iterations: 210, Fidelity of excited state 10: 1.0000
+iterations: 210, Fidelity of excited state 12: 0.9975
+iterations: 210, Fidelity of excited state 13: 0.9975
+iterations: 211, loss: 16.0000
+iterations: 211, NumOp_psi7: 3.0000
+iterations: 211, NumOp_psi10: 3.0000
+iterations: 211, NumOp_psi12: 3.0000
+iterations: 211, NumOp_psi13: 3.0000
+iterations: 211, Sz_psi7: -0.5000
+iterations: 211, Sz_psi10: 0.5000
+iterations: 211, Sz_psi12: -0.4976
+iterations: 211, Sz_psi13: 0.4976
+iterations: 211, E7: 1.0000
+iterations: 211, E10: 1.0000
+iterations: 211, E12: 3.0000
+iterations: 211, E13: 3.0000
+iterations: 211, Fidelity of excited state 7: 1.0000
+iterations: 211, Fidelity of excited state 10: 1.0000
+iterations: 211, Fidelity of excited state 12: 0.9976
+iterations: 211, Fidelity of excited state 13: 0.9976
+iterations: 212, loss: 16.0000
+iterations: 212, NumOp_psi7: 3.0000
+iterations: 212, NumOp_psi10: 3.0000
+iterations: 212, NumOp_psi12: 3.0000
+iterations: 212, NumOp_psi13: 3.0000
+iterations: 212, Sz_psi7: -0.5000
+iterations: 212, Sz_psi10: 0.5000
+iterations: 212, Sz_psi12: -0.4976
+iterations: 212, Sz_psi13: 0.4976
+iterations: 212, E7: 1.0000
+iterations: 212, E10: 1.0000
+iterations: 212, E12: 3.0000
+iterations: 212, E13: 3.0000
+iterations: 212, Fidelity of excited state 7: 1.0000
+iterations: 212, Fidelity of excited state 10: 1.0000
+iterations: 212, Fidelity of excited state 12: 0.9976
+iterations: 212, Fidelity of excited state 13: 0.9976
+iterations: 213, loss: 16.0000
+iterations: 213, NumOp_psi7: 3.0000
+iterations: 213, NumOp_psi10: 3.0000
+iterations: 213, NumOp_psi12: 3.0000
+iterations: 213, NumOp_psi13: 3.0000
+iterations: 213, Sz_psi7: -0.5000
+iterations: 213, Sz_psi10: 0.5000
+iterations: 213, Sz_psi12: -0.4976
+iterations: 213, Sz_psi13: 0.4976
+iterations: 213, E7: 1.0000
+iterations: 213, E10: 1.0000
+iterations: 213, E12: 3.0000
+iterations: 213, E13: 3.0000
+iterations: 213, Fidelity of excited state 7: 1.0000
+iterations: 213, Fidelity of excited state 10: 1.0000
+iterations: 213, Fidelity of excited state 12: 0.9976
+iterations: 213, Fidelity of excited state 13: 0.9976
+iterations: 214, loss: 16.0000
+iterations: 214, NumOp_psi7: 3.0000
+iterations: 214, NumOp_psi10: 3.0000
+iterations: 214, NumOp_psi12: 3.0000
+iterations: 214, NumOp_psi13: 3.0000
+iterations: 214, Sz_psi7: -0.5000
+iterations: 214, Sz_psi10: 0.5000
+iterations: 214, Sz_psi12: -0.4976
+iterations: 214, Sz_psi13: 0.4976
+iterations: 214, E7: 1.0000
+iterations: 214, E10: 1.0000
+iterations: 214, E12: 3.0000
+iterations: 214, E13: 3.0000
+iterations: 214, Fidelity of excited state 7: 1.0000
+iterations: 214, Fidelity of excited state 10: 1.0000
+iterations: 214, Fidelity of excited state 12: 0.9976
+iterations: 214, Fidelity of excited state 13: 0.9976
+iterations: 215, loss: 16.0000
+iterations: 215, NumOp_psi7: 3.0000
+iterations: 215, NumOp_psi10: 3.0000
+iterations: 215, NumOp_psi12: 3.0000
+iterations: 215, NumOp_psi13: 3.0000
+iterations: 215, Sz_psi7: -0.5000
+iterations: 215, Sz_psi10: 0.5000
+iterations: 215, Sz_psi12: -0.4976
+iterations: 215, Sz_psi13: 0.4976
+iterations: 215, E7: 1.0000
+iterations: 215, E10: 1.0000
+iterations: 215, E12: 3.0000
+iterations: 215, E13: 3.0000
+iterations: 215, Fidelity of excited state 7: 1.0000
+iterations: 215, Fidelity of excited state 10: 1.0000
+iterations: 215, Fidelity of excited state 12: 0.9976
+iterations: 215, Fidelity of excited state 13: 0.9976
+iterations: 216, loss: 16.0000
+iterations: 216, NumOp_psi7: 3.0000
+iterations: 216, NumOp_psi10: 3.0000
+iterations: 216, NumOp_psi12: 3.0000
+iterations: 216, NumOp_psi13: 3.0000
+iterations: 216, Sz_psi7: -0.5000
+iterations: 216, Sz_psi10: 0.5000
+iterations: 216, Sz_psi12: -0.4976
+iterations: 216, Sz_psi13: 0.4976
+iterations: 216, E7: 1.0000
+iterations: 216, E10: 1.0000
+iterations: 216, E12: 3.0000
+iterations: 216, E13: 3.0000
+iterations: 216, Fidelity of excited state 7: 1.0000
+iterations: 216, Fidelity of excited state 10: 1.0000
+iterations: 216, Fidelity of excited state 12: 0.9976
+iterations: 216, Fidelity of excited state 13: 0.9976
+iterations: 217, loss: 16.0000
+iterations: 217, NumOp_psi7: 3.0000
+iterations: 217, NumOp_psi10: 3.0000
+iterations: 217, NumOp_psi12: 3.0000
+iterations: 217, NumOp_psi13: 3.0000
+iterations: 217, Sz_psi7: -0.5000
+iterations: 217, Sz_psi10: 0.5000
+iterations: 217, Sz_psi12: -0.4976
+iterations: 217, Sz_psi13: 0.4976
+iterations: 217, E7: 1.0000
+iterations: 217, E10: 1.0000
+iterations: 217, E12: 3.0000
+iterations: 217, E13: 3.0000
+iterations: 217, Fidelity of excited state 7: 1.0000
+iterations: 217, Fidelity of excited state 10: 1.0000
+iterations: 217, Fidelity of excited state 12: 0.9976
+iterations: 217, Fidelity of excited state 13: 0.9976
+iterations: 218, loss: 16.0000
+iterations: 218, NumOp_psi7: 3.0000
+iterations: 218, NumOp_psi10: 3.0000
+iterations: 218, NumOp_psi12: 3.0000
+iterations: 218, NumOp_psi13: 3.0000
+iterations: 218, Sz_psi7: -0.5000
+iterations: 218, Sz_psi10: 0.5000
+iterations: 218, Sz_psi12: -0.4976
+iterations: 218, Sz_psi13: 0.4976
+iterations: 218, E7: 1.0000
+iterations: 218, E10: 1.0000
+iterations: 218, E12: 3.0000
+iterations: 218, E13: 3.0000
+iterations: 218, Fidelity of excited state 7: 1.0000
+iterations: 218, Fidelity of excited state 10: 1.0000
+iterations: 218, Fidelity of excited state 12: 0.9976
+iterations: 218, Fidelity of excited state 13: 0.9976
+iterations: 219, loss: 16.0000
+iterations: 219, NumOp_psi7: 3.0000
+iterations: 219, NumOp_psi10: 3.0000
+iterations: 219, NumOp_psi12: 3.0000
+iterations: 219, NumOp_psi13: 3.0000
+iterations: 219, Sz_psi7: -0.5000
+iterations: 219, Sz_psi10: 0.5000
+iterations: 219, Sz_psi12: -0.4976
+iterations: 219, Sz_psi13: 0.4976
+iterations: 219, E7: 1.0000
+iterations: 219, E10: 1.0000
+iterations: 219, E12: 3.0000
+iterations: 219, E13: 3.0000
+iterations: 219, Fidelity of excited state 7: 1.0000
+iterations: 219, Fidelity of excited state 10: 1.0000
+iterations: 219, Fidelity of excited state 12: 0.9976
+iterations: 219, Fidelity of excited state 13: 0.9976
+iterations: 220, loss: 16.0000
+iterations: 220, NumOp_psi7: 3.0000
+iterations: 220, NumOp_psi10: 3.0000
+iterations: 220, NumOp_psi12: 3.0000
+iterations: 220, NumOp_psi13: 3.0000
+iterations: 220, Sz_psi7: -0.5000
+iterations: 220, Sz_psi10: 0.5000
+iterations: 220, Sz_psi12: -0.4976
+iterations: 220, Sz_psi13: 0.4976
+iterations: 220, E7: 1.0000
+iterations: 220, E10: 1.0000
+iterations: 220, E12: 3.0000
+iterations: 220, E13: 3.0000
+iterations: 220, Fidelity of excited state 7: 1.0000
+iterations: 220, Fidelity of excited state 10: 1.0000
+iterations: 220, Fidelity of excited state 12: 0.9976
+iterations: 220, Fidelity of excited state 13: 0.9976
+iterations: 221, loss: 16.0000
+iterations: 221, NumOp_psi7: 3.0000
+iterations: 221, NumOp_psi10: 3.0000
+iterations: 221, NumOp_psi12: 3.0000
+iterations: 221, NumOp_psi13: 3.0000
+iterations: 221, Sz_psi7: -0.5000
+iterations: 221, Sz_psi10: 0.5000
+iterations: 221, Sz_psi12: -0.4976
+iterations: 221, Sz_psi13: 0.4976
+iterations: 221, E7: 1.0000
+iterations: 221, E10: 1.0000
+iterations: 221, E12: 3.0000
+iterations: 221, E13: 3.0000
+iterations: 221, Fidelity of excited state 7: 1.0000
+iterations: 221, Fidelity of excited state 10: 1.0000
+iterations: 221, Fidelity of excited state 12: 0.9976
+iterations: 221, Fidelity of excited state 13: 0.9976
+iterations: 222, loss: 16.0000
+iterations: 222, NumOp_psi7: 3.0000
+iterations: 222, NumOp_psi10: 3.0000
+iterations: 222, NumOp_psi12: 3.0000
+iterations: 222, NumOp_psi13: 3.0000
+iterations: 222, Sz_psi7: -0.5000
+iterations: 222, Sz_psi10: 0.5000
+iterations: 222, Sz_psi12: -0.4976
+iterations: 222, Sz_psi13: 0.4976
+iterations: 222, E7: 1.0000
+iterations: 222, E10: 1.0000
+iterations: 222, E12: 3.0000
+iterations: 222, E13: 3.0000
+iterations: 222, Fidelity of excited state 7: 1.0000
+iterations: 222, Fidelity of excited state 10: 1.0000
+iterations: 222, Fidelity of excited state 12: 0.9976
+iterations: 222, Fidelity of excited state 13: 0.9976
+iterations: 223, loss: 16.0000
+iterations: 223, NumOp_psi7: 3.0000
+iterations: 223, NumOp_psi10: 3.0000
+iterations: 223, NumOp_psi12: 3.0000
+iterations: 223, NumOp_psi13: 3.0000
+iterations: 223, Sz_psi7: -0.5000
+iterations: 223, Sz_psi10: 0.5000
+iterations: 223, Sz_psi12: -0.4977
+iterations: 223, Sz_psi13: 0.4977
+iterations: 223, E7: 1.0000
+iterations: 223, E10: 1.0000
+iterations: 223, E12: 3.0000
+iterations: 223, E13: 3.0000
+iterations: 223, Fidelity of excited state 7: 1.0000
+iterations: 223, Fidelity of excited state 10: 1.0000
+iterations: 223, Fidelity of excited state 12: 0.9977
+iterations: 223, Fidelity of excited state 13: 0.9977
+iterations: 224, loss: 16.0000
+iterations: 224, NumOp_psi7: 3.0000
+iterations: 224, NumOp_psi10: 3.0000
+iterations: 224, NumOp_psi12: 3.0000
+iterations: 224, NumOp_psi13: 3.0000
+iterations: 224, Sz_psi7: -0.5000
+iterations: 224, Sz_psi10: 0.5000
+iterations: 224, Sz_psi12: -0.4977
+iterations: 224, Sz_psi13: 0.4977
+iterations: 224, E7: 1.0000
+iterations: 224, E10: 1.0000
+iterations: 224, E12: 3.0000
+iterations: 224, E13: 3.0000
+iterations: 224, Fidelity of excited state 7: 1.0000
+iterations: 224, Fidelity of excited state 10: 1.0000
+iterations: 224, Fidelity of excited state 12: 0.9977
+iterations: 224, Fidelity of excited state 13: 0.9977
+iterations: 225, loss: 16.0000
+iterations: 225, NumOp_psi7: 3.0000
+iterations: 225, NumOp_psi10: 3.0000
+iterations: 225, NumOp_psi12: 3.0000
+iterations: 225, NumOp_psi13: 3.0000
+iterations: 225, Sz_psi7: -0.5000
+iterations: 225, Sz_psi10: 0.5000
+iterations: 225, Sz_psi12: -0.4977
+iterations: 225, Sz_psi13: 0.4977
+iterations: 225, E7: 1.0000
+iterations: 225, E10: 1.0000
+iterations: 225, E12: 3.0000
+iterations: 225, E13: 3.0000
+iterations: 225, Fidelity of excited state 7: 1.0000
+iterations: 225, Fidelity of excited state 10: 1.0000
+iterations: 225, Fidelity of excited state 12: 0.9977
+iterations: 225, Fidelity of excited state 13: 0.9977
+iterations: 226, loss: 16.0000
+iterations: 226, NumOp_psi7: 3.0000
+iterations: 226, NumOp_psi10: 3.0000
+iterations: 226, NumOp_psi12: 3.0000
+iterations: 226, NumOp_psi13: 3.0000
+iterations: 226, Sz_psi7: -0.5000
+iterations: 226, Sz_psi10: 0.5000
+iterations: 226, Sz_psi12: -0.4977
+iterations: 226, Sz_psi13: 0.4977
+iterations: 226, E7: 1.0000
+iterations: 226, E10: 1.0000
+iterations: 226, E12: 3.0000
+iterations: 226, E13: 3.0000
+iterations: 226, Fidelity of excited state 7: 1.0000
+iterations: 226, Fidelity of excited state 10: 1.0000
+iterations: 226, Fidelity of excited state 12: 0.9977
+iterations: 226, Fidelity of excited state 13: 0.9977
+iterations: 227, loss: 16.0000
+iterations: 227, NumOp_psi7: 3.0000
+iterations: 227, NumOp_psi10: 3.0000
+iterations: 227, NumOp_psi12: 3.0000
+iterations: 227, NumOp_psi13: 3.0000
+iterations: 227, Sz_psi7: -0.5000
+iterations: 227, Sz_psi10: 0.5000
+iterations: 227, Sz_psi12: -0.4977
+iterations: 227, Sz_psi13: 0.4977
+iterations: 227, E7: 1.0000
+iterations: 227, E10: 1.0000
+iterations: 227, E12: 3.0000
+iterations: 227, E13: 3.0000
+iterations: 227, Fidelity of excited state 7: 1.0000
+iterations: 227, Fidelity of excited state 10: 1.0000
+iterations: 227, Fidelity of excited state 12: 0.9977
+iterations: 227, Fidelity of excited state 13: 0.9977
+iterations: 228, loss: 16.0000
+iterations: 228, NumOp_psi7: 3.0000
+iterations: 228, NumOp_psi10: 3.0000
+iterations: 228, NumOp_psi12: 3.0000
+iterations: 228, NumOp_psi13: 3.0000
+iterations: 228, Sz_psi7: -0.5000
+iterations: 228, Sz_psi10: 0.5000
+iterations: 228, Sz_psi12: -0.4977
+iterations: 228, Sz_psi13: 0.4977
+iterations: 228, E7: 1.0000
+iterations: 228, E10: 1.0000
+iterations: 228, E12: 3.0000
+iterations: 228, E13: 3.0000
+iterations: 228, Fidelity of excited state 7: 1.0000
+iterations: 228, Fidelity of excited state 10: 1.0000
+iterations: 228, Fidelity of excited state 12: 0.9977
+iterations: 228, Fidelity of excited state 13: 0.9977
+iterations: 229, loss: 16.0000
+iterations: 229, NumOp_psi7: 3.0000
+iterations: 229, NumOp_psi10: 3.0000
+iterations: 229, NumOp_psi12: 3.0000
+iterations: 229, NumOp_psi13: 3.0000
+iterations: 229, Sz_psi7: -0.5000
+iterations: 229, Sz_psi10: 0.5000
+iterations: 229, Sz_psi12: -0.4977
+iterations: 229, Sz_psi13: 0.4977
+iterations: 229, E7: 1.0000
+iterations: 229, E10: 1.0000
+iterations: 229, E12: 3.0000
+iterations: 229, E13: 3.0000
+iterations: 229, Fidelity of excited state 7: 1.0000
+iterations: 229, Fidelity of excited state 10: 1.0000
+iterations: 229, Fidelity of excited state 12: 0.9977
+iterations: 229, Fidelity of excited state 13: 0.9977
+iterations: 230, loss: 16.0000
+iterations: 230, NumOp_psi7: 3.0000
+iterations: 230, NumOp_psi10: 3.0000
+iterations: 230, NumOp_psi12: 3.0000
+iterations: 230, NumOp_psi13: 3.0000
+iterations: 230, Sz_psi7: -0.5000
+iterations: 230, Sz_psi10: 0.5000
+iterations: 230, Sz_psi12: -0.4977
+iterations: 230, Sz_psi13: 0.4977
+iterations: 230, E7: 1.0000
+iterations: 230, E10: 1.0000
+iterations: 230, E12: 3.0000
+iterations: 230, E13: 3.0000
+iterations: 230, Fidelity of excited state 7: 1.0000
+iterations: 230, Fidelity of excited state 10: 1.0000
+iterations: 230, Fidelity of excited state 12: 0.9977
+iterations: 230, Fidelity of excited state 13: 0.9977
+iterations: 231, loss: 16.0000
+iterations: 231, NumOp_psi7: 3.0000
+iterations: 231, NumOp_psi10: 3.0000
+iterations: 231, NumOp_psi12: 3.0000
+iterations: 231, NumOp_psi13: 3.0000
+iterations: 231, Sz_psi7: -0.5000
+iterations: 231, Sz_psi10: 0.5000
+iterations: 231, Sz_psi12: -0.4977
+iterations: 231, Sz_psi13: 0.4977
+iterations: 231, E7: 1.0000
+iterations: 231, E10: 1.0000
+iterations: 231, E12: 3.0000
+iterations: 231, E13: 3.0000
+iterations: 231, Fidelity of excited state 7: 1.0000
+iterations: 231, Fidelity of excited state 10: 1.0000
+iterations: 231, Fidelity of excited state 12: 0.9977
+iterations: 231, Fidelity of excited state 13: 0.9977
+iterations: 232, loss: 16.0000
+iterations: 232, NumOp_psi7: 3.0000
+iterations: 232, NumOp_psi10: 3.0000
+iterations: 232, NumOp_psi12: 3.0000
+iterations: 232, NumOp_psi13: 3.0000
+iterations: 232, Sz_psi7: -0.5000
+iterations: 232, Sz_psi10: 0.5000
+iterations: 232, Sz_psi12: -0.4977
+iterations: 232, Sz_psi13: 0.4977
+iterations: 232, E7: 1.0000
+iterations: 232, E10: 1.0000
+iterations: 232, E12: 3.0000
+iterations: 232, E13: 3.0000
+iterations: 232, Fidelity of excited state 7: 1.0000
+iterations: 232, Fidelity of excited state 10: 1.0000
+iterations: 232, Fidelity of excited state 12: 0.9977
+iterations: 232, Fidelity of excited state 13: 0.9977
+iterations: 233, loss: 16.0000
+iterations: 233, NumOp_psi7: 3.0000
+iterations: 233, NumOp_psi10: 3.0000
+iterations: 233, NumOp_psi12: 3.0000
+iterations: 233, NumOp_psi13: 3.0000
+iterations: 233, Sz_psi7: -0.5000
+iterations: 233, Sz_psi10: 0.5000
+iterations: 233, Sz_psi12: -0.4977
+iterations: 233, Sz_psi13: 0.4977
+iterations: 233, E7: 1.0000
+iterations: 233, E10: 1.0000
+iterations: 233, E12: 3.0000
+iterations: 233, E13: 3.0000
+iterations: 233, Fidelity of excited state 7: 1.0000
+iterations: 233, Fidelity of excited state 10: 1.0000
+iterations: 233, Fidelity of excited state 12: 0.9977
+iterations: 233, Fidelity of excited state 13: 0.9977
+iterations: 234, loss: 16.0000
+iterations: 234, NumOp_psi7: 3.0000
+iterations: 234, NumOp_psi10: 3.0000
+iterations: 234, NumOp_psi12: 3.0000
+iterations: 234, NumOp_psi13: 3.0000
+iterations: 234, Sz_psi7: -0.5000
+iterations: 234, Sz_psi10: 0.5000
+iterations: 234, Sz_psi12: -0.4977
+iterations: 234, Sz_psi13: 0.4977
+iterations: 234, E7: 1.0000
+iterations: 234, E10: 1.0000
+iterations: 234, E12: 3.0000
+iterations: 234, E13: 3.0000
+iterations: 234, Fidelity of excited state 7: 1.0000
+iterations: 234, Fidelity of excited state 10: 1.0000
+iterations: 234, Fidelity of excited state 12: 0.9977
+iterations: 234, Fidelity of excited state 13: 0.9977
+iterations: 235, loss: 16.0000
+iterations: 235, NumOp_psi7: 3.0000
+iterations: 235, NumOp_psi10: 3.0000
+iterations: 235, NumOp_psi12: 3.0000
+iterations: 235, NumOp_psi13: 3.0000
+iterations: 235, Sz_psi7: -0.5000
+iterations: 235, Sz_psi10: 0.5000
+iterations: 235, Sz_psi12: -0.4977
+iterations: 235, Sz_psi13: 0.4977
+iterations: 235, E7: 1.0000
+iterations: 235, E10: 1.0000
+iterations: 235, E12: 3.0000
+iterations: 235, E13: 3.0000
+iterations: 235, Fidelity of excited state 7: 1.0000
+iterations: 235, Fidelity of excited state 10: 1.0000
+iterations: 235, Fidelity of excited state 12: 0.9977
+iterations: 235, Fidelity of excited state 13: 0.9977
+iterations: 236, loss: 16.0000
+iterations: 236, NumOp_psi7: 3.0000
+iterations: 236, NumOp_psi10: 3.0000
+iterations: 236, NumOp_psi12: 3.0000
+iterations: 236, NumOp_psi13: 3.0000
+iterations: 236, Sz_psi7: -0.5000
+iterations: 236, Sz_psi10: 0.5000
+iterations: 236, Sz_psi12: -0.4978
+iterations: 236, Sz_psi13: 0.4978
+iterations: 236, E7: 1.0000
+iterations: 236, E10: 1.0000
+iterations: 236, E12: 3.0000
+iterations: 236, E13: 3.0000
+iterations: 236, Fidelity of excited state 7: 1.0000
+iterations: 236, Fidelity of excited state 10: 1.0000
+iterations: 236, Fidelity of excited state 12: 0.9978
+iterations: 236, Fidelity of excited state 13: 0.9978
+iterations: 237, loss: 16.0000
+iterations: 237, NumOp_psi7: 3.0000
+iterations: 237, NumOp_psi10: 3.0000
+iterations: 237, NumOp_psi12: 3.0000
+iterations: 237, NumOp_psi13: 3.0000
+iterations: 237, Sz_psi7: -0.5000
+iterations: 237, Sz_psi10: 0.5000
+iterations: 237, Sz_psi12: -0.4978
+iterations: 237, Sz_psi13: 0.4978
+iterations: 237, E7: 1.0000
+iterations: 237, E10: 1.0000
+iterations: 237, E12: 3.0000
+iterations: 237, E13: 3.0000
+iterations: 237, Fidelity of excited state 7: 1.0000
+iterations: 237, Fidelity of excited state 10: 1.0000
+iterations: 237, Fidelity of excited state 12: 0.9978
+iterations: 237, Fidelity of excited state 13: 0.9978
+iterations: 238, loss: 16.0000
+iterations: 238, NumOp_psi7: 3.0000
+iterations: 238, NumOp_psi10: 3.0000
+iterations: 238, NumOp_psi12: 3.0000
+iterations: 238, NumOp_psi13: 3.0000
+iterations: 238, Sz_psi7: -0.5000
+iterations: 238, Sz_psi10: 0.5000
+iterations: 238, Sz_psi12: -0.4978
+iterations: 238, Sz_psi13: 0.4978
+iterations: 238, E7: 1.0000
+iterations: 238, E10: 1.0000
+iterations: 238, E12: 3.0000
+iterations: 238, E13: 3.0000
+iterations: 238, Fidelity of excited state 7: 1.0000
+iterations: 238, Fidelity of excited state 10: 1.0000
+iterations: 238, Fidelity of excited state 12: 0.9978
+iterations: 238, Fidelity of excited state 13: 0.9978
+iterations: 239, loss: 16.0000
+iterations: 239, NumOp_psi7: 3.0000
+iterations: 239, NumOp_psi10: 3.0000
+iterations: 239, NumOp_psi12: 3.0000
+iterations: 239, NumOp_psi13: 3.0000
+iterations: 239, Sz_psi7: -0.5000
+iterations: 239, Sz_psi10: 0.5000
+iterations: 239, Sz_psi12: -0.4978
+iterations: 239, Sz_psi13: 0.4978
+iterations: 239, E7: 1.0000
+iterations: 239, E10: 1.0000
+iterations: 239, E12: 3.0000
+iterations: 239, E13: 3.0000
+iterations: 239, Fidelity of excited state 7: 1.0000
+iterations: 239, Fidelity of excited state 10: 1.0000
+iterations: 239, Fidelity of excited state 12: 0.9978
+iterations: 239, Fidelity of excited state 13: 0.9978
+iterations: 240, loss: 16.0000
+iterations: 240, NumOp_psi7: 3.0000
+iterations: 240, NumOp_psi10: 3.0000
+iterations: 240, NumOp_psi12: 3.0000
+iterations: 240, NumOp_psi13: 3.0000
+iterations: 240, Sz_psi7: -0.5000
+iterations: 240, Sz_psi10: 0.5000
+iterations: 240, Sz_psi12: -0.4978
+iterations: 240, Sz_psi13: 0.4978
+iterations: 240, E7: 1.0000
+iterations: 240, E10: 1.0000
+iterations: 240, E12: 3.0000
+iterations: 240, E13: 3.0000
+iterations: 240, Fidelity of excited state 7: 1.0000
+iterations: 240, Fidelity of excited state 10: 1.0000
+iterations: 240, Fidelity of excited state 12: 0.9978
+iterations: 240, Fidelity of excited state 13: 0.9978
+iterations: 241, loss: 16.0000
+iterations: 241, NumOp_psi7: 3.0000
+iterations: 241, NumOp_psi10: 3.0000
+iterations: 241, NumOp_psi12: 3.0000
+iterations: 241, NumOp_psi13: 3.0000
+iterations: 241, Sz_psi7: -0.5000
+iterations: 241, Sz_psi10: 0.5000
+iterations: 241, Sz_psi12: -0.4978
+iterations: 241, Sz_psi13: 0.4978
+iterations: 241, E7: 1.0000
+iterations: 241, E10: 1.0000
+iterations: 241, E12: 3.0000
+iterations: 241, E13: 3.0000
+iterations: 241, Fidelity of excited state 7: 1.0000
+iterations: 241, Fidelity of excited state 10: 1.0000
+iterations: 241, Fidelity of excited state 12: 0.9978
+iterations: 241, Fidelity of excited state 13: 0.9978
+iterations: 242, loss: 16.0000
+iterations: 242, NumOp_psi7: 3.0000
+iterations: 242, NumOp_psi10: 3.0000
+iterations: 242, NumOp_psi12: 3.0000
+iterations: 242, NumOp_psi13: 3.0000
+iterations: 242, Sz_psi7: -0.5000
+iterations: 242, Sz_psi10: 0.5000
+iterations: 242, Sz_psi12: -0.4978
+iterations: 242, Sz_psi13: 0.4978
+iterations: 242, E7: 1.0000
+iterations: 242, E10: 1.0000
+iterations: 242, E12: 3.0000
+iterations: 242, E13: 3.0000
+iterations: 242, Fidelity of excited state 7: 1.0000
+iterations: 242, Fidelity of excited state 10: 1.0000
+iterations: 242, Fidelity of excited state 12: 0.9978
+iterations: 242, Fidelity of excited state 13: 0.9978
+iterations: 243, loss: 16.0000
+iterations: 243, NumOp_psi7: 3.0000
+iterations: 243, NumOp_psi10: 3.0000
+iterations: 243, NumOp_psi12: 3.0000
+iterations: 243, NumOp_psi13: 3.0000
+iterations: 243, Sz_psi7: -0.5000
+iterations: 243, Sz_psi10: 0.5000
+iterations: 243, Sz_psi12: -0.4978
+iterations: 243, Sz_psi13: 0.4978
+iterations: 243, E7: 1.0000
+iterations: 243, E10: 1.0000
+iterations: 243, E12: 3.0000
+iterations: 243, E13: 3.0000
+iterations: 243, Fidelity of excited state 7: 1.0000
+iterations: 243, Fidelity of excited state 10: 1.0000
+iterations: 243, Fidelity of excited state 12: 0.9978
+iterations: 243, Fidelity of excited state 13: 0.9978
+iterations: 244, loss: 16.0000
+iterations: 244, NumOp_psi7: 3.0000
+iterations: 244, NumOp_psi10: 3.0000
+iterations: 244, NumOp_psi12: 3.0000
+iterations: 244, NumOp_psi13: 3.0000
+iterations: 244, Sz_psi7: -0.5000
+iterations: 244, Sz_psi10: 0.5000
+iterations: 244, Sz_psi12: -0.4978
+iterations: 244, Sz_psi13: 0.4978
+iterations: 244, E7: 1.0000
+iterations: 244, E10: 1.0000
+iterations: 244, E12: 3.0000
+iterations: 244, E13: 3.0000
+iterations: 244, Fidelity of excited state 7: 1.0000
+iterations: 244, Fidelity of excited state 10: 1.0000
+iterations: 244, Fidelity of excited state 12: 0.9978
+iterations: 244, Fidelity of excited state 13: 0.9978
+iterations: 245, loss: 16.0000
+iterations: 245, NumOp_psi7: 3.0000
+iterations: 245, NumOp_psi10: 3.0000
+iterations: 245, NumOp_psi12: 3.0000
+iterations: 245, NumOp_psi13: 3.0000
+iterations: 245, Sz_psi7: -0.5000
+iterations: 245, Sz_psi10: 0.5000
+iterations: 245, Sz_psi12: -0.4978
+iterations: 245, Sz_psi13: 0.4978
+iterations: 245, E7: 1.0000
+iterations: 245, E10: 1.0000
+iterations: 245, E12: 3.0000
+iterations: 245, E13: 3.0000
+iterations: 245, Fidelity of excited state 7: 1.0000
+iterations: 245, Fidelity of excited state 10: 1.0000
+iterations: 245, Fidelity of excited state 12: 0.9978
+iterations: 245, Fidelity of excited state 13: 0.9978
+iterations: 246, loss: 16.0000
+iterations: 246, NumOp_psi7: 3.0000
+iterations: 246, NumOp_psi10: 3.0000
+iterations: 246, NumOp_psi12: 3.0000
+iterations: 246, NumOp_psi13: 3.0000
+iterations: 246, Sz_psi7: -0.5000
+iterations: 246, Sz_psi10: 0.5000
+iterations: 246, Sz_psi12: -0.4978
+iterations: 246, Sz_psi13: 0.4978
+iterations: 246, E7: 1.0000
+iterations: 246, E10: 1.0000
+iterations: 246, E12: 3.0000
+iterations: 246, E13: 3.0000
+iterations: 246, Fidelity of excited state 7: 1.0000
+iterations: 246, Fidelity of excited state 10: 1.0000
+iterations: 246, Fidelity of excited state 12: 0.9978
+iterations: 246, Fidelity of excited state 13: 0.9978
+iterations: 247, loss: 16.0000
+iterations: 247, NumOp_psi7: 3.0000
+iterations: 247, NumOp_psi10: 3.0000
+iterations: 247, NumOp_psi12: 3.0000
+iterations: 247, NumOp_psi13: 3.0000
+iterations: 247, Sz_psi7: -0.5000
+iterations: 247, Sz_psi10: 0.5000
+iterations: 247, Sz_psi12: -0.4978
+iterations: 247, Sz_psi13: 0.4978
+iterations: 247, E7: 1.0000
+iterations: 247, E10: 1.0000
+iterations: 247, E12: 3.0000
+iterations: 247, E13: 3.0000
+iterations: 247, Fidelity of excited state 7: 1.0000
+iterations: 247, Fidelity of excited state 10: 1.0000
+iterations: 247, Fidelity of excited state 12: 0.9978
+iterations: 247, Fidelity of excited state 13: 0.9978
+iterations: 248, loss: 16.0000
+iterations: 248, NumOp_psi7: 3.0000
+iterations: 248, NumOp_psi10: 3.0000
+iterations: 248, NumOp_psi12: 3.0000
+iterations: 248, NumOp_psi13: 3.0000
+iterations: 248, Sz_psi7: -0.5000
+iterations: 248, Sz_psi10: 0.5000
+iterations: 248, Sz_psi12: -0.4978
+iterations: 248, Sz_psi13: 0.4978
+iterations: 248, E7: 1.0000
+iterations: 248, E10: 1.0000
+iterations: 248, E12: 3.0000
+iterations: 248, E13: 3.0000
+iterations: 248, Fidelity of excited state 7: 1.0000
+iterations: 248, Fidelity of excited state 10: 1.0000
+iterations: 248, Fidelity of excited state 12: 0.9978
+iterations: 248, Fidelity of excited state 13: 0.9978
+iterations: 249, loss: 16.0000
+iterations: 249, NumOp_psi7: 3.0000
+iterations: 249, NumOp_psi10: 3.0000
+iterations: 249, NumOp_psi12: 3.0000
+iterations: 249, NumOp_psi13: 3.0000
+iterations: 249, Sz_psi7: -0.5000
+iterations: 249, Sz_psi10: 0.5000
+iterations: 249, Sz_psi12: -0.4978
+iterations: 249, Sz_psi13: 0.4978
+iterations: 249, E7: 1.0000
+iterations: 249, E10: 1.0000
+iterations: 249, E12: 3.0000
+iterations: 249, E13: 3.0000
+iterations: 249, Fidelity of excited state 7: 1.0000
+iterations: 249, Fidelity of excited state 10: 1.0000
+iterations: 249, Fidelity of excited state 12: 0.9978
+iterations: 249, Fidelity of excited state 13: 0.9978
+iterations: 250, loss: 16.0000
+iterations: 250, NumOp_psi7: 3.0000
+iterations: 250, NumOp_psi10: 3.0000
+iterations: 250, NumOp_psi12: 3.0000
+iterations: 250, NumOp_psi13: 3.0000
+iterations: 250, Sz_psi7: -0.5000
+iterations: 250, Sz_psi10: 0.5000
+iterations: 250, Sz_psi12: -0.4978
+iterations: 250, Sz_psi13: 0.4978
+iterations: 250, E7: 1.0000
+iterations: 250, E10: 1.0000
+iterations: 250, E12: 3.0000
+iterations: 250, E13: 3.0000
+iterations: 250, Fidelity of excited state 7: 1.0000
+iterations: 250, Fidelity of excited state 10: 1.0000
+iterations: 250, Fidelity of excited state 12: 0.9978
+iterations: 250, Fidelity of excited state 13: 0.9978
+iterations: 251, loss: 16.0000
+iterations: 251, NumOp_psi7: 3.0000
+iterations: 251, NumOp_psi10: 3.0000
+iterations: 251, NumOp_psi12: 3.0000
+iterations: 251, NumOp_psi13: 3.0000
+iterations: 251, Sz_psi7: -0.5000
+iterations: 251, Sz_psi10: 0.5000
+iterations: 251, Sz_psi12: -0.4979
+iterations: 251, Sz_psi13: 0.4979
+iterations: 251, E7: 1.0000
+iterations: 251, E10: 1.0000
+iterations: 251, E12: 3.0000
+iterations: 251, E13: 3.0000
+iterations: 251, Fidelity of excited state 7: 1.0000
+iterations: 251, Fidelity of excited state 10: 1.0000
+iterations: 251, Fidelity of excited state 12: 0.9979
+iterations: 251, Fidelity of excited state 13: 0.9979
+iterations: 252, loss: 16.0000
+iterations: 252, NumOp_psi7: 3.0000
+iterations: 252, NumOp_psi10: 3.0000
+iterations: 252, NumOp_psi12: 3.0000
+iterations: 252, NumOp_psi13: 3.0000
+iterations: 252, Sz_psi7: -0.5000
+iterations: 252, Sz_psi10: 0.5000
+iterations: 252, Sz_psi12: -0.4979
+iterations: 252, Sz_psi13: 0.4979
+iterations: 252, E7: 1.0000
+iterations: 252, E10: 1.0000
+iterations: 252, E12: 3.0000
+iterations: 252, E13: 3.0000
+iterations: 252, Fidelity of excited state 7: 1.0000
+iterations: 252, Fidelity of excited state 10: 1.0000
+iterations: 252, Fidelity of excited state 12: 0.9979
+iterations: 252, Fidelity of excited state 13: 0.9979
+iterations: 253, loss: 16.0000
+iterations: 253, NumOp_psi7: 3.0000
+iterations: 253, NumOp_psi10: 3.0000
+iterations: 253, NumOp_psi12: 3.0000
+iterations: 253, NumOp_psi13: 3.0000
+iterations: 253, Sz_psi7: -0.5000
+iterations: 253, Sz_psi10: 0.5000
+iterations: 253, Sz_psi12: -0.4979
+iterations: 253, Sz_psi13: 0.4979
+iterations: 253, E7: 1.0000
+iterations: 253, E10: 1.0000
+iterations: 253, E12: 3.0000
+iterations: 253, E13: 3.0000
+iterations: 253, Fidelity of excited state 7: 1.0000
+iterations: 253, Fidelity of excited state 10: 1.0000
+iterations: 253, Fidelity of excited state 12: 0.9979
+iterations: 253, Fidelity of excited state 13: 0.9979
+iterations: 254, loss: 16.0000
+iterations: 254, NumOp_psi7: 3.0000
+iterations: 254, NumOp_psi10: 3.0000
+iterations: 254, NumOp_psi12: 3.0000
+iterations: 254, NumOp_psi13: 3.0000
+iterations: 254, Sz_psi7: -0.5000
+iterations: 254, Sz_psi10: 0.5000
+iterations: 254, Sz_psi12: -0.4979
+iterations: 254, Sz_psi13: 0.4979
+iterations: 254, E7: 1.0000
+iterations: 254, E10: 1.0000
+iterations: 254, E12: 3.0000
+iterations: 254, E13: 3.0000
+iterations: 254, Fidelity of excited state 7: 1.0000
+iterations: 254, Fidelity of excited state 10: 1.0000
+iterations: 254, Fidelity of excited state 12: 0.9979
+iterations: 254, Fidelity of excited state 13: 0.9979
+iterations: 255, loss: 16.0000
+iterations: 255, NumOp_psi7: 3.0000
+iterations: 255, NumOp_psi10: 3.0000
+iterations: 255, NumOp_psi12: 3.0000
+iterations: 255, NumOp_psi13: 3.0000
+iterations: 255, Sz_psi7: -0.5000
+iterations: 255, Sz_psi10: 0.5000
+iterations: 255, Sz_psi12: -0.4979
+iterations: 255, Sz_psi13: 0.4979
+iterations: 255, E7: 1.0000
+iterations: 255, E10: 1.0000
+iterations: 255, E12: 3.0000
+iterations: 255, E13: 3.0000
+iterations: 255, Fidelity of excited state 7: 1.0000
+iterations: 255, Fidelity of excited state 10: 1.0000
+iterations: 255, Fidelity of excited state 12: 0.9979
+iterations: 255, Fidelity of excited state 13: 0.9979
+iterations: 256, loss: 16.0000
+iterations: 256, NumOp_psi7: 3.0000
+iterations: 256, NumOp_psi10: 3.0000
+iterations: 256, NumOp_psi12: 3.0000
+iterations: 256, NumOp_psi13: 3.0000
+iterations: 256, Sz_psi7: -0.5000
+iterations: 256, Sz_psi10: 0.5000
+iterations: 256, Sz_psi12: -0.4979
+iterations: 256, Sz_psi13: 0.4979
+iterations: 256, E7: 1.0000
+iterations: 256, E10: 1.0000
+iterations: 256, E12: 3.0000
+iterations: 256, E13: 3.0000
+iterations: 256, Fidelity of excited state 7: 1.0000
+iterations: 256, Fidelity of excited state 10: 1.0000
+iterations: 256, Fidelity of excited state 12: 0.9979
+iterations: 256, Fidelity of excited state 13: 0.9979
+iterations: 257, loss: 16.0000
+iterations: 257, NumOp_psi7: 3.0000
+iterations: 257, NumOp_psi10: 3.0000
+iterations: 257, NumOp_psi12: 3.0000
+iterations: 257, NumOp_psi13: 3.0000
+iterations: 257, Sz_psi7: -0.5000
+iterations: 257, Sz_psi10: 0.5000
+iterations: 257, Sz_psi12: -0.4979
+iterations: 257, Sz_psi13: 0.4979
+iterations: 257, E7: 1.0000
+iterations: 257, E10: 1.0000
+iterations: 257, E12: 3.0000
+iterations: 257, E13: 3.0000
+iterations: 257, Fidelity of excited state 7: 1.0000
+iterations: 257, Fidelity of excited state 10: 1.0000
+iterations: 257, Fidelity of excited state 12: 0.9979
+iterations: 257, Fidelity of excited state 13: 0.9979
+iterations: 258, loss: 16.0000
+iterations: 258, NumOp_psi7: 3.0000
+iterations: 258, NumOp_psi10: 3.0000
+iterations: 258, NumOp_psi12: 3.0000
+iterations: 258, NumOp_psi13: 3.0000
+iterations: 258, Sz_psi7: -0.5000
+iterations: 258, Sz_psi10: 0.5000
+iterations: 258, Sz_psi12: -0.4979
+iterations: 258, Sz_psi13: 0.4979
+iterations: 258, E7: 1.0000
+iterations: 258, E10: 1.0000
+iterations: 258, E12: 3.0000
+iterations: 258, E13: 3.0000
+iterations: 258, Fidelity of excited state 7: 1.0000
+iterations: 258, Fidelity of excited state 10: 1.0000
+iterations: 258, Fidelity of excited state 12: 0.9979
+iterations: 258, Fidelity of excited state 13: 0.9979
+iterations: 259, loss: 16.0000
+iterations: 259, NumOp_psi7: 3.0000
+iterations: 259, NumOp_psi10: 3.0000
+iterations: 259, NumOp_psi12: 3.0000
+iterations: 259, NumOp_psi13: 3.0000
+iterations: 259, Sz_psi7: -0.5000
+iterations: 259, Sz_psi10: 0.5000
+iterations: 259, Sz_psi12: -0.4979
+iterations: 259, Sz_psi13: 0.4979
+iterations: 259, E7: 1.0000
+iterations: 259, E10: 1.0000
+iterations: 259, E12: 3.0000
+iterations: 259, E13: 3.0000
+iterations: 259, Fidelity of excited state 7: 1.0000
+iterations: 259, Fidelity of excited state 10: 1.0000
+iterations: 259, Fidelity of excited state 12: 0.9979
+iterations: 259, Fidelity of excited state 13: 0.9979
+iterations: 260, loss: 16.0000
+iterations: 260, NumOp_psi7: 3.0000
+iterations: 260, NumOp_psi10: 3.0000
+iterations: 260, NumOp_psi12: 3.0000
+iterations: 260, NumOp_psi13: 3.0000
+iterations: 260, Sz_psi7: -0.5000
+iterations: 260, Sz_psi10: 0.5000
+iterations: 260, Sz_psi12: -0.4979
+iterations: 260, Sz_psi13: 0.4979
+iterations: 260, E7: 1.0000
+iterations: 260, E10: 1.0000
+iterations: 260, E12: 3.0000
+iterations: 260, E13: 3.0000
+iterations: 260, Fidelity of excited state 7: 1.0000
+iterations: 260, Fidelity of excited state 10: 1.0000
+iterations: 260, Fidelity of excited state 12: 0.9979
+iterations: 260, Fidelity of excited state 13: 0.9979
+iterations: 261, loss: 16.0000
+iterations: 261, NumOp_psi7: 3.0000
+iterations: 261, NumOp_psi10: 3.0000
+iterations: 261, NumOp_psi12: 3.0000
+iterations: 261, NumOp_psi13: 3.0000
+iterations: 261, Sz_psi7: -0.5000
+iterations: 261, Sz_psi10: 0.5000
+iterations: 261, Sz_psi12: -0.4979
+iterations: 261, Sz_psi13: 0.4979
+iterations: 261, E7: 1.0000
+iterations: 261, E10: 1.0000
+iterations: 261, E12: 3.0000
+iterations: 261, E13: 3.0000
+iterations: 261, Fidelity of excited state 7: 1.0000
+iterations: 261, Fidelity of excited state 10: 1.0000
+iterations: 261, Fidelity of excited state 12: 0.9979
+iterations: 261, Fidelity of excited state 13: 0.9979
+iterations: 262, loss: 16.0000
+iterations: 262, NumOp_psi7: 3.0000
+iterations: 262, NumOp_psi10: 3.0000
+iterations: 262, NumOp_psi12: 3.0000
+iterations: 262, NumOp_psi13: 3.0000
+iterations: 262, Sz_psi7: -0.5000
+iterations: 262, Sz_psi10: 0.5000
+iterations: 262, Sz_psi12: -0.4979
+iterations: 262, Sz_psi13: 0.4979
+iterations: 262, E7: 1.0000
+iterations: 262, E10: 1.0000
+iterations: 262, E12: 3.0000
+iterations: 262, E13: 3.0000
+iterations: 262, Fidelity of excited state 7: 1.0000
+iterations: 262, Fidelity of excited state 10: 1.0000
+iterations: 262, Fidelity of excited state 12: 0.9979
+iterations: 262, Fidelity of excited state 13: 0.9979
+iterations: 263, loss: 16.0000
+iterations: 263, NumOp_psi7: 3.0000
+iterations: 263, NumOp_psi10: 3.0000
+iterations: 263, NumOp_psi12: 3.0000
+iterations: 263, NumOp_psi13: 3.0000
+iterations: 263, Sz_psi7: -0.5000
+iterations: 263, Sz_psi10: 0.5000
+iterations: 263, Sz_psi12: -0.4979
+iterations: 263, Sz_psi13: 0.4979
+iterations: 263, E7: 1.0000
+iterations: 263, E10: 1.0000
+iterations: 263, E12: 3.0000
+iterations: 263, E13: 3.0000
+iterations: 263, Fidelity of excited state 7: 1.0000
+iterations: 263, Fidelity of excited state 10: 1.0000
+iterations: 263, Fidelity of excited state 12: 0.9979
+iterations: 263, Fidelity of excited state 13: 0.9979
+iterations: 264, loss: 16.0000
+iterations: 264, NumOp_psi7: 3.0000
+iterations: 264, NumOp_psi10: 3.0000
+iterations: 264, NumOp_psi12: 3.0000
+iterations: 264, NumOp_psi13: 3.0000
+iterations: 264, Sz_psi7: -0.5000
+iterations: 264, Sz_psi10: 0.5000
+iterations: 264, Sz_psi12: -0.4979
+iterations: 264, Sz_psi13: 0.4979
+iterations: 264, E7: 1.0000
+iterations: 264, E10: 1.0000
+iterations: 264, E12: 3.0000
+iterations: 264, E13: 3.0000
+iterations: 264, Fidelity of excited state 7: 1.0000
+iterations: 264, Fidelity of excited state 10: 1.0000
+iterations: 264, Fidelity of excited state 12: 0.9979
+iterations: 264, Fidelity of excited state 13: 0.9979
+iterations: 265, loss: 16.0000
+iterations: 265, NumOp_psi7: 3.0000
+iterations: 265, NumOp_psi10: 3.0000
+iterations: 265, NumOp_psi12: 3.0000
+iterations: 265, NumOp_psi13: 3.0000
+iterations: 265, Sz_psi7: -0.5000
+iterations: 265, Sz_psi10: 0.5000
+iterations: 265, Sz_psi12: -0.4979
+iterations: 265, Sz_psi13: 0.4979
+iterations: 265, E7: 1.0000
+iterations: 265, E10: 1.0000
+iterations: 265, E12: 3.0000
+iterations: 265, E13: 3.0000
+iterations: 265, Fidelity of excited state 7: 1.0000
+iterations: 265, Fidelity of excited state 10: 1.0000
+iterations: 265, Fidelity of excited state 12: 0.9979
+iterations: 265, Fidelity of excited state 13: 0.9979
+iterations: 266, loss: 16.0000
+iterations: 266, NumOp_psi7: 3.0000
+iterations: 266, NumOp_psi10: 3.0000
+iterations: 266, NumOp_psi12: 3.0000
+iterations: 266, NumOp_psi13: 3.0000
+iterations: 266, Sz_psi7: -0.5000
+iterations: 266, Sz_psi10: 0.5000
+iterations: 266, Sz_psi12: -0.4980
+iterations: 266, Sz_psi13: 0.4980
+iterations: 266, E7: 1.0000
+iterations: 266, E10: 1.0000
+iterations: 266, E12: 3.0000
+iterations: 266, E13: 3.0000
+iterations: 266, Fidelity of excited state 7: 1.0000
+iterations: 266, Fidelity of excited state 10: 1.0000
+iterations: 266, Fidelity of excited state 12: 0.9980
+iterations: 266, Fidelity of excited state 13: 0.9980
+iterations: 267, loss: 16.0000
+iterations: 267, NumOp_psi7: 3.0000
+iterations: 267, NumOp_psi10: 3.0000
+iterations: 267, NumOp_psi12: 3.0000
+iterations: 267, NumOp_psi13: 3.0000
+iterations: 267, Sz_psi7: -0.5000
+iterations: 267, Sz_psi10: 0.5000
+iterations: 267, Sz_psi12: -0.4980
+iterations: 267, Sz_psi13: 0.4980
+iterations: 267, E7: 1.0000
+iterations: 267, E10: 1.0000
+iterations: 267, E12: 3.0000
+iterations: 267, E13: 3.0000
+iterations: 267, Fidelity of excited state 7: 1.0000
+iterations: 267, Fidelity of excited state 10: 1.0000
+iterations: 267, Fidelity of excited state 12: 0.9980
+iterations: 267, Fidelity of excited state 13: 0.9980
+iterations: 268, loss: 16.0000
+iterations: 268, NumOp_psi7: 3.0000
+iterations: 268, NumOp_psi10: 3.0000
+iterations: 268, NumOp_psi12: 3.0000
+iterations: 268, NumOp_psi13: 3.0000
+iterations: 268, Sz_psi7: -0.5000
+iterations: 268, Sz_psi10: 0.5000
+iterations: 268, Sz_psi12: -0.4980
+iterations: 268, Sz_psi13: 0.4980
+iterations: 268, E7: 1.0000
+iterations: 268, E10: 1.0000
+iterations: 268, E12: 3.0000
+iterations: 268, E13: 3.0000
+iterations: 268, Fidelity of excited state 7: 1.0000
+iterations: 268, Fidelity of excited state 10: 1.0000
+iterations: 268, Fidelity of excited state 12: 0.9980
+iterations: 268, Fidelity of excited state 13: 0.9980
+iterations: 269, loss: 16.0000
+iterations: 269, NumOp_psi7: 3.0000
+iterations: 269, NumOp_psi10: 3.0000
+iterations: 269, NumOp_psi12: 3.0000
+iterations: 269, NumOp_psi13: 3.0000
+iterations: 269, Sz_psi7: -0.5000
+iterations: 269, Sz_psi10: 0.5000
+iterations: 269, Sz_psi12: -0.4980
+iterations: 269, Sz_psi13: 0.4980
+iterations: 269, E7: 1.0000
+iterations: 269, E10: 1.0000
+iterations: 269, E12: 3.0000
+iterations: 269, E13: 3.0000
+iterations: 269, Fidelity of excited state 7: 1.0000
+iterations: 269, Fidelity of excited state 10: 1.0000
+iterations: 269, Fidelity of excited state 12: 0.9980
+iterations: 269, Fidelity of excited state 13: 0.9980
+iterations: 270, loss: 16.0000
+iterations: 270, NumOp_psi7: 3.0000
+iterations: 270, NumOp_psi10: 3.0000
+iterations: 270, NumOp_psi12: 3.0000
+iterations: 270, NumOp_psi13: 3.0000
+iterations: 270, Sz_psi7: -0.5000
+iterations: 270, Sz_psi10: 0.5000
+iterations: 270, Sz_psi12: -0.4980
+iterations: 270, Sz_psi13: 0.4980
+iterations: 270, E7: 1.0000
+iterations: 270, E10: 1.0000
+iterations: 270, E12: 3.0000
+iterations: 270, E13: 3.0000
+iterations: 270, Fidelity of excited state 7: 1.0000
+iterations: 270, Fidelity of excited state 10: 1.0000
+iterations: 270, Fidelity of excited state 12: 0.9980
+iterations: 270, Fidelity of excited state 13: 0.9980
+iterations: 271, loss: 16.0000
+iterations: 271, NumOp_psi7: 3.0000
+iterations: 271, NumOp_psi10: 3.0000
+iterations: 271, NumOp_psi12: 3.0000
+iterations: 271, NumOp_psi13: 3.0000
+iterations: 271, Sz_psi7: -0.5000
+iterations: 271, Sz_psi10: 0.5000
+iterations: 271, Sz_psi12: -0.4980
+iterations: 271, Sz_psi13: 0.4980
+iterations: 271, E7: 1.0000
+iterations: 271, E10: 1.0000
+iterations: 271, E12: 3.0000
+iterations: 271, E13: 3.0000
+iterations: 271, Fidelity of excited state 7: 1.0000
+iterations: 271, Fidelity of excited state 10: 1.0000
+iterations: 271, Fidelity of excited state 12: 0.9980
+iterations: 271, Fidelity of excited state 13: 0.9980
+iterations: 272, loss: 16.0000
+iterations: 272, NumOp_psi7: 3.0000
+iterations: 272, NumOp_psi10: 3.0000
+iterations: 272, NumOp_psi12: 3.0000
+iterations: 272, NumOp_psi13: 3.0000
+iterations: 272, Sz_psi7: -0.5000
+iterations: 272, Sz_psi10: 0.5000
+iterations: 272, Sz_psi12: -0.4980
+iterations: 272, Sz_psi13: 0.4980
+iterations: 272, E7: 1.0000
+iterations: 272, E10: 1.0000
+iterations: 272, E12: 3.0000
+iterations: 272, E13: 3.0000
+iterations: 272, Fidelity of excited state 7: 1.0000
+iterations: 272, Fidelity of excited state 10: 1.0000
+iterations: 272, Fidelity of excited state 12: 0.9980
+iterations: 272, Fidelity of excited state 13: 0.9980
+iterations: 273, loss: 16.0000
+iterations: 273, NumOp_psi7: 3.0000
+iterations: 273, NumOp_psi10: 3.0000
+iterations: 273, NumOp_psi12: 3.0000
+iterations: 273, NumOp_psi13: 3.0000
+iterations: 273, Sz_psi7: -0.5000
+iterations: 273, Sz_psi10: 0.5000
+iterations: 273, Sz_psi12: -0.4980
+iterations: 273, Sz_psi13: 0.4980
+iterations: 273, E7: 1.0000
+iterations: 273, E10: 1.0000
+iterations: 273, E12: 3.0000
+iterations: 273, E13: 3.0000
+iterations: 273, Fidelity of excited state 7: 1.0000
+iterations: 273, Fidelity of excited state 10: 1.0000
+iterations: 273, Fidelity of excited state 12: 0.9980
+iterations: 273, Fidelity of excited state 13: 0.9980
+iterations: 274, loss: 16.0000
+iterations: 274, NumOp_psi7: 3.0000
+iterations: 274, NumOp_psi10: 3.0000
+iterations: 274, NumOp_psi12: 3.0000
+iterations: 274, NumOp_psi13: 3.0000
+iterations: 274, Sz_psi7: -0.5000
+iterations: 274, Sz_psi10: 0.5000
+iterations: 274, Sz_psi12: -0.4980
+iterations: 274, Sz_psi13: 0.4980
+iterations: 274, E7: 1.0000
+iterations: 274, E10: 1.0000
+iterations: 274, E12: 3.0000
+iterations: 274, E13: 3.0000
+iterations: 274, Fidelity of excited state 7: 1.0000
+iterations: 274, Fidelity of excited state 10: 1.0000
+iterations: 274, Fidelity of excited state 12: 0.9980
+iterations: 274, Fidelity of excited state 13: 0.9980
+iterations: 275, loss: 16.0000
+iterations: 275, NumOp_psi7: 3.0000
+iterations: 275, NumOp_psi10: 3.0000
+iterations: 275, NumOp_psi12: 3.0000
+iterations: 275, NumOp_psi13: 3.0000
+iterations: 275, Sz_psi7: -0.5000
+iterations: 275, Sz_psi10: 0.5000
+iterations: 275, Sz_psi12: -0.4980
+iterations: 275, Sz_psi13: 0.4980
+iterations: 275, E7: 1.0000
+iterations: 275, E10: 1.0000
+iterations: 275, E12: 3.0000
+iterations: 275, E13: 3.0000
+iterations: 275, Fidelity of excited state 7: 1.0000
+iterations: 275, Fidelity of excited state 10: 1.0000
+iterations: 275, Fidelity of excited state 12: 0.9980
+iterations: 275, Fidelity of excited state 13: 0.9980
+iterations: 276, loss: 16.0000
+iterations: 276, NumOp_psi7: 3.0000
+iterations: 276, NumOp_psi10: 3.0000
+iterations: 276, NumOp_psi12: 3.0000
+iterations: 276, NumOp_psi13: 3.0000
+iterations: 276, Sz_psi7: -0.5000
+iterations: 276, Sz_psi10: 0.5000
+iterations: 276, Sz_psi12: -0.4980
+iterations: 276, Sz_psi13: 0.4980
+iterations: 276, E7: 1.0000
+iterations: 276, E10: 1.0000
+iterations: 276, E12: 3.0000
+iterations: 276, E13: 3.0000
+iterations: 276, Fidelity of excited state 7: 1.0000
+iterations: 276, Fidelity of excited state 10: 1.0000
+iterations: 276, Fidelity of excited state 12: 0.9980
+iterations: 276, Fidelity of excited state 13: 0.9980
+iterations: 277, loss: 16.0000
+iterations: 277, NumOp_psi7: 3.0000
+iterations: 277, NumOp_psi10: 3.0000
+iterations: 277, NumOp_psi12: 3.0000
+iterations: 277, NumOp_psi13: 3.0000
+iterations: 277, Sz_psi7: -0.5000
+iterations: 277, Sz_psi10: 0.5000
+iterations: 277, Sz_psi12: -0.4980
+iterations: 277, Sz_psi13: 0.4980
+iterations: 277, E7: 1.0000
+iterations: 277, E10: 1.0000
+iterations: 277, E12: 3.0000
+iterations: 277, E13: 3.0000
+iterations: 277, Fidelity of excited state 7: 1.0000
+iterations: 277, Fidelity of excited state 10: 1.0000
+iterations: 277, Fidelity of excited state 12: 0.9980
+iterations: 277, Fidelity of excited state 13: 0.9980
+iterations: 278, loss: 16.0000
+iterations: 278, NumOp_psi7: 3.0000
+iterations: 278, NumOp_psi10: 3.0000
+iterations: 278, NumOp_psi12: 3.0000
+iterations: 278, NumOp_psi13: 3.0000
+iterations: 278, Sz_psi7: -0.5000
+iterations: 278, Sz_psi10: 0.5000
+iterations: 278, Sz_psi12: -0.4980
+iterations: 278, Sz_psi13: 0.4980
+iterations: 278, E7: 1.0000
+iterations: 278, E10: 1.0000
+iterations: 278, E12: 3.0000
+iterations: 278, E13: 3.0000
+iterations: 278, Fidelity of excited state 7: 1.0000
+iterations: 278, Fidelity of excited state 10: 1.0000
+iterations: 278, Fidelity of excited state 12: 0.9980
+iterations: 278, Fidelity of excited state 13: 0.9980
+iterations: 279, loss: 16.0000
+iterations: 279, NumOp_psi7: 3.0000
+iterations: 279, NumOp_psi10: 3.0000
+iterations: 279, NumOp_psi12: 3.0000
+iterations: 279, NumOp_psi13: 3.0000
+iterations: 279, Sz_psi7: -0.5000
+iterations: 279, Sz_psi10: 0.5000
+iterations: 279, Sz_psi12: -0.4980
+iterations: 279, Sz_psi13: 0.4980
+iterations: 279, E7: 1.0000
+iterations: 279, E10: 1.0000
+iterations: 279, E12: 3.0000
+iterations: 279, E13: 3.0000
+iterations: 279, Fidelity of excited state 7: 1.0000
+iterations: 279, Fidelity of excited state 10: 1.0000
+iterations: 279, Fidelity of excited state 12: 0.9980
+iterations: 279, Fidelity of excited state 13: 0.9980
+iterations: 280, loss: 16.0000
+iterations: 280, NumOp_psi7: 3.0000
+iterations: 280, NumOp_psi10: 3.0000
+iterations: 280, NumOp_psi12: 3.0000
+iterations: 280, NumOp_psi13: 3.0000
+iterations: 280, Sz_psi7: -0.5000
+iterations: 280, Sz_psi10: 0.5000
+iterations: 280, Sz_psi12: -0.4980
+iterations: 280, Sz_psi13: 0.4980
+iterations: 280, E7: 1.0000
+iterations: 280, E10: 1.0000
+iterations: 280, E12: 3.0000
+iterations: 280, E13: 3.0000
+iterations: 280, Fidelity of excited state 7: 1.0000
+iterations: 280, Fidelity of excited state 10: 1.0000
+iterations: 280, Fidelity of excited state 12: 0.9980
+iterations: 280, Fidelity of excited state 13: 0.9980
+iterations: 281, loss: 16.0000
+iterations: 281, NumOp_psi7: 3.0000
+iterations: 281, NumOp_psi10: 3.0000
+iterations: 281, NumOp_psi12: 3.0000
+iterations: 281, NumOp_psi13: 3.0000
+iterations: 281, Sz_psi7: -0.5000
+iterations: 281, Sz_psi10: 0.5000
+iterations: 281, Sz_psi12: -0.4980
+iterations: 281, Sz_psi13: 0.4980
+iterations: 281, E7: 1.0000
+iterations: 281, E10: 1.0000
+iterations: 281, E12: 3.0000
+iterations: 281, E13: 3.0000
+iterations: 281, Fidelity of excited state 7: 1.0000
+iterations: 281, Fidelity of excited state 10: 1.0000
+iterations: 281, Fidelity of excited state 12: 0.9980
+iterations: 281, Fidelity of excited state 13: 0.9980
+iterations: 282, loss: 16.0000
+iterations: 282, NumOp_psi7: 3.0000
+iterations: 282, NumOp_psi10: 3.0000
+iterations: 282, NumOp_psi12: 3.0000
+iterations: 282, NumOp_psi13: 3.0000
+iterations: 282, Sz_psi7: -0.5000
+iterations: 282, Sz_psi10: 0.5000
+iterations: 282, Sz_psi12: -0.4980
+iterations: 282, Sz_psi13: 0.4980
+iterations: 282, E7: 1.0000
+iterations: 282, E10: 1.0000
+iterations: 282, E12: 3.0000
+iterations: 282, E13: 3.0000
+iterations: 282, Fidelity of excited state 7: 1.0000
+iterations: 282, Fidelity of excited state 10: 1.0000
+iterations: 282, Fidelity of excited state 12: 0.9980
+iterations: 282, Fidelity of excited state 13: 0.9980
+iterations: 283, loss: 16.0000
+iterations: 283, NumOp_psi7: 3.0000
+iterations: 283, NumOp_psi10: 3.0000
+iterations: 283, NumOp_psi12: 3.0000
+iterations: 283, NumOp_psi13: 3.0000
+iterations: 283, Sz_psi7: -0.5000
+iterations: 283, Sz_psi10: 0.5000
+iterations: 283, Sz_psi12: -0.4981
+iterations: 283, Sz_psi13: 0.4981
+iterations: 283, E7: 1.0000
+iterations: 283, E10: 1.0000
+iterations: 283, E12: 3.0000
+iterations: 283, E13: 3.0000
+iterations: 283, Fidelity of excited state 7: 1.0000
+iterations: 283, Fidelity of excited state 10: 1.0000
+iterations: 283, Fidelity of excited state 12: 0.9981
+iterations: 283, Fidelity of excited state 13: 0.9981
+iterations: 284, loss: 16.0000
+iterations: 284, NumOp_psi7: 3.0000
+iterations: 284, NumOp_psi10: 3.0000
+iterations: 284, NumOp_psi12: 3.0000
+iterations: 284, NumOp_psi13: 3.0000
+iterations: 284, Sz_psi7: -0.5000
+iterations: 284, Sz_psi10: 0.5000
+iterations: 284, Sz_psi12: -0.4981
+iterations: 284, Sz_psi13: 0.4981
+iterations: 284, E7: 1.0000
+iterations: 284, E10: 1.0000
+iterations: 284, E12: 3.0000
+iterations: 284, E13: 3.0000
+iterations: 284, Fidelity of excited state 7: 1.0000
+iterations: 284, Fidelity of excited state 10: 1.0000
+iterations: 284, Fidelity of excited state 12: 0.9981
+iterations: 284, Fidelity of excited state 13: 0.9981
+iterations: 285, loss: 16.0000
+iterations: 285, NumOp_psi7: 3.0000
+iterations: 285, NumOp_psi10: 3.0000
+iterations: 285, NumOp_psi12: 3.0000
+iterations: 285, NumOp_psi13: 3.0000
+iterations: 285, Sz_psi7: -0.5000
+iterations: 285, Sz_psi10: 0.5000
+iterations: 285, Sz_psi12: -0.4981
+iterations: 285, Sz_psi13: 0.4981
+iterations: 285, E7: 1.0000
+iterations: 285, E10: 1.0000
+iterations: 285, E12: 3.0000
+iterations: 285, E13: 3.0000
+iterations: 285, Fidelity of excited state 7: 1.0000
+iterations: 285, Fidelity of excited state 10: 1.0000
+iterations: 285, Fidelity of excited state 12: 0.9981
+iterations: 285, Fidelity of excited state 13: 0.9981
+iterations: 286, loss: 16.0000
+iterations: 286, NumOp_psi7: 3.0000
+iterations: 286, NumOp_psi10: 3.0000
+iterations: 286, NumOp_psi12: 3.0000
+iterations: 286, NumOp_psi13: 3.0000
+iterations: 286, Sz_psi7: -0.5000
+iterations: 286, Sz_psi10: 0.5000
+iterations: 286, Sz_psi12: -0.4981
+iterations: 286, Sz_psi13: 0.4981
+iterations: 286, E7: 1.0000
+iterations: 286, E10: 1.0000
+iterations: 286, E12: 3.0000
+iterations: 286, E13: 3.0000
+iterations: 286, Fidelity of excited state 7: 1.0000
+iterations: 286, Fidelity of excited state 10: 1.0000
+iterations: 286, Fidelity of excited state 12: 0.9981
+iterations: 286, Fidelity of excited state 13: 0.9981
+iterations: 287, loss: 16.0000
+iterations: 287, NumOp_psi7: 3.0000
+iterations: 287, NumOp_psi10: 3.0000
+iterations: 287, NumOp_psi12: 3.0000
+iterations: 287, NumOp_psi13: 3.0000
+iterations: 287, Sz_psi7: -0.5000
+iterations: 287, Sz_psi10: 0.5000
+iterations: 287, Sz_psi12: -0.4981
+iterations: 287, Sz_psi13: 0.4981
+iterations: 287, E7: 1.0000
+iterations: 287, E10: 1.0000
+iterations: 287, E12: 3.0000
+iterations: 287, E13: 3.0000
+iterations: 287, Fidelity of excited state 7: 1.0000
+iterations: 287, Fidelity of excited state 10: 1.0000
+iterations: 287, Fidelity of excited state 12: 0.9981
+iterations: 287, Fidelity of excited state 13: 0.9981
+iterations: 288, loss: 16.0000
+iterations: 288, NumOp_psi7: 3.0000
+iterations: 288, NumOp_psi10: 3.0000
+iterations: 288, NumOp_psi12: 3.0000
+iterations: 288, NumOp_psi13: 3.0000
+iterations: 288, Sz_psi7: -0.5000
+iterations: 288, Sz_psi10: 0.5000
+iterations: 288, Sz_psi12: -0.4981
+iterations: 288, Sz_psi13: 0.4981
+iterations: 288, E7: 1.0000
+iterations: 288, E10: 1.0000
+iterations: 288, E12: 3.0000
+iterations: 288, E13: 3.0000
+iterations: 288, Fidelity of excited state 7: 1.0000
+iterations: 288, Fidelity of excited state 10: 1.0000
+iterations: 288, Fidelity of excited state 12: 0.9981
+iterations: 288, Fidelity of excited state 13: 0.9981
+iterations: 289, loss: 16.0000
+iterations: 289, NumOp_psi7: 3.0000
+iterations: 289, NumOp_psi10: 3.0000
+iterations: 289, NumOp_psi12: 3.0000
+iterations: 289, NumOp_psi13: 3.0000
+iterations: 289, Sz_psi7: -0.5000
+iterations: 289, Sz_psi10: 0.5000
+iterations: 289, Sz_psi12: -0.4981
+iterations: 289, Sz_psi13: 0.4981
+iterations: 289, E7: 1.0000
+iterations: 289, E10: 1.0000
+iterations: 289, E12: 3.0000
+iterations: 289, E13: 3.0000
+iterations: 289, Fidelity of excited state 7: 1.0000
+iterations: 289, Fidelity of excited state 10: 1.0000
+iterations: 289, Fidelity of excited state 12: 0.9981
+iterations: 289, Fidelity of excited state 13: 0.9981
+iterations: 290, loss: 16.0000
+iterations: 290, NumOp_psi7: 3.0000
+iterations: 290, NumOp_psi10: 3.0000
+iterations: 290, NumOp_psi12: 3.0000
+iterations: 290, NumOp_psi13: 3.0000
+iterations: 290, Sz_psi7: -0.5000
+iterations: 290, Sz_psi10: 0.5000
+iterations: 290, Sz_psi12: -0.4981
+iterations: 290, Sz_psi13: 0.4981
+iterations: 290, E7: 1.0000
+iterations: 290, E10: 1.0000
+iterations: 290, E12: 3.0000
+iterations: 290, E13: 3.0000
+iterations: 290, Fidelity of excited state 7: 1.0000
+iterations: 290, Fidelity of excited state 10: 1.0000
+iterations: 290, Fidelity of excited state 12: 0.9981
+iterations: 290, Fidelity of excited state 13: 0.9981
+iterations: 291, loss: 16.0000
+iterations: 291, NumOp_psi7: 3.0000
+iterations: 291, NumOp_psi10: 3.0000
+iterations: 291, NumOp_psi12: 3.0000
+iterations: 291, NumOp_psi13: 3.0000
+iterations: 291, Sz_psi7: -0.5000
+iterations: 291, Sz_psi10: 0.5000
+iterations: 291, Sz_psi12: -0.4981
+iterations: 291, Sz_psi13: 0.4981
+iterations: 291, E7: 1.0000
+iterations: 291, E10: 1.0000
+iterations: 291, E12: 3.0000
+iterations: 291, E13: 3.0000
+iterations: 291, Fidelity of excited state 7: 1.0000
+iterations: 291, Fidelity of excited state 10: 1.0000
+iterations: 291, Fidelity of excited state 12: 0.9981
+iterations: 291, Fidelity of excited state 13: 0.9981
+iterations: 292, loss: 16.0000
+iterations: 292, NumOp_psi7: 3.0000
+iterations: 292, NumOp_psi10: 3.0000
+iterations: 292, NumOp_psi12: 3.0000
+iterations: 292, NumOp_psi13: 3.0000
+iterations: 292, Sz_psi7: -0.5000
+iterations: 292, Sz_psi10: 0.5000
+iterations: 292, Sz_psi12: -0.4981
+iterations: 292, Sz_psi13: 0.4981
+iterations: 292, E7: 1.0000
+iterations: 292, E10: 1.0000
+iterations: 292, E12: 3.0000
+iterations: 292, E13: 3.0000
+iterations: 292, Fidelity of excited state 7: 1.0000
+iterations: 292, Fidelity of excited state 10: 1.0000
+iterations: 292, Fidelity of excited state 12: 0.9981
+iterations: 292, Fidelity of excited state 13: 0.9981
+iterations: 293, loss: 16.0000
+iterations: 293, NumOp_psi7: 3.0000
+iterations: 293, NumOp_psi10: 3.0000
+iterations: 293, NumOp_psi12: 3.0000
+iterations: 293, NumOp_psi13: 3.0000
+iterations: 293, Sz_psi7: -0.5000
+iterations: 293, Sz_psi10: 0.5000
+iterations: 293, Sz_psi12: -0.4981
+iterations: 293, Sz_psi13: 0.4981
+iterations: 293, E7: 1.0000
+iterations: 293, E10: 1.0000
+iterations: 293, E12: 3.0000
+iterations: 293, E13: 3.0000
+iterations: 293, Fidelity of excited state 7: 1.0000
+iterations: 293, Fidelity of excited state 10: 1.0000
+iterations: 293, Fidelity of excited state 12: 0.9981
+iterations: 293, Fidelity of excited state 13: 0.9981
+iterations: 294, loss: 16.0000
+iterations: 294, NumOp_psi7: 3.0000
+iterations: 294, NumOp_psi10: 3.0000
+iterations: 294, NumOp_psi12: 3.0000
+iterations: 294, NumOp_psi13: 3.0000
+iterations: 294, Sz_psi7: -0.5000
+iterations: 294, Sz_psi10: 0.5000
+iterations: 294, Sz_psi12: -0.4981
+iterations: 294, Sz_psi13: 0.4981
+iterations: 294, E7: 1.0000
+iterations: 294, E10: 1.0000
+iterations: 294, E12: 3.0000
+iterations: 294, E13: 3.0000
+iterations: 294, Fidelity of excited state 7: 1.0000
+iterations: 294, Fidelity of excited state 10: 1.0000
+iterations: 294, Fidelity of excited state 12: 0.9981
+iterations: 294, Fidelity of excited state 13: 0.9981
+iterations: 295, loss: 16.0000
+iterations: 295, NumOp_psi7: 3.0000
+iterations: 295, NumOp_psi10: 3.0000
+iterations: 295, NumOp_psi12: 3.0000
+iterations: 295, NumOp_psi13: 3.0000
+iterations: 295, Sz_psi7: -0.5000
+iterations: 295, Sz_psi10: 0.5000
+iterations: 295, Sz_psi12: -0.4981
+iterations: 295, Sz_psi13: 0.4981
+iterations: 295, E7: 1.0000
+iterations: 295, E10: 1.0000
+iterations: 295, E12: 3.0000
+iterations: 295, E13: 3.0000
+iterations: 295, Fidelity of excited state 7: 1.0000
+iterations: 295, Fidelity of excited state 10: 1.0000
+iterations: 295, Fidelity of excited state 12: 0.9981
+iterations: 295, Fidelity of excited state 13: 0.9981
+iterations: 296, loss: 16.0000
+iterations: 296, NumOp_psi7: 3.0000
+iterations: 296, NumOp_psi10: 3.0000
+iterations: 296, NumOp_psi12: 3.0000
+iterations: 296, NumOp_psi13: 3.0000
+iterations: 296, Sz_psi7: -0.5000
+iterations: 296, Sz_psi10: 0.5000
+iterations: 296, Sz_psi12: -0.4981
+iterations: 296, Sz_psi13: 0.4981
+iterations: 296, E7: 1.0000
+iterations: 296, E10: 1.0000
+iterations: 296, E12: 3.0000
+iterations: 296, E13: 3.0000
+iterations: 296, Fidelity of excited state 7: 1.0000
+iterations: 296, Fidelity of excited state 10: 1.0000
+iterations: 296, Fidelity of excited state 12: 0.9981
+iterations: 296, Fidelity of excited state 13: 0.9981
+iterations: 297, loss: 16.0000
+iterations: 297, NumOp_psi7: 3.0000
+iterations: 297, NumOp_psi10: 3.0000
+iterations: 297, NumOp_psi12: 3.0000
+iterations: 297, NumOp_psi13: 3.0000
+iterations: 297, Sz_psi7: -0.5000
+iterations: 297, Sz_psi10: 0.5000
+iterations: 297, Sz_psi12: -0.4981
+iterations: 297, Sz_psi13: 0.4981
+iterations: 297, E7: 1.0000
+iterations: 297, E10: 1.0000
+iterations: 297, E12: 3.0000
+iterations: 297, E13: 3.0000
+iterations: 297, Fidelity of excited state 7: 1.0000
+iterations: 297, Fidelity of excited state 10: 1.0000
+iterations: 297, Fidelity of excited state 12: 0.9981
+iterations: 297, Fidelity of excited state 13: 0.9981
+iterations: 298, loss: 16.0000
+iterations: 298, NumOp_psi7: 3.0000
+iterations: 298, NumOp_psi10: 3.0000
+iterations: 298, NumOp_psi12: 3.0000
+iterations: 298, NumOp_psi13: 3.0000
+iterations: 298, Sz_psi7: -0.5000
+iterations: 298, Sz_psi10: 0.5000
+iterations: 298, Sz_psi12: -0.4981
+iterations: 298, Sz_psi13: 0.4981
+iterations: 298, E7: 1.0000
+iterations: 298, E10: 1.0000
+iterations: 298, E12: 3.0000
+iterations: 298, E13: 3.0000
+iterations: 298, Fidelity of excited state 7: 1.0000
+iterations: 298, Fidelity of excited state 10: 1.0000
+iterations: 298, Fidelity of excited state 12: 0.9981
+iterations: 298, Fidelity of excited state 13: 0.9981
+iterations: 299, loss: 16.0000
+iterations: 299, NumOp_psi7: 3.0000
+iterations: 299, NumOp_psi10: 3.0000
+iterations: 299, NumOp_psi12: 3.0000
+iterations: 299, NumOp_psi13: 3.0000
+iterations: 299, Sz_psi7: -0.5000
+iterations: 299, Sz_psi10: 0.5000
+iterations: 299, Sz_psi12: -0.4981
+iterations: 299, Sz_psi13: 0.4981
+iterations: 299, E7: 1.0000
+iterations: 299, E10: 1.0000
+iterations: 299, E12: 3.0000
+iterations: 299, E13: 3.0000
+iterations: 299, Fidelity of excited state 7: 1.0000
+iterations: 299, Fidelity of excited state 10: 1.0000
+iterations: 299, Fidelity of excited state 12: 0.9981
+iterations: 299, Fidelity of excited state 13: 0.9981
+iterations: 300, loss: 16.0000
+iterations: 300, NumOp_psi7: 3.0000
+iterations: 300, NumOp_psi10: 3.0000
+iterations: 300, NumOp_psi12: 3.0000
+iterations: 300, NumOp_psi13: 3.0000
+iterations: 300, Sz_psi7: -0.5000
+iterations: 300, Sz_psi10: 0.5000
+iterations: 300, Sz_psi12: -0.4981
+iterations: 300, Sz_psi13: 0.4981
+iterations: 300, E7: 1.0000
+iterations: 300, E10: 1.0000
+iterations: 300, E12: 3.0000
+iterations: 300, E13: 3.0000
+iterations: 300, Fidelity of excited state 7: 1.0000
+iterations: 300, Fidelity of excited state 10: 1.0000
+iterations: 300, Fidelity of excited state 12: 0.9981
+iterations: 300, Fidelity of excited state 13: 0.9981

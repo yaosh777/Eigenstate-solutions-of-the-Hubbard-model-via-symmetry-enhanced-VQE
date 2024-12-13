@@ -1,0 +1,2000 @@
+iterations: 1, NumOp_psi0: 2.0000
+iterations: 1, Sz_psi0: 0.0070
+iterations: 1, E0: -0.7477
+iterations: 1, Fidelity of ground state: 0.2152
+iterations: 2, NumOp_psi0: 2.0000
+iterations: 2, Sz_psi0: 0.3405
+iterations: 2, E0: -0.2277
+iterations: 2, Fidelity of ground state: 0.0964
+iterations: 3, NumOp_psi0: 2.0000
+iterations: 3, Sz_psi0: 0.1494
+iterations: 3, E0: -1.7026
+iterations: 3, Fidelity of ground state: 0.3841
+iterations: 4, NumOp_psi0: 2.0000
+iterations: 4, Sz_psi0: 0.0197
+iterations: 4, E0: -2.2773
+iterations: 4, Fidelity of ground state: 0.5381
+iterations: 5, NumOp_psi0: 2.0000
+iterations: 5, Sz_psi0: -0.0877
+iterations: 5, E0: -2.2787
+iterations: 5, Fidelity of ground state: 0.5366
+iterations: 6, NumOp_psi0: 2.0000
+iterations: 6, Sz_psi0: -0.0701
+iterations: 6, E0: -2.2196
+iterations: 6, Fidelity of ground state: 0.5644
+iterations: 7, NumOp_psi0: 2.0000
+iterations: 7, Sz_psi0: -0.0161
+iterations: 7, E0: -2.5214
+iterations: 7, Fidelity of ground state: 0.6390
+iterations: 8, NumOp_psi0: 2.0000
+iterations: 8, Sz_psi0: 0.0232
+iterations: 8, E0: -2.8246
+iterations: 8, Fidelity of ground state: 0.6841
+iterations: 9, NumOp_psi0: 2.0000
+iterations: 9, Sz_psi0: 0.0447
+iterations: 9, E0: -2.7664
+iterations: 9, Fidelity of ground state: 0.6533
+iterations: 10, NumOp_psi0: 2.0000
+iterations: 10, Sz_psi0: 0.0450
+iterations: 10, E0: -2.7054
+iterations: 10, Fidelity of ground state: 0.6534
+iterations: 11, NumOp_psi0: 2.0000
+iterations: 11, Sz_psi0: 0.0224
+iterations: 11, E0: -2.8194
+iterations: 11, Fidelity of ground state: 0.7011
+iterations: 12, NumOp_psi0: 2.0000
+iterations: 12, Sz_psi0: -0.0046
+iterations: 12, E0: -2.9352
+iterations: 12, Fidelity of ground state: 0.7508
+iterations: 13, NumOp_psi0: 2.0000
+iterations: 13, Sz_psi0: -0.0254
+iterations: 13, E0: -3.1310
+iterations: 13, Fidelity of ground state: 0.8251
+iterations: 14, NumOp_psi0: 2.0000
+iterations: 14, Sz_psi0: -0.0293
+iterations: 14, E0: -3.2111
+iterations: 14, Fidelity of ground state: 0.8587
+iterations: 15, NumOp_psi0: 2.0000
+iterations: 15, Sz_psi0: -0.0122
+iterations: 15, E0: -3.2434
+iterations: 15, Fidelity of ground state: 0.8737
+iterations: 16, NumOp_psi0: 2.0000
+iterations: 16, Sz_psi0: 0.0045
+iterations: 16, E0: -3.2798
+iterations: 16, Fidelity of ground state: 0.8910
+iterations: 17, NumOp_psi0: 2.0000
+iterations: 17, Sz_psi0: 0.0035
+iterations: 17, E0: -3.3176
+iterations: 17, Fidelity of ground state: 0.8960
+iterations: 18, NumOp_psi0: 2.0000
+iterations: 18, Sz_psi0: -0.0013
+iterations: 18, E0: -3.3215
+iterations: 18, Fidelity of ground state: 0.8949
+iterations: 19, NumOp_psi0: 2.0000
+iterations: 19, Sz_psi0: -0.0018
+iterations: 19, E0: -3.3541
+iterations: 19, Fidelity of ground state: 0.9146
+iterations: 20, NumOp_psi0: 2.0000
+iterations: 20, Sz_psi0: -0.0060
+iterations: 20, E0: -3.3452
+iterations: 20, Fidelity of ground state: 0.9120
+iterations: 21, NumOp_psi0: 2.0000
+iterations: 21, Sz_psi0: -0.0106
+iterations: 21, E0: -3.3381
+iterations: 21, Fidelity of ground state: 0.9049
+iterations: 22, NumOp_psi0: 2.0000
+iterations: 22, Sz_psi0: -0.0077
+iterations: 22, E0: -3.4105
+iterations: 22, Fidelity of ground state: 0.9308
+iterations: 23, NumOp_psi0: 2.0000
+iterations: 23, Sz_psi0: -0.0026
+iterations: 23, E0: -3.4456
+iterations: 23, Fidelity of ground state: 0.9473
+iterations: 24, NumOp_psi0: 2.0000
+iterations: 24, Sz_psi0: -0.0001
+iterations: 24, E0: -3.4481
+iterations: 24, Fidelity of ground state: 0.9501
+iterations: 25, NumOp_psi0: 2.0000
+iterations: 25, Sz_psi0: 0.0011
+iterations: 25, E0: -3.4234
+iterations: 25, Fidelity of ground state: 0.9422
+iterations: 26, NumOp_psi0: 2.0000
+iterations: 26, Sz_psi0: 0.0020
+iterations: 26, E0: -3.4080
+iterations: 26, Fidelity of ground state: 0.9372
+iterations: 27, NumOp_psi0: 2.0000
+iterations: 27, Sz_psi0: 0.0025
+iterations: 27, E0: -3.4259
+iterations: 27, Fidelity of ground state: 0.9440
+iterations: 28, NumOp_psi0: 2.0000
+iterations: 28, Sz_psi0: 0.0026
+iterations: 28, E0: -3.4360
+iterations: 28, Fidelity of ground state: 0.9478
+iterations: 29, NumOp_psi0: 2.0000
+iterations: 29, Sz_psi0: 0.0024
+iterations: 29, E0: -3.4459
+iterations: 29, Fidelity of ground state: 0.9503
+iterations: 30, NumOp_psi0: 2.0000
+iterations: 30, Sz_psi0: 0.0019
+iterations: 30, E0: -3.4577
+iterations: 30, Fidelity of ground state: 0.9551
+iterations: 31, NumOp_psi0: 2.0000
+iterations: 31, Sz_psi0: 0.0014
+iterations: 31, E0: -3.4749
+iterations: 31, Fidelity of ground state: 0.9645
+iterations: 32, NumOp_psi0: 2.0000
+iterations: 32, Sz_psi0: 0.0020
+iterations: 32, E0: -3.4808
+iterations: 32, Fidelity of ground state: 0.9635
+iterations: 33, NumOp_psi0: 2.0000
+iterations: 33, Sz_psi0: 0.0032
+iterations: 33, E0: -3.4701
+iterations: 33, Fidelity of ground state: 0.9538
+iterations: 34, NumOp_psi0: 2.0000
+iterations: 34, Sz_psi0: 0.0029
+iterations: 34, E0: -3.4703
+iterations: 34, Fidelity of ground state: 0.9559
+iterations: 35, NumOp_psi0: 2.0000
+iterations: 35, Sz_psi0: 0.0018
+iterations: 35, E0: -3.4709
+iterations: 35, Fidelity of ground state: 0.9602
+iterations: 36, NumOp_psi0: 2.0000
+iterations: 36, Sz_psi0: 0.0015
+iterations: 36, E0: -3.4796
+iterations: 36, Fidelity of ground state: 0.9641
+iterations: 37, NumOp_psi0: 2.0000
+iterations: 37, Sz_psi0: 0.0017
+iterations: 37, E0: -3.4933
+iterations: 37, Fidelity of ground state: 0.9684
+iterations: 38, NumOp_psi0: 2.0000
+iterations: 38, Sz_psi0: 0.0016
+iterations: 38, E0: -3.4901
+iterations: 38, Fidelity of ground state: 0.9683
+iterations: 39, NumOp_psi0: 2.0000
+iterations: 39, Sz_psi0: 0.0015
+iterations: 39, E0: -3.4911
+iterations: 39, Fidelity of ground state: 0.9697
+iterations: 40, NumOp_psi0: 2.0000
+iterations: 40, Sz_psi0: 0.0015
+iterations: 40, E0: -3.4934
+iterations: 40, Fidelity of ground state: 0.9700
+iterations: 41, NumOp_psi0: 2.0000
+iterations: 41, Sz_psi0: 0.0013
+iterations: 41, E0: -3.4949
+iterations: 41, Fidelity of ground state: 0.9696
+iterations: 42, NumOp_psi0: 2.0000
+iterations: 42, Sz_psi0: 0.0008
+iterations: 42, E0: -3.4999
+iterations: 42, Fidelity of ground state: 0.9713
+iterations: 43, NumOp_psi0: 2.0000
+iterations: 43, Sz_psi0: 0.0002
+iterations: 43, E0: -3.5055
+iterations: 43, Fidelity of ground state: 0.9736
+iterations: 44, NumOp_psi0: 2.0000
+iterations: 44, Sz_psi0: -0.0002
+iterations: 44, E0: -3.5083
+iterations: 44, Fidelity of ground state: 0.9741
+iterations: 45, NumOp_psi0: 2.0000
+iterations: 45, Sz_psi0: -0.0006
+iterations: 45, E0: -3.5063
+iterations: 45, Fidelity of ground state: 0.9721
+iterations: 46, NumOp_psi0: 2.0000
+iterations: 46, Sz_psi0: -0.0009
+iterations: 46, E0: -3.5063
+iterations: 46, Fidelity of ground state: 0.9716
+iterations: 47, NumOp_psi0: 2.0000
+iterations: 47, Sz_psi0: -0.0012
+iterations: 47, E0: -3.5041
+iterations: 47, Fidelity of ground state: 0.9724
+iterations: 48, NumOp_psi0: 2.0000
+iterations: 48, Sz_psi0: -0.0014
+iterations: 48, E0: -3.5069
+iterations: 48, Fidelity of ground state: 0.9745
+iterations: 49, NumOp_psi0: 2.0000
+iterations: 49, Sz_psi0: -0.0015
+iterations: 49, E0: -3.5098
+iterations: 49, Fidelity of ground state: 0.9751
+iterations: 50, NumOp_psi0: 2.0000
+iterations: 50, Sz_psi0: -0.0014
+iterations: 50, E0: -3.5094
+iterations: 50, Fidelity of ground state: 0.9742
+iterations: 51, NumOp_psi0: 2.0000
+iterations: 51, Sz_psi0: -0.0013
+iterations: 51, E0: -3.5116
+iterations: 51, Fidelity of ground state: 0.9748
+iterations: 52, NumOp_psi0: 2.0000
+iterations: 52, Sz_psi0: -0.0010
+iterations: 52, E0: -3.5115
+iterations: 52, Fidelity of ground state: 0.9752
+iterations: 53, NumOp_psi0: 2.0000
+iterations: 53, Sz_psi0: -0.0007
+iterations: 53, E0: -3.5133
+iterations: 53, Fidelity of ground state: 0.9761
+iterations: 54, NumOp_psi0: 2.0000
+iterations: 54, Sz_psi0: -0.0005
+iterations: 54, E0: -3.5160
+iterations: 54, Fidelity of ground state: 0.9772
+iterations: 55, NumOp_psi0: 2.0000
+iterations: 55, Sz_psi0: -0.0004
+iterations: 55, E0: -3.5161
+iterations: 55, Fidelity of ground state: 0.9770
+iterations: 56, NumOp_psi0: 2.0000
+iterations: 56, Sz_psi0: -0.0005
+iterations: 56, E0: -3.5158
+iterations: 56, Fidelity of ground state: 0.9758
+iterations: 57, NumOp_psi0: 2.0000
+iterations: 57, Sz_psi0: -0.0008
+iterations: 57, E0: -3.5155
+iterations: 57, Fidelity of ground state: 0.9749
+iterations: 58, NumOp_psi0: 2.0000
+iterations: 58, Sz_psi0: -0.0010
+iterations: 58, E0: -3.5161
+iterations: 58, Fidelity of ground state: 0.9751
+iterations: 59, NumOp_psi0: 2.0000
+iterations: 59, Sz_psi0: -0.0010
+iterations: 59, E0: -3.5177
+iterations: 59, Fidelity of ground state: 0.9761
+iterations: 60, NumOp_psi0: 2.0000
+iterations: 60, Sz_psi0: -0.0008
+iterations: 60, E0: -3.5185
+iterations: 60, Fidelity of ground state: 0.9770
+iterations: 61, NumOp_psi0: 2.0000
+iterations: 61, Sz_psi0: -0.0006
+iterations: 61, E0: -3.5186
+iterations: 61, Fidelity of ground state: 0.9772
+iterations: 62, NumOp_psi0: 2.0000
+iterations: 62, Sz_psi0: -0.0004
+iterations: 62, E0: -3.5194
+iterations: 62, Fidelity of ground state: 0.9775
+iterations: 63, NumOp_psi0: 2.0000
+iterations: 63, Sz_psi0: -0.0003
+iterations: 63, E0: -3.5190
+iterations: 63, Fidelity of ground state: 0.9773
+iterations: 64, NumOp_psi0: 2.0000
+iterations: 64, Sz_psi0: -0.0003
+iterations: 64, E0: -3.5194
+iterations: 64, Fidelity of ground state: 0.9774
+iterations: 65, NumOp_psi0: 2.0000
+iterations: 65, Sz_psi0: -0.0004
+iterations: 65, E0: -3.5200
+iterations: 65, Fidelity of ground state: 0.9775
+iterations: 66, NumOp_psi0: 2.0000
+iterations: 66, Sz_psi0: -0.0006
+iterations: 66, E0: -3.5202
+iterations: 66, Fidelity of ground state: 0.9775
+iterations: 67, NumOp_psi0: 2.0000
+iterations: 67, Sz_psi0: -0.0009
+iterations: 67, E0: -3.5210
+iterations: 67, Fidelity of ground state: 0.9776
+iterations: 68, NumOp_psi0: 2.0000
+iterations: 68, Sz_psi0: -0.0013
+iterations: 68, E0: -3.5215
+iterations: 68, Fidelity of ground state: 0.9777
+iterations: 69, NumOp_psi0: 2.0000
+iterations: 69, Sz_psi0: -0.0016
+iterations: 69, E0: -3.5218
+iterations: 69, Fidelity of ground state: 0.9777
+iterations: 70, NumOp_psi0: 2.0000
+iterations: 70, Sz_psi0: -0.0018
+iterations: 70, E0: -3.5219
+iterations: 70, Fidelity of ground state: 0.9775
+iterations: 71, NumOp_psi0: 2.0000
+iterations: 71, Sz_psi0: -0.0020
+iterations: 71, E0: -3.5222
+iterations: 71, Fidelity of ground state: 0.9774
+iterations: 72, NumOp_psi0: 2.0000
+iterations: 72, Sz_psi0: -0.0023
+iterations: 72, E0: -3.5226
+iterations: 72, Fidelity of ground state: 0.9772
+iterations: 73, NumOp_psi0: 2.0000
+iterations: 73, Sz_psi0: -0.0025
+iterations: 73, E0: -3.5226
+iterations: 73, Fidelity of ground state: 0.9768
+iterations: 74, NumOp_psi0: 2.0000
+iterations: 74, Sz_psi0: -0.0026
+iterations: 74, E0: -3.5225
+iterations: 74, Fidelity of ground state: 0.9765
+iterations: 75, NumOp_psi0: 2.0000
+iterations: 75, Sz_psi0: -0.0024
+iterations: 75, E0: -3.5231
+iterations: 75, Fidelity of ground state: 0.9769
+iterations: 76, NumOp_psi0: 2.0000
+iterations: 76, Sz_psi0: -0.0022
+iterations: 76, E0: -3.5235
+iterations: 76, Fidelity of ground state: 0.9774
+iterations: 77, NumOp_psi0: 2.0000
+iterations: 77, Sz_psi0: -0.0021
+iterations: 77, E0: -3.5237
+iterations: 77, Fidelity of ground state: 0.9778
+iterations: 78, NumOp_psi0: 2.0000
+iterations: 78, Sz_psi0: -0.0020
+iterations: 78, E0: -3.5238
+iterations: 78, Fidelity of ground state: 0.9779
+iterations: 79, NumOp_psi0: 2.0000
+iterations: 79, Sz_psi0: -0.0020
+iterations: 79, E0: -3.5240
+iterations: 79, Fidelity of ground state: 0.9779
+iterations: 80, NumOp_psi0: 2.0000
+iterations: 80, Sz_psi0: -0.0020
+iterations: 80, E0: -3.5242
+iterations: 80, Fidelity of ground state: 0.9778
+iterations: 81, NumOp_psi0: 2.0000
+iterations: 81, Sz_psi0: -0.0020
+iterations: 81, E0: -3.5244
+iterations: 81, Fidelity of ground state: 0.9778
+iterations: 82, NumOp_psi0: 2.0000
+iterations: 82, Sz_psi0: -0.0020
+iterations: 82, E0: -3.5246
+iterations: 82, Fidelity of ground state: 0.9777
+iterations: 83, NumOp_psi0: 2.0000
+iterations: 83, Sz_psi0: -0.0020
+iterations: 83, E0: -3.5249
+iterations: 83, Fidelity of ground state: 0.9777
+iterations: 84, NumOp_psi0: 2.0000
+iterations: 84, Sz_psi0: -0.0021
+iterations: 84, E0: -3.5250
+iterations: 84, Fidelity of ground state: 0.9775
+iterations: 85, NumOp_psi0: 2.0000
+iterations: 85, Sz_psi0: -0.0021
+iterations: 85, E0: -3.5252
+iterations: 85, Fidelity of ground state: 0.9775
+iterations: 86, NumOp_psi0: 2.0000
+iterations: 86, Sz_psi0: -0.0022
+iterations: 86, E0: -3.5253
+iterations: 86, Fidelity of ground state: 0.9776
+iterations: 87, NumOp_psi0: 2.0000
+iterations: 87, Sz_psi0: -0.0022
+iterations: 87, E0: -3.5254
+iterations: 87, Fidelity of ground state: 0.9776
+iterations: 88, NumOp_psi0: 2.0000
+iterations: 88, Sz_psi0: -0.0022
+iterations: 88, E0: -3.5257
+iterations: 88, Fidelity of ground state: 0.9776
+iterations: 89, NumOp_psi0: 2.0000
+iterations: 89, Sz_psi0: -0.0022
+iterations: 89, E0: -3.5259
+iterations: 89, Fidelity of ground state: 0.9776
+iterations: 90, NumOp_psi0: 2.0000
+iterations: 90, Sz_psi0: -0.0022
+iterations: 90, E0: -3.5260
+iterations: 90, Fidelity of ground state: 0.9777
+iterations: 91, NumOp_psi0: 2.0000
+iterations: 91, Sz_psi0: -0.0021
+iterations: 91, E0: -3.5262
+iterations: 91, Fidelity of ground state: 0.9778
+iterations: 92, NumOp_psi0: 2.0000
+iterations: 92, Sz_psi0: -0.0022
+iterations: 92, E0: -3.5264
+iterations: 92, Fidelity of ground state: 0.9778
+iterations: 93, NumOp_psi0: 2.0000
+iterations: 93, Sz_psi0: -0.0023
+iterations: 93, E0: -3.5266
+iterations: 93, Fidelity of ground state: 0.9778
+iterations: 94, NumOp_psi0: 2.0000
+iterations: 94, Sz_psi0: -0.0024
+iterations: 94, E0: -3.5268
+iterations: 94, Fidelity of ground state: 0.9777
+iterations: 95, NumOp_psi0: 2.0000
+iterations: 95, Sz_psi0: -0.0025
+iterations: 95, E0: -3.5270
+iterations: 95, Fidelity of ground state: 0.9777
+iterations: 96, NumOp_psi0: 2.0000
+iterations: 96, Sz_psi0: -0.0025
+iterations: 96, E0: -3.5272
+iterations: 96, Fidelity of ground state: 0.9777
+iterations: 97, NumOp_psi0: 2.0000
+iterations: 97, Sz_psi0: -0.0025
+iterations: 97, E0: -3.5274
+iterations: 97, Fidelity of ground state: 0.9776
+iterations: 98, NumOp_psi0: 2.0000
+iterations: 98, Sz_psi0: -0.0026
+iterations: 98, E0: -3.5276
+iterations: 98, Fidelity of ground state: 0.9776
+iterations: 99, NumOp_psi0: 2.0000
+iterations: 99, Sz_psi0: -0.0027
+iterations: 99, E0: -3.5278
+iterations: 99, Fidelity of ground state: 0.9776
+iterations: 100, NumOp_psi0: 2.0000
+iterations: 100, Sz_psi0: -0.0027
+iterations: 100, E0: -3.5280
+iterations: 100, Fidelity of ground state: 0.9776
+iterations: 101, NumOp_psi0: 2.0000
+iterations: 101, Sz_psi0: -0.0027
+iterations: 101, E0: -3.5282
+iterations: 101, Fidelity of ground state: 0.9776
+iterations: 102, NumOp_psi0: 2.0000
+iterations: 102, Sz_psi0: -0.0028
+iterations: 102, E0: -3.5284
+iterations: 102, Fidelity of ground state: 0.9776
+iterations: 103, NumOp_psi0: 2.0000
+iterations: 103, Sz_psi0: -0.0028
+iterations: 103, E0: -3.5287
+iterations: 103, Fidelity of ground state: 0.9775
+iterations: 104, NumOp_psi0: 2.0000
+iterations: 104, Sz_psi0: -0.0028
+iterations: 104, E0: -3.5289
+iterations: 104, Fidelity of ground state: 0.9775
+iterations: 105, NumOp_psi0: 2.0000
+iterations: 105, Sz_psi0: -0.0028
+iterations: 105, E0: -3.5292
+iterations: 105, Fidelity of ground state: 0.9775
+iterations: 106, NumOp_psi0: 2.0000
+iterations: 106, Sz_psi0: -0.0028
+iterations: 106, E0: -3.5294
+iterations: 106, Fidelity of ground state: 0.9776
+iterations: 107, NumOp_psi0: 2.0000
+iterations: 107, Sz_psi0: -0.0028
+iterations: 107, E0: -3.5297
+iterations: 107, Fidelity of ground state: 0.9777
+iterations: 108, NumOp_psi0: 2.0000
+iterations: 108, Sz_psi0: -0.0028
+iterations: 108, E0: -3.5299
+iterations: 108, Fidelity of ground state: 0.9778
+iterations: 109, NumOp_psi0: 2.0000
+iterations: 109, Sz_psi0: -0.0028
+iterations: 109, E0: -3.5302
+iterations: 109, Fidelity of ground state: 0.9778
+iterations: 110, NumOp_psi0: 2.0000
+iterations: 110, Sz_psi0: -0.0028
+iterations: 110, E0: -3.5305
+iterations: 110, Fidelity of ground state: 0.9778
+iterations: 111, NumOp_psi0: 2.0000
+iterations: 111, Sz_psi0: -0.0029
+iterations: 111, E0: -3.5308
+iterations: 111, Fidelity of ground state: 0.9778
+iterations: 112, NumOp_psi0: 2.0000
+iterations: 112, Sz_psi0: -0.0030
+iterations: 112, E0: -3.5310
+iterations: 112, Fidelity of ground state: 0.9777
+iterations: 113, NumOp_psi0: 2.0000
+iterations: 113, Sz_psi0: -0.0031
+iterations: 113, E0: -3.5313
+iterations: 113, Fidelity of ground state: 0.9777
+iterations: 114, NumOp_psi0: 2.0000
+iterations: 114, Sz_psi0: -0.0031
+iterations: 114, E0: -3.5317
+iterations: 114, Fidelity of ground state: 0.9776
+iterations: 115, NumOp_psi0: 2.0000
+iterations: 115, Sz_psi0: -0.0031
+iterations: 115, E0: -3.5320
+iterations: 115, Fidelity of ground state: 0.9776
+iterations: 116, NumOp_psi0: 2.0000
+iterations: 116, Sz_psi0: -0.0032
+iterations: 116, E0: -3.5323
+iterations: 116, Fidelity of ground state: 0.9777
+iterations: 117, NumOp_psi0: 2.0000
+iterations: 117, Sz_psi0: -0.0032
+iterations: 117, E0: -3.5326
+iterations: 117, Fidelity of ground state: 0.9777
+iterations: 118, NumOp_psi0: 2.0000
+iterations: 118, Sz_psi0: -0.0033
+iterations: 118, E0: -3.5329
+iterations: 118, Fidelity of ground state: 0.9777
+iterations: 119, NumOp_psi0: 2.0000
+iterations: 119, Sz_psi0: -0.0033
+iterations: 119, E0: -3.5333
+iterations: 119, Fidelity of ground state: 0.9778
+iterations: 120, NumOp_psi0: 2.0000
+iterations: 120, Sz_psi0: -0.0033
+iterations: 120, E0: -3.5336
+iterations: 120, Fidelity of ground state: 0.9778
+iterations: 121, NumOp_psi0: 2.0000
+iterations: 121, Sz_psi0: -0.0033
+iterations: 121, E0: -3.5339
+iterations: 121, Fidelity of ground state: 0.9779
+iterations: 122, NumOp_psi0: 2.0000
+iterations: 122, Sz_psi0: -0.0033
+iterations: 122, E0: -3.5343
+iterations: 122, Fidelity of ground state: 0.9779
+iterations: 123, NumOp_psi0: 2.0000
+iterations: 123, Sz_psi0: -0.0034
+iterations: 123, E0: -3.5346
+iterations: 123, Fidelity of ground state: 0.9779
+iterations: 124, NumOp_psi0: 2.0000
+iterations: 124, Sz_psi0: -0.0034
+iterations: 124, E0: -3.5350
+iterations: 124, Fidelity of ground state: 0.9779
+iterations: 125, NumOp_psi0: 2.0000
+iterations: 125, Sz_psi0: -0.0035
+iterations: 125, E0: -3.5353
+iterations: 125, Fidelity of ground state: 0.9778
+iterations: 126, NumOp_psi0: 2.0000
+iterations: 126, Sz_psi0: -0.0035
+iterations: 126, E0: -3.5356
+iterations: 126, Fidelity of ground state: 0.9779
+iterations: 127, NumOp_psi0: 2.0000
+iterations: 127, Sz_psi0: -0.0036
+iterations: 127, E0: -3.5360
+iterations: 127, Fidelity of ground state: 0.9779
+iterations: 128, NumOp_psi0: 2.0000
+iterations: 128, Sz_psi0: -0.0036
+iterations: 128, E0: -3.5363
+iterations: 128, Fidelity of ground state: 0.9779
+iterations: 129, NumOp_psi0: 2.0000
+iterations: 129, Sz_psi0: -0.0036
+iterations: 129, E0: -3.5366
+iterations: 129, Fidelity of ground state: 0.9779
+iterations: 130, NumOp_psi0: 2.0000
+iterations: 130, Sz_psi0: -0.0036
+iterations: 130, E0: -3.5369
+iterations: 130, Fidelity of ground state: 0.9779
+iterations: 131, NumOp_psi0: 2.0000
+iterations: 131, Sz_psi0: -0.0036
+iterations: 131, E0: -3.5373
+iterations: 131, Fidelity of ground state: 0.9779
+iterations: 132, NumOp_psi0: 2.0000
+iterations: 132, Sz_psi0: -0.0036
+iterations: 132, E0: -3.5376
+iterations: 132, Fidelity of ground state: 0.9780
+iterations: 133, NumOp_psi0: 2.0000
+iterations: 133, Sz_psi0: -0.0036
+iterations: 133, E0: -3.5379
+iterations: 133, Fidelity of ground state: 0.9780
+iterations: 134, NumOp_psi0: 2.0000
+iterations: 134, Sz_psi0: -0.0036
+iterations: 134, E0: -3.5382
+iterations: 134, Fidelity of ground state: 0.9781
+iterations: 135, NumOp_psi0: 2.0000
+iterations: 135, Sz_psi0: -0.0036
+iterations: 135, E0: -3.5385
+iterations: 135, Fidelity of ground state: 0.9782
+iterations: 136, NumOp_psi0: 2.0000
+iterations: 136, Sz_psi0: -0.0036
+iterations: 136, E0: -3.5388
+iterations: 136, Fidelity of ground state: 0.9782
+iterations: 137, NumOp_psi0: 2.0000
+iterations: 137, Sz_psi0: -0.0035
+iterations: 137, E0: -3.5390
+iterations: 137, Fidelity of ground state: 0.9782
+iterations: 138, NumOp_psi0: 2.0000
+iterations: 138, Sz_psi0: -0.0035
+iterations: 138, E0: -3.5393
+iterations: 138, Fidelity of ground state: 0.9783
+iterations: 139, NumOp_psi0: 2.0000
+iterations: 139, Sz_psi0: -0.0035
+iterations: 139, E0: -3.5396
+iterations: 139, Fidelity of ground state: 0.9783
+iterations: 140, NumOp_psi0: 2.0000
+iterations: 140, Sz_psi0: -0.0034
+iterations: 140, E0: -3.5399
+iterations: 140, Fidelity of ground state: 0.9784
+iterations: 141, NumOp_psi0: 2.0000
+iterations: 141, Sz_psi0: -0.0034
+iterations: 141, E0: -3.5402
+iterations: 141, Fidelity of ground state: 0.9784
+iterations: 142, NumOp_psi0: 2.0000
+iterations: 142, Sz_psi0: -0.0034
+iterations: 142, E0: -3.5404
+iterations: 142, Fidelity of ground state: 0.9785
+iterations: 143, NumOp_psi0: 2.0000
+iterations: 143, Sz_psi0: -0.0033
+iterations: 143, E0: -3.5407
+iterations: 143, Fidelity of ground state: 0.9785
+iterations: 144, NumOp_psi0: 2.0000
+iterations: 144, Sz_psi0: -0.0033
+iterations: 144, E0: -3.5410
+iterations: 144, Fidelity of ground state: 0.9786
+iterations: 145, NumOp_psi0: 2.0000
+iterations: 145, Sz_psi0: -0.0032
+iterations: 145, E0: -3.5413
+iterations: 145, Fidelity of ground state: 0.9786
+iterations: 146, NumOp_psi0: 2.0000
+iterations: 146, Sz_psi0: -0.0032
+iterations: 146, E0: -3.5415
+iterations: 146, Fidelity of ground state: 0.9787
+iterations: 147, NumOp_psi0: 2.0000
+iterations: 147, Sz_psi0: -0.0031
+iterations: 147, E0: -3.5418
+iterations: 147, Fidelity of ground state: 0.9787
+iterations: 148, NumOp_psi0: 2.0000
+iterations: 148, Sz_psi0: -0.0031
+iterations: 148, E0: -3.5421
+iterations: 148, Fidelity of ground state: 0.9788
+iterations: 149, NumOp_psi0: 2.0000
+iterations: 149, Sz_psi0: -0.0030
+iterations: 149, E0: -3.5424
+iterations: 149, Fidelity of ground state: 0.9789
+iterations: 150, NumOp_psi0: 2.0000
+iterations: 150, Sz_psi0: -0.0029
+iterations: 150, E0: -3.5427
+iterations: 150, Fidelity of ground state: 0.9789
+iterations: 151, NumOp_psi0: 2.0000
+iterations: 151, Sz_psi0: -0.0029
+iterations: 151, E0: -3.5430
+iterations: 151, Fidelity of ground state: 0.9790
+iterations: 152, NumOp_psi0: 2.0000
+iterations: 152, Sz_psi0: -0.0028
+iterations: 152, E0: -3.5433
+iterations: 152, Fidelity of ground state: 0.9790
+iterations: 153, NumOp_psi0: 2.0000
+iterations: 153, Sz_psi0: -0.0028
+iterations: 153, E0: -3.5436
+iterations: 153, Fidelity of ground state: 0.9791
+iterations: 154, NumOp_psi0: 2.0000
+iterations: 154, Sz_psi0: -0.0027
+iterations: 154, E0: -3.5439
+iterations: 154, Fidelity of ground state: 0.9792
+iterations: 155, NumOp_psi0: 2.0000
+iterations: 155, Sz_psi0: -0.0026
+iterations: 155, E0: -3.5442
+iterations: 155, Fidelity of ground state: 0.9792
+iterations: 156, NumOp_psi0: 2.0000
+iterations: 156, Sz_psi0: -0.0026
+iterations: 156, E0: -3.5446
+iterations: 156, Fidelity of ground state: 0.9793
+iterations: 157, NumOp_psi0: 2.0000
+iterations: 157, Sz_psi0: -0.0025
+iterations: 157, E0: -3.5449
+iterations: 157, Fidelity of ground state: 0.9794
+iterations: 158, NumOp_psi0: 2.0000
+iterations: 158, Sz_psi0: -0.0024
+iterations: 158, E0: -3.5452
+iterations: 158, Fidelity of ground state: 0.9795
+iterations: 159, NumOp_psi0: 2.0000
+iterations: 159, Sz_psi0: -0.0024
+iterations: 159, E0: -3.5456
+iterations: 159, Fidelity of ground state: 0.9795
+iterations: 160, NumOp_psi0: 2.0000
+iterations: 160, Sz_psi0: -0.0023
+iterations: 160, E0: -3.5459
+iterations: 160, Fidelity of ground state: 0.9796
+iterations: 161, NumOp_psi0: 2.0000
+iterations: 161, Sz_psi0: -0.0022
+iterations: 161, E0: -3.5463
+iterations: 161, Fidelity of ground state: 0.9797
+iterations: 162, NumOp_psi0: 2.0000
+iterations: 162, Sz_psi0: -0.0021
+iterations: 162, E0: -3.5466
+iterations: 162, Fidelity of ground state: 0.9798
+iterations: 163, NumOp_psi0: 2.0000
+iterations: 163, Sz_psi0: -0.0020
+iterations: 163, E0: -3.5470
+iterations: 163, Fidelity of ground state: 0.9798
+iterations: 164, NumOp_psi0: 2.0000
+iterations: 164, Sz_psi0: -0.0020
+iterations: 164, E0: -3.5474
+iterations: 164, Fidelity of ground state: 0.9799
+iterations: 165, NumOp_psi0: 2.0000
+iterations: 165, Sz_psi0: -0.0019
+iterations: 165, E0: -3.5477
+iterations: 165, Fidelity of ground state: 0.9800
+iterations: 166, NumOp_psi0: 2.0000
+iterations: 166, Sz_psi0: -0.0018
+iterations: 166, E0: -3.5481
+iterations: 166, Fidelity of ground state: 0.9801
+iterations: 167, NumOp_psi0: 2.0000
+iterations: 167, Sz_psi0: -0.0017
+iterations: 167, E0: -3.5484
+iterations: 167, Fidelity of ground state: 0.9802
+iterations: 168, NumOp_psi0: 2.0000
+iterations: 168, Sz_psi0: -0.0016
+iterations: 168, E0: -3.5487
+iterations: 168, Fidelity of ground state: 0.9803
+iterations: 169, NumOp_psi0: 2.0000
+iterations: 169, Sz_psi0: -0.0014
+iterations: 169, E0: -3.5491
+iterations: 169, Fidelity of ground state: 0.9804
+iterations: 170, NumOp_psi0: 2.0000
+iterations: 170, Sz_psi0: -0.0013
+iterations: 170, E0: -3.5494
+iterations: 170, Fidelity of ground state: 0.9804
+iterations: 171, NumOp_psi0: 2.0000
+iterations: 171, Sz_psi0: -0.0012
+iterations: 171, E0: -3.5497
+iterations: 171, Fidelity of ground state: 0.9805
+iterations: 172, NumOp_psi0: 2.0000
+iterations: 172, Sz_psi0: -0.0011
+iterations: 172, E0: -3.5500
+iterations: 172, Fidelity of ground state: 0.9806
+iterations: 173, NumOp_psi0: 2.0000
+iterations: 173, Sz_psi0: -0.0010
+iterations: 173, E0: -3.5502
+iterations: 173, Fidelity of ground state: 0.9807
+iterations: 174, NumOp_psi0: 2.0000
+iterations: 174, Sz_psi0: -0.0009
+iterations: 174, E0: -3.5505
+iterations: 174, Fidelity of ground state: 0.9808
+iterations: 175, NumOp_psi0: 2.0000
+iterations: 175, Sz_psi0: -0.0008
+iterations: 175, E0: -3.5507
+iterations: 175, Fidelity of ground state: 0.9808
+iterations: 176, NumOp_psi0: 2.0000
+iterations: 176, Sz_psi0: -0.0006
+iterations: 176, E0: -3.5510
+iterations: 176, Fidelity of ground state: 0.9809
+iterations: 177, NumOp_psi0: 2.0000
+iterations: 177, Sz_psi0: -0.0005
+iterations: 177, E0: -3.5512
+iterations: 177, Fidelity of ground state: 0.9810
+iterations: 178, NumOp_psi0: 2.0000
+iterations: 178, Sz_psi0: -0.0004
+iterations: 178, E0: -3.5514
+iterations: 178, Fidelity of ground state: 0.9811
+iterations: 179, NumOp_psi0: 2.0000
+iterations: 179, Sz_psi0: -0.0003
+iterations: 179, E0: -3.5517
+iterations: 179, Fidelity of ground state: 0.9811
+iterations: 180, NumOp_psi0: 2.0000
+iterations: 180, Sz_psi0: -0.0003
+iterations: 180, E0: -3.5519
+iterations: 180, Fidelity of ground state: 0.9812
+iterations: 181, NumOp_psi0: 2.0000
+iterations: 181, Sz_psi0: -0.0002
+iterations: 181, E0: -3.5521
+iterations: 181, Fidelity of ground state: 0.9813
+iterations: 182, NumOp_psi0: 2.0000
+iterations: 182, Sz_psi0: -0.0001
+iterations: 182, E0: -3.5523
+iterations: 182, Fidelity of ground state: 0.9813
+iterations: 183, NumOp_psi0: 2.0000
+iterations: 183, Sz_psi0: -0.0000
+iterations: 183, E0: -3.5525
+iterations: 183, Fidelity of ground state: 0.9814
+iterations: 184, NumOp_psi0: 2.0000
+iterations: 184, Sz_psi0: 0.0000
+iterations: 184, E0: -3.5527
+iterations: 184, Fidelity of ground state: 0.9815
+iterations: 185, NumOp_psi0: 2.0000
+iterations: 185, Sz_psi0: 0.0001
+iterations: 185, E0: -3.5530
+iterations: 185, Fidelity of ground state: 0.9816
+iterations: 186, NumOp_psi0: 2.0000
+iterations: 186, Sz_psi0: 0.0001
+iterations: 186, E0: -3.5531
+iterations: 186, Fidelity of ground state: 0.9816
+iterations: 187, NumOp_psi0: 2.0000
+iterations: 187, Sz_psi0: 0.0002
+iterations: 187, E0: -3.5533
+iterations: 187, Fidelity of ground state: 0.9817
+iterations: 188, NumOp_psi0: 2.0000
+iterations: 188, Sz_psi0: 0.0002
+iterations: 188, E0: -3.5532
+iterations: 188, Fidelity of ground state: 0.9816
+iterations: 189, NumOp_psi0: 2.0000
+iterations: 189, Sz_psi0: 0.0004
+iterations: 189, E0: -3.5528
+iterations: 189, Fidelity of ground state: 0.9816
+iterations: 190, NumOp_psi0: 2.0000
+iterations: 190, Sz_psi0: 0.0002
+iterations: 190, E0: -3.5514
+iterations: 190, Fidelity of ground state: 0.9811
+iterations: 191, NumOp_psi0: 2.0000
+iterations: 191, Sz_psi0: 0.0005
+iterations: 191, E0: -3.5481
+iterations: 191, Fidelity of ground state: 0.9804
+iterations: 192, NumOp_psi0: 2.0000
+iterations: 192, Sz_psi0: 0.0002
+iterations: 192, E0: -3.5411
+iterations: 192, Fidelity of ground state: 0.9782
+iterations: 193, NumOp_psi0: 2.0000
+iterations: 193, Sz_psi0: 0.0008
+iterations: 193, E0: -3.5306
+iterations: 193, Fidelity of ground state: 0.9757
+iterations: 194, NumOp_psi0: 2.0000
+iterations: 194, Sz_psi0: 0.0003
+iterations: 194, E0: -3.5223
+iterations: 194, Fidelity of ground state: 0.9726
+iterations: 195, NumOp_psi0: 2.0000
+iterations: 195, Sz_psi0: 0.0009
+iterations: 195, E0: -3.5292
+iterations: 195, Fidelity of ground state: 0.9750
+iterations: 196, NumOp_psi0: 2.0000
+iterations: 196, Sz_psi0: 0.0007
+iterations: 196, E0: -3.5425
+iterations: 196, Fidelity of ground state: 0.9773
+iterations: 197, NumOp_psi0: 2.0000
+iterations: 197, Sz_psi0: 0.0005
+iterations: 197, E0: -3.5479
+iterations: 197, Fidelity of ground state: 0.9803
+iterations: 198, NumOp_psi0: 2.0000
+iterations: 198, Sz_psi0: 0.0012
+iterations: 198, E0: -3.5487
+iterations: 198, Fidelity of ground state: 0.9803
+iterations: 199, NumOp_psi0: 2.0000
+iterations: 199, Sz_psi0: 0.0008
+iterations: 199, E0: -3.5518
+iterations: 199, Fidelity of ground state: 0.9810
+iterations: 200, NumOp_psi0: 2.0000
+iterations: 200, Sz_psi0: 0.0009
+iterations: 200, E0: -3.5508
+iterations: 200, Fidelity of ground state: 0.9810
+iterations: 201, NumOp_psi0: 2.0000
+iterations: 201, Sz_psi0: 0.0014
+iterations: 201, E0: -3.5455
+iterations: 201, Fidelity of ground state: 0.9786
+iterations: 202, NumOp_psi0: 2.0000
+iterations: 202, Sz_psi0: 0.0009
+iterations: 202, E0: -3.5499
+iterations: 202, Fidelity of ground state: 0.9809
+iterations: 203, NumOp_psi0: 2.0000
+iterations: 203, Sz_psi0: 0.0013
+iterations: 203, E0: -3.5590
+iterations: 203, Fidelity of ground state: 0.9829
+iterations: 204, NumOp_psi0: 2.0000
+iterations: 204, Sz_psi0: 0.0015
+iterations: 204, E0: -3.5574
+iterations: 204, Fidelity of ground state: 0.9823
+iterations: 205, NumOp_psi0: 2.0000
+iterations: 205, Sz_psi0: 0.0012
+iterations: 205, E0: -3.5530
+iterations: 205, Fidelity of ground state: 0.9814
+iterations: 206, NumOp_psi0: 2.0000
+iterations: 206, Sz_psi0: 0.0018
+iterations: 206, E0: -3.5559
+iterations: 206, Fidelity of ground state: 0.9812
+iterations: 207, NumOp_psi0: 2.0000
+iterations: 207, Sz_psi0: 0.0017
+iterations: 207, E0: -3.5593
+iterations: 207, Fidelity of ground state: 0.9829
+iterations: 208, NumOp_psi0: 2.0000
+iterations: 208, Sz_psi0: 0.0016
+iterations: 208, E0: -3.5608
+iterations: 208, Fidelity of ground state: 0.9831
+iterations: 209, NumOp_psi0: 2.0000
+iterations: 209, Sz_psi0: 0.0020
+iterations: 209, E0: -3.5616
+iterations: 209, Fidelity of ground state: 0.9829
+iterations: 210, NumOp_psi0: 2.0000
+iterations: 210, Sz_psi0: 0.0020
+iterations: 210, E0: -3.5602
+iterations: 210, Fidelity of ground state: 0.9829
+iterations: 211, NumOp_psi0: 2.0000
+iterations: 211, Sz_psi0: 0.0020
+iterations: 211, E0: -3.5616
+iterations: 211, Fidelity of ground state: 0.9828
+iterations: 212, NumOp_psi0: 2.0000
+iterations: 212, Sz_psi0: 0.0023
+iterations: 212, E0: -3.5656
+iterations: 212, Fidelity of ground state: 0.9842
+iterations: 213, NumOp_psi0: 2.0000
+iterations: 213, Sz_psi0: 0.0024
+iterations: 213, E0: -3.5651
+iterations: 213, Fidelity of ground state: 0.9840
+iterations: 214, NumOp_psi0: 2.0000
+iterations: 214, Sz_psi0: 0.0024
+iterations: 214, E0: -3.5643
+iterations: 214, Fidelity of ground state: 0.9833
+iterations: 215, NumOp_psi0: 2.0000
+iterations: 215, Sz_psi0: 0.0026
+iterations: 215, E0: -3.5665
+iterations: 215, Fidelity of ground state: 0.9843
+iterations: 216, NumOp_psi0: 2.0000
+iterations: 216, Sz_psi0: 0.0029
+iterations: 216, E0: -3.5677
+iterations: 216, Fidelity of ground state: 0.9843
+iterations: 217, NumOp_psi0: 2.0000
+iterations: 217, Sz_psi0: 0.0027
+iterations: 217, E0: -3.5683
+iterations: 217, Fidelity of ground state: 0.9843
+iterations: 218, NumOp_psi0: 2.0000
+iterations: 218, Sz_psi0: 0.0029
+iterations: 218, E0: -3.5688
+iterations: 218, Fidelity of ground state: 0.9846
+iterations: 219, NumOp_psi0: 2.0000
+iterations: 219, Sz_psi0: 0.0032
+iterations: 219, E0: -3.5689
+iterations: 219, Fidelity of ground state: 0.9843
+iterations: 220, NumOp_psi0: 2.0000
+iterations: 220, Sz_psi0: 0.0030
+iterations: 220, E0: -3.5706
+iterations: 220, Fidelity of ground state: 0.9849
+iterations: 221, NumOp_psi0: 2.0000
+iterations: 221, Sz_psi0: 0.0031
+iterations: 221, E0: -3.5714
+iterations: 221, Fidelity of ground state: 0.9851
+iterations: 222, NumOp_psi0: 2.0000
+iterations: 222, Sz_psi0: 0.0034
+iterations: 222, E0: -3.5710
+iterations: 222, Fidelity of ground state: 0.9847
+iterations: 223, NumOp_psi0: 2.0000
+iterations: 223, Sz_psi0: 0.0033
+iterations: 223, E0: -3.5720
+iterations: 223, Fidelity of ground state: 0.9851
+iterations: 224, NumOp_psi0: 2.0000
+iterations: 224, Sz_psi0: 0.0033
+iterations: 224, E0: -3.5729
+iterations: 224, Fidelity of ground state: 0.9852
+iterations: 225, NumOp_psi0: 2.0000
+iterations: 225, Sz_psi0: 0.0035
+iterations: 225, E0: -3.5731
+iterations: 225, Fidelity of ground state: 0.9852
+iterations: 226, NumOp_psi0: 2.0000
+iterations: 226, Sz_psi0: 0.0035
+iterations: 226, E0: -3.5734
+iterations: 226, Fidelity of ground state: 0.9853
+iterations: 227, NumOp_psi0: 2.0000
+iterations: 227, Sz_psi0: 0.0036
+iterations: 227, E0: -3.5737
+iterations: 227, Fidelity of ground state: 0.9851
+iterations: 228, NumOp_psi0: 2.0000
+iterations: 228, Sz_psi0: 0.0037
+iterations: 228, E0: -3.5745
+iterations: 228, Fidelity of ground state: 0.9854
+iterations: 229, NumOp_psi0: 2.0000
+iterations: 229, Sz_psi0: 0.0037
+iterations: 229, E0: -3.5746
+iterations: 229, Fidelity of ground state: 0.9855
+iterations: 230, NumOp_psi0: 2.0000
+iterations: 230, Sz_psi0: 0.0037
+iterations: 230, E0: -3.5746
+iterations: 230, Fidelity of ground state: 0.9853
+iterations: 231, NumOp_psi0: 2.0000
+iterations: 231, Sz_psi0: 0.0038
+iterations: 231, E0: -3.5752
+iterations: 231, Fidelity of ground state: 0.9856
+iterations: 232, NumOp_psi0: 2.0000
+iterations: 232, Sz_psi0: 0.0038
+iterations: 232, E0: -3.5755
+iterations: 232, Fidelity of ground state: 0.9857
+iterations: 233, NumOp_psi0: 2.0000
+iterations: 233, Sz_psi0: 0.0038
+iterations: 233, E0: -3.5755
+iterations: 233, Fidelity of ground state: 0.9855
+iterations: 234, NumOp_psi0: 2.0000
+iterations: 234, Sz_psi0: 0.0038
+iterations: 234, E0: -3.5758
+iterations: 234, Fidelity of ground state: 0.9857
+iterations: 235, NumOp_psi0: 2.0000
+iterations: 235, Sz_psi0: 0.0038
+iterations: 235, E0: -3.5760
+iterations: 235, Fidelity of ground state: 0.9857
+iterations: 236, NumOp_psi0: 2.0000
+iterations: 236, Sz_psi0: 0.0038
+iterations: 236, E0: -3.5762
+iterations: 236, Fidelity of ground state: 0.9857
+iterations: 237, NumOp_psi0: 2.0000
+iterations: 237, Sz_psi0: 0.0038
+iterations: 237, E0: -3.5764
+iterations: 237, Fidelity of ground state: 0.9858
+iterations: 238, NumOp_psi0: 2.0000
+iterations: 238, Sz_psi0: 0.0039
+iterations: 238, E0: -3.5764
+iterations: 238, Fidelity of ground state: 0.9857
+iterations: 239, NumOp_psi0: 2.0000
+iterations: 239, Sz_psi0: 0.0038
+iterations: 239, E0: -3.5767
+iterations: 239, Fidelity of ground state: 0.9858
+iterations: 240, NumOp_psi0: 2.0000
+iterations: 240, Sz_psi0: 0.0038
+iterations: 240, E0: -3.5768
+iterations: 240, Fidelity of ground state: 0.9858
+iterations: 241, NumOp_psi0: 2.0000
+iterations: 241, Sz_psi0: 0.0039
+iterations: 241, E0: -3.5768
+iterations: 241, Fidelity of ground state: 0.9858
+iterations: 242, NumOp_psi0: 2.0000
+iterations: 242, Sz_psi0: 0.0038
+iterations: 242, E0: -3.5770
+iterations: 242, Fidelity of ground state: 0.9859
+iterations: 243, NumOp_psi0: 2.0000
+iterations: 243, Sz_psi0: 0.0038
+iterations: 243, E0: -3.5771
+iterations: 243, Fidelity of ground state: 0.9859
+iterations: 244, NumOp_psi0: 2.0000
+iterations: 244, Sz_psi0: 0.0038
+iterations: 244, E0: -3.5771
+iterations: 244, Fidelity of ground state: 0.9859
+iterations: 245, NumOp_psi0: 2.0000
+iterations: 245, Sz_psi0: 0.0038
+iterations: 245, E0: -3.5772
+iterations: 245, Fidelity of ground state: 0.9859
+iterations: 246, NumOp_psi0: 2.0000
+iterations: 246, Sz_psi0: 0.0039
+iterations: 246, E0: -3.5773
+iterations: 246, Fidelity of ground state: 0.9859
+iterations: 247, NumOp_psi0: 2.0000
+iterations: 247, Sz_psi0: 0.0039
+iterations: 247, E0: -3.5774
+iterations: 247, Fidelity of ground state: 0.9859
+iterations: 248, NumOp_psi0: 2.0000
+iterations: 248, Sz_psi0: 0.0039
+iterations: 248, E0: -3.5775
+iterations: 248, Fidelity of ground state: 0.9859
+iterations: 249, NumOp_psi0: 2.0000
+iterations: 249, Sz_psi0: 0.0039
+iterations: 249, E0: -3.5775
+iterations: 249, Fidelity of ground state: 0.9859
+iterations: 250, NumOp_psi0: 2.0000
+iterations: 250, Sz_psi0: 0.0039
+iterations: 250, E0: -3.5776
+iterations: 250, Fidelity of ground state: 0.9860
+iterations: 251, NumOp_psi0: 2.0000
+iterations: 251, Sz_psi0: 0.0040
+iterations: 251, E0: -3.5776
+iterations: 251, Fidelity of ground state: 0.9859
+iterations: 252, NumOp_psi0: 2.0000
+iterations: 252, Sz_psi0: 0.0040
+iterations: 252, E0: -3.5777
+iterations: 252, Fidelity of ground state: 0.9859
+iterations: 253, NumOp_psi0: 2.0000
+iterations: 253, Sz_psi0: 0.0040
+iterations: 253, E0: -3.5777
+iterations: 253, Fidelity of ground state: 0.9860
+iterations: 254, NumOp_psi0: 2.0000
+iterations: 254, Sz_psi0: 0.0040
+iterations: 254, E0: -3.5778
+iterations: 254, Fidelity of ground state: 0.9859
+iterations: 255, NumOp_psi0: 2.0000
+iterations: 255, Sz_psi0: 0.0040
+iterations: 255, E0: -3.5778
+iterations: 255, Fidelity of ground state: 0.9859
+iterations: 256, NumOp_psi0: 2.0000
+iterations: 256, Sz_psi0: 0.0041
+iterations: 256, E0: -3.5778
+iterations: 256, Fidelity of ground state: 0.9860
+iterations: 257, NumOp_psi0: 2.0000
+iterations: 257, Sz_psi0: 0.0041
+iterations: 257, E0: -3.5779
+iterations: 257, Fidelity of ground state: 0.9859
+iterations: 258, NumOp_psi0: 2.0000
+iterations: 258, Sz_psi0: 0.0041
+iterations: 258, E0: -3.5779
+iterations: 258, Fidelity of ground state: 0.9859
+iterations: 259, NumOp_psi0: 2.0000
+iterations: 259, Sz_psi0: 0.0041
+iterations: 259, E0: -3.5780
+iterations: 259, Fidelity of ground state: 0.9860
+iterations: 260, NumOp_psi0: 2.0000
+iterations: 260, Sz_psi0: 0.0041
+iterations: 260, E0: -3.5780
+iterations: 260, Fidelity of ground state: 0.9860
+iterations: 261, NumOp_psi0: 2.0000
+iterations: 261, Sz_psi0: 0.0041
+iterations: 261, E0: -3.5780
+iterations: 261, Fidelity of ground state: 0.9860
+iterations: 262, NumOp_psi0: 2.0000
+iterations: 262, Sz_psi0: 0.0041
+iterations: 262, E0: -3.5781
+iterations: 262, Fidelity of ground state: 0.9860
+iterations: 263, NumOp_psi0: 2.0000
+iterations: 263, Sz_psi0: 0.0040
+iterations: 263, E0: -3.5781
+iterations: 263, Fidelity of ground state: 0.9860
+iterations: 264, NumOp_psi0: 2.0000
+iterations: 264, Sz_psi0: 0.0040
+iterations: 264, E0: -3.5781
+iterations: 264, Fidelity of ground state: 0.9860
+iterations: 265, NumOp_psi0: 2.0000
+iterations: 265, Sz_psi0: 0.0040
+iterations: 265, E0: -3.5782
+iterations: 265, Fidelity of ground state: 0.9860
+iterations: 266, NumOp_psi0: 2.0000
+iterations: 266, Sz_psi0: 0.0040
+iterations: 266, E0: -3.5782
+iterations: 266, Fidelity of ground state: 0.9860
+iterations: 267, NumOp_psi0: 2.0000
+iterations: 267, Sz_psi0: 0.0040
+iterations: 267, E0: -3.5782
+iterations: 267, Fidelity of ground state: 0.9860
+iterations: 268, NumOp_psi0: 2.0000
+iterations: 268, Sz_psi0: 0.0040
+iterations: 268, E0: -3.5783
+iterations: 268, Fidelity of ground state: 0.9860
+iterations: 269, NumOp_psi0: 2.0000
+iterations: 269, Sz_psi0: 0.0040
+iterations: 269, E0: -3.5783
+iterations: 269, Fidelity of ground state: 0.9860
+iterations: 270, NumOp_psi0: 2.0000
+iterations: 270, Sz_psi0: 0.0040
+iterations: 270, E0: -3.5783
+iterations: 270, Fidelity of ground state: 0.9860
+iterations: 271, NumOp_psi0: 2.0000
+iterations: 271, Sz_psi0: 0.0039
+iterations: 271, E0: -3.5784
+iterations: 271, Fidelity of ground state: 0.9861
+iterations: 272, NumOp_psi0: 2.0000
+iterations: 272, Sz_psi0: 0.0039
+iterations: 272, E0: -3.5784
+iterations: 272, Fidelity of ground state: 0.9861
+iterations: 273, NumOp_psi0: 2.0000
+iterations: 273, Sz_psi0: 0.0039
+iterations: 273, E0: -3.5784
+iterations: 273, Fidelity of ground state: 0.9861
+iterations: 274, NumOp_psi0: 2.0000
+iterations: 274, Sz_psi0: 0.0039
+iterations: 274, E0: -3.5784
+iterations: 274, Fidelity of ground state: 0.9861
+iterations: 275, NumOp_psi0: 2.0000
+iterations: 275, Sz_psi0: 0.0039
+iterations: 275, E0: -3.5785
+iterations: 275, Fidelity of ground state: 0.9861
+iterations: 276, NumOp_psi0: 2.0000
+iterations: 276, Sz_psi0: 0.0039
+iterations: 276, E0: -3.5785
+iterations: 276, Fidelity of ground state: 0.9861
+iterations: 277, NumOp_psi0: 2.0000
+iterations: 277, Sz_psi0: 0.0038
+iterations: 277, E0: -3.5785
+iterations: 277, Fidelity of ground state: 0.9861
+iterations: 278, NumOp_psi0: 2.0000
+iterations: 278, Sz_psi0: 0.0038
+iterations: 278, E0: -3.5786
+iterations: 278, Fidelity of ground state: 0.9861
+iterations: 279, NumOp_psi0: 2.0000
+iterations: 279, Sz_psi0: 0.0038
+iterations: 279, E0: -3.5786
+iterations: 279, Fidelity of ground state: 0.9862
+iterations: 280, NumOp_psi0: 2.0000
+iterations: 280, Sz_psi0: 0.0038
+iterations: 280, E0: -3.5786
+iterations: 280, Fidelity of ground state: 0.9862
+iterations: 281, NumOp_psi0: 2.0000
+iterations: 281, Sz_psi0: 0.0038
+iterations: 281, E0: -3.5786
+iterations: 281, Fidelity of ground state: 0.9862
+iterations: 282, NumOp_psi0: 2.0000
+iterations: 282, Sz_psi0: 0.0037
+iterations: 282, E0: -3.5786
+iterations: 282, Fidelity of ground state: 0.9862
+iterations: 283, NumOp_psi0: 2.0000
+iterations: 283, Sz_psi0: 0.0037
+iterations: 283, E0: -3.5787
+iterations: 283, Fidelity of ground state: 0.9862
+iterations: 284, NumOp_psi0: 2.0000
+iterations: 284, Sz_psi0: 0.0037
+iterations: 284, E0: -3.5787
+iterations: 284, Fidelity of ground state: 0.9862
+iterations: 285, NumOp_psi0: 2.0000
+iterations: 285, Sz_psi0: 0.0036
+iterations: 285, E0: -3.5787
+iterations: 285, Fidelity of ground state: 0.9862
+iterations: 286, NumOp_psi0: 2.0000
+iterations: 286, Sz_psi0: 0.0036
+iterations: 286, E0: -3.5787
+iterations: 286, Fidelity of ground state: 0.9863
+iterations: 287, NumOp_psi0: 2.0000
+iterations: 287, Sz_psi0: 0.0036
+iterations: 287, E0: -3.5788
+iterations: 287, Fidelity of ground state: 0.9863
+iterations: 288, NumOp_psi0: 2.0000
+iterations: 288, Sz_psi0: 0.0036
+iterations: 288, E0: -3.5788
+iterations: 288, Fidelity of ground state: 0.9863
+iterations: 289, NumOp_psi0: 2.0000
+iterations: 289, Sz_psi0: 0.0035
+iterations: 289, E0: -3.5788
+iterations: 289, Fidelity of ground state: 0.9863
+iterations: 290, NumOp_psi0: 2.0000
+iterations: 290, Sz_psi0: 0.0035
+iterations: 290, E0: -3.5788
+iterations: 290, Fidelity of ground state: 0.9863
+iterations: 291, NumOp_psi0: 2.0000
+iterations: 291, Sz_psi0: 0.0035
+iterations: 291, E0: -3.5789
+iterations: 291, Fidelity of ground state: 0.9864
+iterations: 292, NumOp_psi0: 2.0000
+iterations: 292, Sz_psi0: 0.0035
+iterations: 292, E0: -3.5789
+iterations: 292, Fidelity of ground state: 0.9864
+iterations: 293, NumOp_psi0: 2.0000
+iterations: 293, Sz_psi0: 0.0035
+iterations: 293, E0: -3.5789
+iterations: 293, Fidelity of ground state: 0.9864
+iterations: 294, NumOp_psi0: 2.0000
+iterations: 294, Sz_psi0: 0.0034
+iterations: 294, E0: -3.5789
+iterations: 294, Fidelity of ground state: 0.9864
+iterations: 295, NumOp_psi0: 2.0000
+iterations: 295, Sz_psi0: 0.0034
+iterations: 295, E0: -3.5790
+iterations: 295, Fidelity of ground state: 0.9864
+iterations: 296, NumOp_psi0: 2.0000
+iterations: 296, Sz_psi0: 0.0034
+iterations: 296, E0: -3.5790
+iterations: 296, Fidelity of ground state: 0.9864
+iterations: 297, NumOp_psi0: 2.0000
+iterations: 297, Sz_psi0: 0.0034
+iterations: 297, E0: -3.5790
+iterations: 297, Fidelity of ground state: 0.9865
+iterations: 298, NumOp_psi0: 2.0000
+iterations: 298, Sz_psi0: 0.0033
+iterations: 298, E0: -3.5790
+iterations: 298, Fidelity of ground state: 0.9865
+iterations: 299, NumOp_psi0: 2.0000
+iterations: 299, Sz_psi0: 0.0033
+iterations: 299, E0: -3.5791
+iterations: 299, Fidelity of ground state: 0.9865
+iterations: 300, NumOp_psi0: 2.0000
+iterations: 300, Sz_psi0: 0.0033
+iterations: 300, E0: -3.5791
+iterations: 300, Fidelity of ground state: 0.9865
+iterations: 301, NumOp_psi0: 2.0000
+iterations: 301, Sz_psi0: 0.0033
+iterations: 301, E0: -3.5791
+iterations: 301, Fidelity of ground state: 0.9865
+iterations: 302, NumOp_psi0: 2.0000
+iterations: 302, Sz_psi0: 0.0032
+iterations: 302, E0: -3.5791
+iterations: 302, Fidelity of ground state: 0.9865
+iterations: 303, NumOp_psi0: 2.0000
+iterations: 303, Sz_psi0: 0.0032
+iterations: 303, E0: -3.5792
+iterations: 303, Fidelity of ground state: 0.9866
+iterations: 304, NumOp_psi0: 2.0000
+iterations: 304, Sz_psi0: 0.0032
+iterations: 304, E0: -3.5792
+iterations: 304, Fidelity of ground state: 0.9866
+iterations: 305, NumOp_psi0: 2.0000
+iterations: 305, Sz_psi0: 0.0032
+iterations: 305, E0: -3.5792
+iterations: 305, Fidelity of ground state: 0.9866
+iterations: 306, NumOp_psi0: 2.0000
+iterations: 306, Sz_psi0: 0.0031
+iterations: 306, E0: -3.5792
+iterations: 306, Fidelity of ground state: 0.9866
+iterations: 307, NumOp_psi0: 2.0000
+iterations: 307, Sz_psi0: 0.0031
+iterations: 307, E0: -3.5793
+iterations: 307, Fidelity of ground state: 0.9866
+iterations: 308, NumOp_psi0: 2.0000
+iterations: 308, Sz_psi0: 0.0031
+iterations: 308, E0: -3.5793
+iterations: 308, Fidelity of ground state: 0.9867
+iterations: 309, NumOp_psi0: 2.0000
+iterations: 309, Sz_psi0: 0.0031
+iterations: 309, E0: -3.5793
+iterations: 309, Fidelity of ground state: 0.9867
+iterations: 310, NumOp_psi0: 2.0000
+iterations: 310, Sz_psi0: 0.0030
+iterations: 310, E0: -3.5793
+iterations: 310, Fidelity of ground state: 0.9867
+iterations: 311, NumOp_psi0: 2.0000
+iterations: 311, Sz_psi0: 0.0030
+iterations: 311, E0: -3.5793
+iterations: 311, Fidelity of ground state: 0.9867
+iterations: 312, NumOp_psi0: 2.0000
+iterations: 312, Sz_psi0: 0.0030
+iterations: 312, E0: -3.5794
+iterations: 312, Fidelity of ground state: 0.9867
+iterations: 313, NumOp_psi0: 2.0000
+iterations: 313, Sz_psi0: 0.0030
+iterations: 313, E0: -3.5794
+iterations: 313, Fidelity of ground state: 0.9867
+iterations: 314, NumOp_psi0: 2.0000
+iterations: 314, Sz_psi0: 0.0030
+iterations: 314, E0: -3.5794
+iterations: 314, Fidelity of ground state: 0.9868
+iterations: 315, NumOp_psi0: 2.0000
+iterations: 315, Sz_psi0: 0.0029
+iterations: 315, E0: -3.5795
+iterations: 315, Fidelity of ground state: 0.9868
+iterations: 316, NumOp_psi0: 2.0000
+iterations: 316, Sz_psi0: 0.0029
+iterations: 316, E0: -3.5795
+iterations: 316, Fidelity of ground state: 0.9868
+iterations: 317, NumOp_psi0: 2.0000
+iterations: 317, Sz_psi0: 0.0029
+iterations: 317, E0: -3.5795
+iterations: 317, Fidelity of ground state: 0.9868
+iterations: 318, NumOp_psi0: 2.0000
+iterations: 318, Sz_psi0: 0.0029
+iterations: 318, E0: -3.5795
+iterations: 318, Fidelity of ground state: 0.9868
+iterations: 319, NumOp_psi0: 2.0000
+iterations: 319, Sz_psi0: 0.0028
+iterations: 319, E0: -3.5796
+iterations: 319, Fidelity of ground state: 0.9869
+iterations: 320, NumOp_psi0: 2.0000
+iterations: 320, Sz_psi0: 0.0028
+iterations: 320, E0: -3.5796
+iterations: 320, Fidelity of ground state: 0.9869
+iterations: 321, NumOp_psi0: 2.0000
+iterations: 321, Sz_psi0: 0.0028
+iterations: 321, E0: -3.5796
+iterations: 321, Fidelity of ground state: 0.9869
+iterations: 322, NumOp_psi0: 2.0000
+iterations: 322, Sz_psi0: 0.0028
+iterations: 322, E0: -3.5796
+iterations: 322, Fidelity of ground state: 0.9869
+iterations: 323, NumOp_psi0: 2.0000
+iterations: 323, Sz_psi0: 0.0028
+iterations: 323, E0: -3.5797
+iterations: 323, Fidelity of ground state: 0.9869
+iterations: 324, NumOp_psi0: 2.0000
+iterations: 324, Sz_psi0: 0.0027
+iterations: 324, E0: -3.5797
+iterations: 324, Fidelity of ground state: 0.9870
+iterations: 325, NumOp_psi0: 2.0000
+iterations: 325, Sz_psi0: 0.0027
+iterations: 325, E0: -3.5797
+iterations: 325, Fidelity of ground state: 0.9870
+iterations: 326, NumOp_psi0: 2.0000
+iterations: 326, Sz_psi0: 0.0027
+iterations: 326, E0: -3.5798
+iterations: 326, Fidelity of ground state: 0.9870
+iterations: 327, NumOp_psi0: 2.0000
+iterations: 327, Sz_psi0: 0.0027
+iterations: 327, E0: -3.5798
+iterations: 327, Fidelity of ground state: 0.9870
+iterations: 328, NumOp_psi0: 2.0000
+iterations: 328, Sz_psi0: 0.0026
+iterations: 328, E0: -3.5798
+iterations: 328, Fidelity of ground state: 0.9870
+iterations: 329, NumOp_psi0: 2.0000
+iterations: 329, Sz_psi0: 0.0026
+iterations: 329, E0: -3.5799
+iterations: 329, Fidelity of ground state: 0.9871
+iterations: 330, NumOp_psi0: 2.0000
+iterations: 330, Sz_psi0: 0.0026
+iterations: 330, E0: -3.5799
+iterations: 330, Fidelity of ground state: 0.9871
+iterations: 331, NumOp_psi0: 2.0000
+iterations: 331, Sz_psi0: 0.0026
+iterations: 331, E0: -3.5799
+iterations: 331, Fidelity of ground state: 0.9871
+iterations: 332, NumOp_psi0: 2.0000
+iterations: 332, Sz_psi0: 0.0026
+iterations: 332, E0: -3.5800
+iterations: 332, Fidelity of ground state: 0.9871
+iterations: 333, NumOp_psi0: 2.0000
+iterations: 333, Sz_psi0: 0.0025
+iterations: 333, E0: -3.5800
+iterations: 333, Fidelity of ground state: 0.9871
+iterations: 334, NumOp_psi0: 2.0000
+iterations: 334, Sz_psi0: 0.0025
+iterations: 334, E0: -3.5800
+iterations: 334, Fidelity of ground state: 0.9871
+iterations: 335, NumOp_psi0: 2.0000
+iterations: 335, Sz_psi0: 0.0025
+iterations: 335, E0: -3.5801
+iterations: 335, Fidelity of ground state: 0.9872
+iterations: 336, NumOp_psi0: 2.0000
+iterations: 336, Sz_psi0: 0.0025
+iterations: 336, E0: -3.5801
+iterations: 336, Fidelity of ground state: 0.9872
+iterations: 337, NumOp_psi0: 2.0000
+iterations: 337, Sz_psi0: 0.0025
+iterations: 337, E0: -3.5801
+iterations: 337, Fidelity of ground state: 0.9872
+iterations: 338, NumOp_psi0: 2.0000
+iterations: 338, Sz_psi0: 0.0024
+iterations: 338, E0: -3.5802
+iterations: 338, Fidelity of ground state: 0.9872
+iterations: 339, NumOp_psi0: 2.0000
+iterations: 339, Sz_psi0: 0.0024
+iterations: 339, E0: -3.5802
+iterations: 339, Fidelity of ground state: 0.9873
+iterations: 340, NumOp_psi0: 2.0000
+iterations: 340, Sz_psi0: 0.0024
+iterations: 340, E0: -3.5802
+iterations: 340, Fidelity of ground state: 0.9872
+iterations: 341, NumOp_psi0: 2.0000
+iterations: 341, Sz_psi0: 0.0024
+iterations: 341, E0: -3.5801
+iterations: 341, Fidelity of ground state: 0.9873
+iterations: 342, NumOp_psi0: 2.0000
+iterations: 342, Sz_psi0: 0.0024
+iterations: 342, E0: -3.5800
+iterations: 342, Fidelity of ground state: 0.9871
+iterations: 343, NumOp_psi0: 2.0000
+iterations: 343, Sz_psi0: 0.0023
+iterations: 343, E0: -3.5797
+iterations: 343, Fidelity of ground state: 0.9873
+iterations: 344, NumOp_psi0: 2.0000
+iterations: 344, Sz_psi0: 0.0024
+iterations: 344, E0: -3.5787
+iterations: 344, Fidelity of ground state: 0.9866
+iterations: 345, NumOp_psi0: 2.0000
+iterations: 345, Sz_psi0: 0.0023
+iterations: 345, E0: -3.5762
+iterations: 345, Fidelity of ground state: 0.9865
+iterations: 346, NumOp_psi0: 2.0000
+iterations: 346, Sz_psi0: 0.0024
+iterations: 346, E0: -3.5699
+iterations: 346, Fidelity of ground state: 0.9836
+iterations: 347, NumOp_psi0: 2.0000
+iterations: 347, Sz_psi0: 0.0022
+iterations: 347, E0: -3.5559
+iterations: 347, Fidelity of ground state: 0.9809
+iterations: 348, NumOp_psi0: 2.0000
+iterations: 348, Sz_psi0: 0.0026
+iterations: 348, E0: -3.5341
+iterations: 348, Fidelity of ground state: 0.9721
+iterations: 349, NumOp_psi0: 2.0000
+iterations: 349, Sz_psi0: 0.0022
+iterations: 349, E0: -3.5176
+iterations: 349, Fidelity of ground state: 0.9687
+iterations: 350, NumOp_psi0: 2.0000
+iterations: 350, Sz_psi0: 0.0029
+iterations: 350, E0: -3.5269
+iterations: 350, Fidelity of ground state: 0.9677
+iterations: 351, NumOp_psi0: 2.0000
+iterations: 351, Sz_psi0: 0.0032
+iterations: 351, E0: -3.5455
+iterations: 351, Fidelity of ground state: 0.9763
+iterations: 352, NumOp_psi0: 2.0000
+iterations: 352, Sz_psi0: 0.0025
+iterations: 352, E0: -3.5557
+iterations: 352, Fidelity of ground state: 0.9812
+iterations: 353, NumOp_psi0: 2.0000
+iterations: 353, Sz_psi0: 0.0030
+iterations: 353, E0: -3.5614
+iterations: 353, Fidelity of ground state: 0.9814
+iterations: 354, NumOp_psi0: 2.0000
+iterations: 354, Sz_psi0: 0.0023
+iterations: 354, E0: -3.5674
+iterations: 354, Fidelity of ground state: 0.9838
+iterations: 355, NumOp_psi0: 2.0000
+iterations: 355, Sz_psi0: 0.0027
+iterations: 355, E0: -3.5572
+iterations: 355, Fidelity of ground state: 0.9806
+iterations: 356, NumOp_psi0: 2.0000
+iterations: 356, Sz_psi0: 0.0034
+iterations: 356, E0: -3.5466
+iterations: 356, Fidelity of ground state: 0.9783
+iterations: 357, NumOp_psi0: 2.0000
+iterations: 357, Sz_psi0: 0.0022
+iterations: 357, E0: -3.5655
+iterations: 357, Fidelity of ground state: 0.9840
+iterations: 358, NumOp_psi0: 2.0000
+iterations: 358, Sz_psi0: 0.0024
+iterations: 358, E0: -3.5796
+iterations: 358, Fidelity of ground state: 0.9870
+iterations: 359, NumOp_psi0: 2.0000
+iterations: 359, Sz_psi0: 0.0031
+iterations: 359, E0: -3.5637
+iterations: 359, Fidelity of ground state: 0.9831
+iterations: 360, NumOp_psi0: 2.0000
+iterations: 360, Sz_psi0: 0.0021
+iterations: 360, E0: -3.5573
+iterations: 360, Fidelity of ground state: 0.9815
+iterations: 361, NumOp_psi0: 2.0000
+iterations: 361, Sz_psi0: 0.0025
+iterations: 361, E0: -3.5718
+iterations: 361, Fidelity of ground state: 0.9852
+iterations: 362, NumOp_psi0: 2.0000
+iterations: 362, Sz_psi0: 0.0026
+iterations: 362, E0: -3.5750
+iterations: 362, Fidelity of ground state: 0.9853
+iterations: 363, NumOp_psi0: 2.0000
+iterations: 363, Sz_psi0: 0.0020
+iterations: 363, E0: -3.5696
+iterations: 363, Fidelity of ground state: 0.9849
+iterations: 364, NumOp_psi0: 2.0000
+iterations: 364, Sz_psi0: 0.0026
+iterations: 364, E0: -3.5716
+iterations: 364, Fidelity of ground state: 0.9850
+iterations: 365, NumOp_psi0: 2.0000
+iterations: 365, Sz_psi0: 0.0023
+iterations: 365, E0: -3.5716
+iterations: 365, Fidelity of ground state: 0.9836
+iterations: 366, NumOp_psi0: 2.0000
+iterations: 366, Sz_psi0: 0.0018
+iterations: 366, E0: -3.5708
+iterations: 366, Fidelity of ground state: 0.9853
+iterations: 367, NumOp_psi0: 2.0000
+iterations: 367, Sz_psi0: 0.0021
+iterations: 367, E0: -3.5775
+iterations: 367, Fidelity of ground state: 0.9868
+iterations: 368, NumOp_psi0: 2.0000
+iterations: 368, Sz_psi0: 0.0022
+iterations: 368, E0: -3.5780
+iterations: 368, Fidelity of ground state: 0.9865
+iterations: 369, NumOp_psi0: 2.0000
+iterations: 369, Sz_psi0: 0.0021
+iterations: 369, E0: -3.5710
+iterations: 369, Fidelity of ground state: 0.9850
+iterations: 370, NumOp_psi0: 2.0000
+iterations: 370, Sz_psi0: 0.0023
+iterations: 370, E0: -3.5740
+iterations: 370, Fidelity of ground state: 0.9848
+iterations: 371, NumOp_psi0: 2.0000
+iterations: 371, Sz_psi0: 0.0021
+iterations: 371, E0: -3.5801
+iterations: 371, Fidelity of ground state: 0.9874
+iterations: 372, NumOp_psi0: 2.0000
+iterations: 372, Sz_psi0: 0.0020
+iterations: 372, E0: -3.5780
+iterations: 372, Fidelity of ground state: 0.9871
+iterations: 373, NumOp_psi0: 2.0000
+iterations: 373, Sz_psi0: 0.0022
+iterations: 373, E0: -3.5753
+iterations: 373, Fidelity of ground state: 0.9855
+iterations: 374, NumOp_psi0: 2.0000
+iterations: 374, Sz_psi0: 0.0019
+iterations: 374, E0: -3.5774
+iterations: 374, Fidelity of ground state: 0.9869
+iterations: 375, NumOp_psi0: 2.0000
+iterations: 375, Sz_psi0: 0.0019
+iterations: 375, E0: -3.5786
+iterations: 375, Fidelity of ground state: 0.9871
+iterations: 376, NumOp_psi0: 2.0000
+iterations: 376, Sz_psi0: 0.0022
+iterations: 376, E0: -3.5781
+iterations: 376, Fidelity of ground state: 0.9867
+iterations: 377, NumOp_psi0: 2.0000
+iterations: 377, Sz_psi0: 0.0018
+iterations: 377, E0: -3.5792
+iterations: 377, Fidelity of ground state: 0.9874
+iterations: 378, NumOp_psi0: 2.0000
+iterations: 378, Sz_psi0: 0.0019
+iterations: 378, E0: -3.5792
+iterations: 378, Fidelity of ground state: 0.9871
+iterations: 379, NumOp_psi0: 2.0000
+iterations: 379, Sz_psi0: 0.0022
+iterations: 379, E0: -3.5777
+iterations: 379, Fidelity of ground state: 0.9870
+iterations: 380, NumOp_psi0: 2.0000
+iterations: 380, Sz_psi0: 0.0017
+iterations: 380, E0: -3.5789
+iterations: 380, Fidelity of ground state: 0.9875
+iterations: 381, NumOp_psi0: 2.0000
+iterations: 381, Sz_psi0: 0.0018
+iterations: 381, E0: -3.5809
+iterations: 381, Fidelity of ground state: 0.9878
+iterations: 382, NumOp_psi0: 2.0000
+iterations: 382, Sz_psi0: 0.0020
+iterations: 382, E0: -3.5800
+iterations: 382, Fidelity of ground state: 0.9875
+iterations: 383, NumOp_psi0: 2.0000
+iterations: 383, Sz_psi0: 0.0018
+iterations: 383, E0: -3.5786
+iterations: 383, Fidelity of ground state: 0.9872
+iterations: 384, NumOp_psi0: 2.0000
+iterations: 384, Sz_psi0: 0.0019
+iterations: 384, E0: -3.5796
+iterations: 384, Fidelity of ground state: 0.9875
+iterations: 385, NumOp_psi0: 2.0000
+iterations: 385, Sz_psi0: 0.0018
+iterations: 385, E0: -3.5810
+iterations: 385, Fidelity of ground state: 0.9878
+iterations: 386, NumOp_psi0: 2.0000
+iterations: 386, Sz_psi0: 0.0018
+iterations: 386, E0: -3.5805
+iterations: 386, Fidelity of ground state: 0.9879
+iterations: 387, NumOp_psi0: 2.0000
+iterations: 387, Sz_psi0: 0.0019
+iterations: 387, E0: -3.5799
+iterations: 387, Fidelity of ground state: 0.9875
+iterations: 388, NumOp_psi0: 2.0000
+iterations: 388, Sz_psi0: 0.0018
+iterations: 388, E0: -3.5804
+iterations: 388, Fidelity of ground state: 0.9876
+iterations: 389, NumOp_psi0: 2.0000
+iterations: 389, Sz_psi0: 0.0018
+iterations: 389, E0: -3.5808
+iterations: 389, Fidelity of ground state: 0.9879
+iterations: 390, NumOp_psi0: 2.0000
+iterations: 390, Sz_psi0: 0.0018
+iterations: 390, E0: -3.5807
+iterations: 390, Fidelity of ground state: 0.9876
+iterations: 391, NumOp_psi0: 2.0000
+iterations: 391, Sz_psi0: 0.0016
+iterations: 391, E0: -3.5808
+iterations: 391, Fidelity of ground state: 0.9880
+iterations: 392, NumOp_psi0: 2.0000
+iterations: 392, Sz_psi0: 0.0017
+iterations: 392, E0: -3.5811
+iterations: 392, Fidelity of ground state: 0.9879
+iterations: 393, NumOp_psi0: 2.0000
+iterations: 393, Sz_psi0: 0.0016
+iterations: 393, E0: -3.5810
+iterations: 393, Fidelity of ground state: 0.9877
+iterations: 394, NumOp_psi0: 2.0000
+iterations: 394, Sz_psi0: 0.0015
+iterations: 394, E0: -3.5808
+iterations: 394, Fidelity of ground state: 0.9880
+iterations: 395, NumOp_psi0: 2.0000
+iterations: 395, Sz_psi0: 0.0016
+iterations: 395, E0: -3.5810
+iterations: 395, Fidelity of ground state: 0.9877
+iterations: 396, NumOp_psi0: 2.0000
+iterations: 396, Sz_psi0: 0.0015
+iterations: 396, E0: -3.5815
+iterations: 396, Fidelity of ground state: 0.9881
+iterations: 397, NumOp_psi0: 2.0000
+iterations: 397, Sz_psi0: 0.0015
+iterations: 397, E0: -3.5816
+iterations: 397, Fidelity of ground state: 0.9881
+iterations: 398, NumOp_psi0: 2.0000
+iterations: 398, Sz_psi0: 0.0015
+iterations: 398, E0: -3.5813
+iterations: 398, Fidelity of ground state: 0.9878
+iterations: 399, NumOp_psi0: 2.0000
+iterations: 399, Sz_psi0: 0.0014
+iterations: 399, E0: -3.5812
+iterations: 399, Fidelity of ground state: 0.9881
+iterations: 400, NumOp_psi0: 2.0000
+iterations: 400, Sz_psi0: 0.0014
+iterations: 400, E0: -3.5815
+iterations: 400, Fidelity of ground state: 0.9880
+iterations: 401, NumOp_psi0: 2.0000
+iterations: 401, Sz_psi0: 0.0014
+iterations: 401, E0: -3.5818
+iterations: 401, Fidelity of ground state: 0.9882
+iterations: 402, NumOp_psi0: 2.0000
+iterations: 402, Sz_psi0: 0.0014
+iterations: 402, E0: -3.5818
+iterations: 402, Fidelity of ground state: 0.9882
+iterations: 403, NumOp_psi0: 2.0000
+iterations: 403, Sz_psi0: 0.0014
+iterations: 403, E0: -3.5816
+iterations: 403, Fidelity of ground state: 0.9880
+iterations: 404, NumOp_psi0: 2.0000
+iterations: 404, Sz_psi0: 0.0013
+iterations: 404, E0: -3.5816
+iterations: 404, Fidelity of ground state: 0.9882
+iterations: 405, NumOp_psi0: 2.0000
+iterations: 405, Sz_psi0: 0.0013
+iterations: 405, E0: -3.5818
+iterations: 405, Fidelity of ground state: 0.9881
+iterations: 406, NumOp_psi0: 2.0000
+iterations: 406, Sz_psi0: 0.0013
+iterations: 406, E0: -3.5820
+iterations: 406, Fidelity of ground state: 0.9883
+iterations: 407, NumOp_psi0: 2.0000
+iterations: 407, Sz_psi0: 0.0012
+iterations: 407, E0: -3.5821
+iterations: 407, Fidelity of ground state: 0.9883
+iterations: 408, NumOp_psi0: 2.0000
+iterations: 408, Sz_psi0: 0.0012
+iterations: 408, E0: -3.5820
+iterations: 408, Fidelity of ground state: 0.9882
+iterations: 409, NumOp_psi0: 2.0000
+iterations: 409, Sz_psi0: 0.0011
+iterations: 409, E0: -3.5820
+iterations: 409, Fidelity of ground state: 0.9883
+iterations: 410, NumOp_psi0: 2.0000
+iterations: 410, Sz_psi0: 0.0011
+iterations: 410, E0: -3.5821
+iterations: 410, Fidelity of ground state: 0.9882
+iterations: 411, NumOp_psi0: 2.0000
+iterations: 411, Sz_psi0: 0.0011
+iterations: 411, E0: -3.5823
+iterations: 411, Fidelity of ground state: 0.9884
+iterations: 412, NumOp_psi0: 2.0000
+iterations: 412, Sz_psi0: 0.0011
+iterations: 412, E0: -3.5824
+iterations: 412, Fidelity of ground state: 0.9884
+iterations: 413, NumOp_psi0: 2.0000
+iterations: 413, Sz_psi0: 0.0010
+iterations: 413, E0: -3.5824
+iterations: 413, Fidelity of ground state: 0.9884
+iterations: 414, NumOp_psi0: 2.0000
+iterations: 414, Sz_psi0: 0.0010
+iterations: 414, E0: -3.5824
+iterations: 414, Fidelity of ground state: 0.9885
+iterations: 415, NumOp_psi0: 2.0000
+iterations: 415, Sz_psi0: 0.0010
+iterations: 415, E0: -3.5825
+iterations: 415, Fidelity of ground state: 0.9883
+iterations: 416, NumOp_psi0: 2.0000
+iterations: 416, Sz_psi0: 0.0009
+iterations: 416, E0: -3.5825
+iterations: 416, Fidelity of ground state: 0.9885
+iterations: 417, NumOp_psi0: 2.0000
+iterations: 417, Sz_psi0: 0.0009
+iterations: 417, E0: -3.5827
+iterations: 417, Fidelity of ground state: 0.9884
+iterations: 418, NumOp_psi0: 2.0000
+iterations: 418, Sz_psi0: 0.0009
+iterations: 418, E0: -3.5828
+iterations: 418, Fidelity of ground state: 0.9886
+iterations: 419, NumOp_psi0: 2.0000
+iterations: 419, Sz_psi0: 0.0008
+iterations: 419, E0: -3.5829
+iterations: 419, Fidelity of ground state: 0.9886
+iterations: 420, NumOp_psi0: 2.0000
+iterations: 420, Sz_psi0: 0.0008
+iterations: 420, E0: -3.5830
+iterations: 420, Fidelity of ground state: 0.9886
+iterations: 421, NumOp_psi0: 2.0000
+iterations: 421, Sz_psi0: 0.0008
+iterations: 421, E0: -3.5830
+iterations: 421, Fidelity of ground state: 0.9886
+iterations: 422, NumOp_psi0: 2.0000
+iterations: 422, Sz_psi0: 0.0007
+iterations: 422, E0: -3.5831
+iterations: 422, Fidelity of ground state: 0.9886
+iterations: 423, NumOp_psi0: 2.0000
+iterations: 423, Sz_psi0: 0.0007
+iterations: 423, E0: -3.5832
+iterations: 423, Fidelity of ground state: 0.9887
+iterations: 424, NumOp_psi0: 2.0000
+iterations: 424, Sz_psi0: 0.0007
+iterations: 424, E0: -3.5833
+iterations: 424, Fidelity of ground state: 0.9887
+iterations: 425, NumOp_psi0: 2.0000
+iterations: 425, Sz_psi0: 0.0006
+iterations: 425, E0: -3.5834
+iterations: 425, Fidelity of ground state: 0.9888
+iterations: 426, NumOp_psi0: 2.0000
+iterations: 426, Sz_psi0: 0.0006
+iterations: 426, E0: -3.5835
+iterations: 426, Fidelity of ground state: 0.9888
+iterations: 427, NumOp_psi0: 2.0000
+iterations: 427, Sz_psi0: 0.0006
+iterations: 427, E0: -3.5837
+iterations: 427, Fidelity of ground state: 0.9889
+iterations: 428, NumOp_psi0: 2.0000
+iterations: 428, Sz_psi0: 0.0005
+iterations: 428, E0: -3.5838
+iterations: 428, Fidelity of ground state: 0.9889
+iterations: 429, NumOp_psi0: 2.0000
+iterations: 429, Sz_psi0: 0.0005
+iterations: 429, E0: -3.5839
+iterations: 429, Fidelity of ground state: 0.9889
+iterations: 430, NumOp_psi0: 2.0000
+iterations: 430, Sz_psi0: 0.0005
+iterations: 430, E0: -3.5840
+iterations: 430, Fidelity of ground state: 0.9890
+iterations: 431, NumOp_psi0: 2.0000
+iterations: 431, Sz_psi0: 0.0004
+iterations: 431, E0: -3.5841
+iterations: 431, Fidelity of ground state: 0.9890
+iterations: 432, NumOp_psi0: 2.0000
+iterations: 432, Sz_psi0: 0.0004
+iterations: 432, E0: -3.5843
+iterations: 432, Fidelity of ground state: 0.9890
+iterations: 433, NumOp_psi0: 2.0000
+iterations: 433, Sz_psi0: 0.0004
+iterations: 433, E0: -3.5843
+iterations: 433, Fidelity of ground state: 0.9891
+iterations: 434, NumOp_psi0: 2.0000
+iterations: 434, Sz_psi0: 0.0003
+iterations: 434, E0: -3.5844
+iterations: 434, Fidelity of ground state: 0.9891
+iterations: 435, NumOp_psi0: 2.0000
+iterations: 435, Sz_psi0: 0.0003
+iterations: 435, E0: -3.5842
+iterations: 435, Fidelity of ground state: 0.9892
+iterations: 436, NumOp_psi0: 2.0000
+iterations: 436, Sz_psi0: 0.0003
+iterations: 436, E0: -3.5837
+iterations: 436, Fidelity of ground state: 0.9889
+iterations: 437, NumOp_psi0: 2.0000
+iterations: 437, Sz_psi0: 0.0002
+iterations: 437, E0: -3.5825
+iterations: 437, Fidelity of ground state: 0.9889
+iterations: 438, NumOp_psi0: 2.0000
+iterations: 438, Sz_psi0: 0.0002
+iterations: 438, E0: -3.5797
+iterations: 438, Fidelity of ground state: 0.9878
+iterations: 439, NumOp_psi0: 2.0000
+iterations: 439, Sz_psi0: 0.0002
+iterations: 439, E0: -3.5735
+iterations: 439, Fidelity of ground state: 0.9868
+iterations: 440, NumOp_psi0: 2.0000
+iterations: 440, Sz_psi0: 0.0002
+iterations: 440, E0: -3.5614
+iterations: 440, Fidelity of ground state: 0.9830
+iterations: 441, NumOp_psi0: 2.0000
+iterations: 441, Sz_psi0: 0.0003
+iterations: 441, E0: -3.5449
+iterations: 441, Fidelity of ground state: 0.9801
+iterations: 442, NumOp_psi0: 2.0000
+iterations: 442, Sz_psi0: 0.0004
+iterations: 442, E0: -3.5345
+iterations: 442, Fidelity of ground state: 0.9763
+iterations: 443, NumOp_psi0: 2.0000
+iterations: 443, Sz_psi0: 0.0004
+iterations: 443, E0: -3.5448
+iterations: 443, Fidelity of ground state: 0.9803
+iterations: 444, NumOp_psi0: 2.0000
+iterations: 444, Sz_psi0: 0.0007
+iterations: 444, E0: -3.5697
+iterations: 444, Fidelity of ground state: 0.9855
+iterations: 445, NumOp_psi0: 2.0000
+iterations: 445, Sz_psi0: 0.0001
+iterations: 445, E0: -3.5794
+iterations: 445, Fidelity of ground state: 0.9877
+iterations: 446, NumOp_psi0: 2.0000
+iterations: 446, Sz_psi0: 0.0001
+iterations: 446, E0: -3.5711
+iterations: 446, Fidelity of ground state: 0.9856
+iterations: 447, NumOp_psi0: 2.0000
+iterations: 447, Sz_psi0: 0.0001
+iterations: 447, E0: -3.5644
+iterations: 447, Fidelity of ground state: 0.9831
+iterations: 448, NumOp_psi0: 2.0000
+iterations: 448, Sz_psi0: 0.0001
+iterations: 448, E0: -3.5713
+iterations: 448, Fidelity of ground state: 0.9865
+iterations: 449, NumOp_psi0: 2.0000
+iterations: 449, Sz_psi0: 0.0003
+iterations: 449, E0: -3.5810
+iterations: 449, Fidelity of ground state: 0.9884
+iterations: 450, NumOp_psi0: 2.0000
+iterations: 450, Sz_psi0: -0.0000
+iterations: 450, E0: -3.5768
+iterations: 450, Fidelity of ground state: 0.9862
+iterations: 451, NumOp_psi0: 2.0000
+iterations: 451, Sz_psi0: 0.0002
+iterations: 451, E0: -3.5694
+iterations: 451, Fidelity of ground state: 0.9848
+iterations: 452, NumOp_psi0: 2.0000
+iterations: 452, Sz_psi0: 0.0001
+iterations: 452, E0: -3.5753
+iterations: 452, Fidelity of ground state: 0.9859
+iterations: 453, NumOp_psi0: 2.0000
+iterations: 453, Sz_psi0: 0.0001
+iterations: 453, E0: -3.5862
+iterations: 453, Fidelity of ground state: 0.9899
+iterations: 454, NumOp_psi0: 2.0000
+iterations: 454, Sz_psi0: -0.0000
+iterations: 454, E0: -3.5862
+iterations: 454, Fidelity of ground state: 0.9898
+iterations: 455, NumOp_psi0: 2.0000
+iterations: 455, Sz_psi0: -0.0000
+iterations: 455, E0: -3.5786
+iterations: 455, Fidelity of ground state: 0.9871
+iterations: 456, NumOp_psi0: 2.0000
+iterations: 456, Sz_psi0: 0.0001
+iterations: 456, E0: -3.5783
+iterations: 456, Fidelity of ground state: 0.9875
+iterations: 457, NumOp_psi0: 2.0000
+iterations: 457, Sz_psi0: 0.0000
+iterations: 457, E0: -3.5856
+iterations: 457, Fidelity of ground state: 0.9894
+iterations: 458, NumOp_psi0: 2.0000
+iterations: 458, Sz_psi0: -0.0000
+iterations: 458, E0: -3.5881
+iterations: 458, Fidelity of ground state: 0.9904
+iterations: 459, NumOp_psi0: 2.0000
+iterations: 459, Sz_psi0: -0.0000
+iterations: 459, E0: -3.5839
+iterations: 459, Fidelity of ground state: 0.9895
+iterations: 460, NumOp_psi0: 2.0000
+iterations: 460, Sz_psi0: -0.0001
+iterations: 460, E0: -3.5832
+iterations: 460, Fidelity of ground state: 0.9888
+iterations: 461, NumOp_psi0: 2.0000
+iterations: 461, Sz_psi0: 0.0001
+iterations: 461, E0: -3.5880
+iterations: 461, Fidelity of ground state: 0.9904
+iterations: 462, NumOp_psi0: 2.0000
+iterations: 462, Sz_psi0: 0.0000
+iterations: 462, E0: -3.5901
+iterations: 462, Fidelity of ground state: 0.9910
+iterations: 463, NumOp_psi0: 2.0000
+iterations: 463, Sz_psi0: -0.0001
+iterations: 463, E0: -3.5872
+iterations: 463, Fidelity of ground state: 0.9900
+iterations: 464, NumOp_psi0: 2.0000
+iterations: 464, Sz_psi0: 0.0000
+iterations: 464, E0: -3.5859
+iterations: 464, Fidelity of ground state: 0.9900
+iterations: 465, NumOp_psi0: 2.0000
+iterations: 465, Sz_psi0: -0.0001
+iterations: 465, E0: -3.5886
+iterations: 465, Fidelity of ground state: 0.9905
+iterations: 466, NumOp_psi0: 2.0000
+iterations: 466, Sz_psi0: 0.0000
+iterations: 466, E0: -3.5903
+iterations: 466, Fidelity of ground state: 0.9910
+iterations: 467, NumOp_psi0: 2.0000
+iterations: 467, Sz_psi0: 0.0000
+iterations: 467, E0: -3.5891
+iterations: 467, Fidelity of ground state: 0.9906
+iterations: 468, NumOp_psi0: 2.0000
+iterations: 468, Sz_psi0: -0.0001
+iterations: 468, E0: -3.5882
+iterations: 468, Fidelity of ground state: 0.9903
+iterations: 469, NumOp_psi0: 2.0000
+iterations: 469, Sz_psi0: -0.0000
+iterations: 469, E0: -3.5900
+iterations: 469, Fidelity of ground state: 0.9908
+iterations: 470, NumOp_psi0: 2.0000
+iterations: 470, Sz_psi0: -0.0001
+iterations: 470, E0: -3.5917
+iterations: 470, Fidelity of ground state: 0.9913
+iterations: 471, NumOp_psi0: 2.0000
+iterations: 471, Sz_psi0: -0.0001
+iterations: 471, E0: -3.5912
+iterations: 471, Fidelity of ground state: 0.9911
+iterations: 472, NumOp_psi0: 2.0000
+iterations: 472, Sz_psi0: 0.0000
+iterations: 472, E0: -3.5902
+iterations: 472, Fidelity of ground state: 0.9908
+iterations: 473, NumOp_psi0: 2.0000
+iterations: 473, Sz_psi0: -0.0001
+iterations: 473, E0: -3.5909
+iterations: 473, Fidelity of ground state: 0.9910
+iterations: 474, NumOp_psi0: 2.0000
+iterations: 474, Sz_psi0: 0.0000
+iterations: 474, E0: -3.5921
+iterations: 474, Fidelity of ground state: 0.9913
+iterations: 475, NumOp_psi0: 2.0000
+iterations: 475, Sz_psi0: 0.0001
+iterations: 475, E0: -3.5921
+iterations: 475, Fidelity of ground state: 0.9913
+iterations: 476, NumOp_psi0: 2.0000
+iterations: 476, Sz_psi0: -0.0001
+iterations: 476, E0: -3.5912
+iterations: 476, Fidelity of ground state: 0.9911
+iterations: 477, NumOp_psi0: 2.0000
+iterations: 477, Sz_psi0: 0.0000
+iterations: 477, E0: -3.5912
+iterations: 477, Fidelity of ground state: 0.9910
+iterations: 478, NumOp_psi0: 2.0000
+iterations: 478, Sz_psi0: -0.0001
+iterations: 478, E0: -3.5920
+iterations: 478, Fidelity of ground state: 0.9913
+iterations: 479, NumOp_psi0: 2.0000
+iterations: 479, Sz_psi0: 0.0000
+iterations: 479, E0: -3.5925
+iterations: 479, Fidelity of ground state: 0.9913
+iterations: 480, NumOp_psi0: 2.0000
+iterations: 480, Sz_psi0: -0.0000
+iterations: 480, E0: -3.5921
+iterations: 480, Fidelity of ground state: 0.9912
+iterations: 481, NumOp_psi0: 2.0000
+iterations: 481, Sz_psi0: -0.0001
+iterations: 481, E0: -3.5916
+iterations: 481, Fidelity of ground state: 0.9912
+iterations: 482, NumOp_psi0: 2.0000
+iterations: 482, Sz_psi0: -0.0001
+iterations: 482, E0: -3.5916
+iterations: 482, Fidelity of ground state: 0.9911
+iterations: 483, NumOp_psi0: 2.0000
+iterations: 483, Sz_psi0: -0.0001
+iterations: 483, E0: -3.5919
+iterations: 483, Fidelity of ground state: 0.9912
+iterations: 484, NumOp_psi0: 2.0000
+iterations: 484, Sz_psi0: -0.0002
+iterations: 484, E0: -3.5917
+iterations: 484, Fidelity of ground state: 0.9912
+iterations: 485, NumOp_psi0: 2.0000
+iterations: 485, Sz_psi0: -0.0001
+iterations: 485, E0: -3.5908
+iterations: 485, Fidelity of ground state: 0.9910
+iterations: 486, NumOp_psi0: 2.0000
+iterations: 486, Sz_psi0: -0.0002
+iterations: 486, E0: -3.5896
+iterations: 486, Fidelity of ground state: 0.9907
+iterations: 487, NumOp_psi0: 2.0000
+iterations: 487, Sz_psi0: 0.0000
+iterations: 487, E0: -3.5883
+iterations: 487, Fidelity of ground state: 0.9904
+iterations: 488, NumOp_psi0: 2.0000
+iterations: 488, Sz_psi0: -0.0002
+iterations: 488, E0: -3.5864
+iterations: 488, Fidelity of ground state: 0.9899
+iterations: 489, NumOp_psi0: 2.0000
+iterations: 489, Sz_psi0: 0.0000
+iterations: 489, E0: -3.5831
+iterations: 489, Fidelity of ground state: 0.9890
+iterations: 490, NumOp_psi0: 2.0000
+iterations: 490, Sz_psi0: -0.0001
+iterations: 490, E0: -3.5781
+iterations: 490, Fidelity of ground state: 0.9876
+iterations: 491, NumOp_psi0: 2.0000
+iterations: 491, Sz_psi0: 0.0001
+iterations: 491, E0: -3.5708
+iterations: 491, Fidelity of ground state: 0.9857
+iterations: 492, NumOp_psi0: 2.0000
+iterations: 492, Sz_psi0: 0.0001
+iterations: 492, E0: -3.5630
+iterations: 492, Fidelity of ground state: 0.9835
+iterations: 493, NumOp_psi0: 2.0000
+iterations: 493, Sz_psi0: 0.0003
+iterations: 493, E0: -3.5553
+iterations: 493, Fidelity of ground state: 0.9817
+iterations: 494, NumOp_psi0: 2.0000
+iterations: 494, Sz_psi0: 0.0001
+iterations: 494, E0: -3.5539
+iterations: 494, Fidelity of ground state: 0.9812
+iterations: 495, NumOp_psi0: 2.0000
+iterations: 495, Sz_psi0: 0.0003
+iterations: 495, E0: -3.5592
+iterations: 495, Fidelity of ground state: 0.9827
+iterations: 496, NumOp_psi0: 2.0000
+iterations: 496, Sz_psi0: -0.0000
+iterations: 496, E0: -3.5727
+iterations: 496, Fidelity of ground state: 0.9861
+iterations: 497, NumOp_psi0: 2.0000
+iterations: 497, Sz_psi0: -0.0001
+iterations: 497, E0: -3.5862
+iterations: 497, Fidelity of ground state: 0.9898
+iterations: 498, NumOp_psi0: 2.0000
+iterations: 498, Sz_psi0: -0.0002
+iterations: 498, E0: -3.5933
+iterations: 498, Fidelity of ground state: 0.9916
+iterations: 499, NumOp_psi0: 2.0000
+iterations: 499, Sz_psi0: -0.0002
+iterations: 499, E0: -3.5916
+iterations: 499, Fidelity of ground state: 0.9911
+iterations: 500, NumOp_psi0: 2.0000
+iterations: 500, Sz_psi0: -0.0001
+iterations: 500, E0: -3.5846
+iterations: 500, Fidelity of ground state: 0.9893

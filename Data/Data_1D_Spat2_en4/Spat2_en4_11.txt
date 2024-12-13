@@ -1,0 +1,1500 @@
+iterations: 1, loss: 4.0000
+iterations: 1, NumOp_psi15: 4.0000
+iterations: 1, Sz_psi15: -0.0000
+iterations: 1, E15: 4.0000
+iterations: 1, Fidelity of excited state 15: 1.0000
+iterations: 2, loss: 4.0000
+iterations: 2, NumOp_psi15: 4.0000
+iterations: 2, Sz_psi15: 0.0000
+iterations: 2, E15: 4.0000
+iterations: 2, Fidelity of excited state 15: 1.0000
+iterations: 3, loss: 4.0000
+iterations: 3, NumOp_psi15: 4.0000
+iterations: 3, Sz_psi15: 0.0000
+iterations: 3, E15: 4.0000
+iterations: 3, Fidelity of excited state 15: 1.0000
+iterations: 4, loss: 4.0000
+iterations: 4, NumOp_psi15: 4.0000
+iterations: 4, Sz_psi15: -0.0000
+iterations: 4, E15: 4.0000
+iterations: 4, Fidelity of excited state 15: 1.0000
+iterations: 5, loss: 4.0000
+iterations: 5, NumOp_psi15: 4.0000
+iterations: 5, Sz_psi15: -0.0000
+iterations: 5, E15: 4.0000
+iterations: 5, Fidelity of excited state 15: 1.0000
+iterations: 6, loss: 4.0000
+iterations: 6, NumOp_psi15: 4.0000
+iterations: 6, Sz_psi15: -0.0000
+iterations: 6, E15: 4.0000
+iterations: 6, Fidelity of excited state 15: 1.0000
+iterations: 7, loss: 4.0000
+iterations: 7, NumOp_psi15: 4.0000
+iterations: 7, Sz_psi15: 0.0000
+iterations: 7, E15: 4.0000
+iterations: 7, Fidelity of excited state 15: 1.0000
+iterations: 8, loss: 4.0000
+iterations: 8, NumOp_psi15: 4.0000
+iterations: 8, Sz_psi15: 0.0000
+iterations: 8, E15: 4.0000
+iterations: 8, Fidelity of excited state 15: 1.0000
+iterations: 9, loss: 4.0000
+iterations: 9, NumOp_psi15: 4.0000
+iterations: 9, Sz_psi15: 0.0000
+iterations: 9, E15: 4.0000
+iterations: 9, Fidelity of excited state 15: 1.0000
+iterations: 10, loss: 4.0000
+iterations: 10, NumOp_psi15: 4.0000
+iterations: 10, Sz_psi15: 0.0000
+iterations: 10, E15: 4.0000
+iterations: 10, Fidelity of excited state 15: 1.0000
+iterations: 11, loss: 4.0000
+iterations: 11, NumOp_psi15: 4.0000
+iterations: 11, Sz_psi15: -0.0000
+iterations: 11, E15: 4.0000
+iterations: 11, Fidelity of excited state 15: 1.0000
+iterations: 12, loss: 4.0000
+iterations: 12, NumOp_psi15: 4.0000
+iterations: 12, Sz_psi15: -0.0000
+iterations: 12, E15: 4.0000
+iterations: 12, Fidelity of excited state 15: 1.0000
+iterations: 13, loss: 4.0000
+iterations: 13, NumOp_psi15: 4.0000
+iterations: 13, Sz_psi15: -0.0000
+iterations: 13, E15: 4.0000
+iterations: 13, Fidelity of excited state 15: 1.0000
+iterations: 14, loss: 4.0000
+iterations: 14, NumOp_psi15: 4.0000
+iterations: 14, Sz_psi15: 0.0000
+iterations: 14, E15: 4.0000
+iterations: 14, Fidelity of excited state 15: 1.0000
+iterations: 15, loss: 4.0000
+iterations: 15, NumOp_psi15: 4.0000
+iterations: 15, Sz_psi15: -0.0000
+iterations: 15, E15: 4.0000
+iterations: 15, Fidelity of excited state 15: 1.0000
+iterations: 16, loss: 4.0000
+iterations: 16, NumOp_psi15: 4.0000
+iterations: 16, Sz_psi15: -0.0000
+iterations: 16, E15: 4.0000
+iterations: 16, Fidelity of excited state 15: 1.0000
+iterations: 17, loss: 4.0000
+iterations: 17, NumOp_psi15: 4.0000
+iterations: 17, Sz_psi15: 0.0000
+iterations: 17, E15: 4.0000
+iterations: 17, Fidelity of excited state 15: 1.0000
+iterations: 18, loss: 4.0000
+iterations: 18, NumOp_psi15: 4.0000
+iterations: 18, Sz_psi15: -0.0000
+iterations: 18, E15: 4.0000
+iterations: 18, Fidelity of excited state 15: 1.0000
+iterations: 19, loss: 4.0000
+iterations: 19, NumOp_psi15: 4.0000
+iterations: 19, Sz_psi15: -0.0000
+iterations: 19, E15: 4.0000
+iterations: 19, Fidelity of excited state 15: 1.0000
+iterations: 20, loss: 4.0000
+iterations: 20, NumOp_psi15: 4.0000
+iterations: 20, Sz_psi15: 0.0000
+iterations: 20, E15: 4.0000
+iterations: 20, Fidelity of excited state 15: 1.0000
+iterations: 21, loss: 4.0000
+iterations: 21, NumOp_psi15: 4.0000
+iterations: 21, Sz_psi15: -0.0000
+iterations: 21, E15: 4.0000
+iterations: 21, Fidelity of excited state 15: 1.0000
+iterations: 22, loss: 4.0000
+iterations: 22, NumOp_psi15: 4.0000
+iterations: 22, Sz_psi15: -0.0000
+iterations: 22, E15: 4.0000
+iterations: 22, Fidelity of excited state 15: 1.0000
+iterations: 23, loss: 4.0000
+iterations: 23, NumOp_psi15: 4.0000
+iterations: 23, Sz_psi15: -0.0000
+iterations: 23, E15: 4.0000
+iterations: 23, Fidelity of excited state 15: 1.0000
+iterations: 24, loss: 4.0000
+iterations: 24, NumOp_psi15: 4.0000
+iterations: 24, Sz_psi15: 0.0000
+iterations: 24, E15: 4.0000
+iterations: 24, Fidelity of excited state 15: 1.0000
+iterations: 25, loss: 4.0000
+iterations: 25, NumOp_psi15: 4.0000
+iterations: 25, Sz_psi15: 0.0000
+iterations: 25, E15: 4.0000
+iterations: 25, Fidelity of excited state 15: 1.0000
+iterations: 26, loss: 4.0000
+iterations: 26, NumOp_psi15: 4.0000
+iterations: 26, Sz_psi15: -0.0000
+iterations: 26, E15: 4.0000
+iterations: 26, Fidelity of excited state 15: 1.0000
+iterations: 27, loss: 4.0000
+iterations: 27, NumOp_psi15: 4.0000
+iterations: 27, Sz_psi15: -0.0000
+iterations: 27, E15: 4.0000
+iterations: 27, Fidelity of excited state 15: 1.0000
+iterations: 28, loss: 4.0000
+iterations: 28, NumOp_psi15: 4.0000
+iterations: 28, Sz_psi15: -0.0000
+iterations: 28, E15: 4.0000
+iterations: 28, Fidelity of excited state 15: 1.0000
+iterations: 29, loss: 4.0000
+iterations: 29, NumOp_psi15: 4.0000
+iterations: 29, Sz_psi15: -0.0000
+iterations: 29, E15: 4.0000
+iterations: 29, Fidelity of excited state 15: 1.0000
+iterations: 30, loss: 4.0000
+iterations: 30, NumOp_psi15: 4.0000
+iterations: 30, Sz_psi15: 0.0000
+iterations: 30, E15: 4.0000
+iterations: 30, Fidelity of excited state 15: 1.0000
+iterations: 31, loss: 4.0000
+iterations: 31, NumOp_psi15: 4.0000
+iterations: 31, Sz_psi15: -0.0000
+iterations: 31, E15: 4.0000
+iterations: 31, Fidelity of excited state 15: 1.0000
+iterations: 32, loss: 4.0000
+iterations: 32, NumOp_psi15: 4.0000
+iterations: 32, Sz_psi15: -0.0000
+iterations: 32, E15: 4.0000
+iterations: 32, Fidelity of excited state 15: 1.0000
+iterations: 33, loss: 4.0000
+iterations: 33, NumOp_psi15: 4.0000
+iterations: 33, Sz_psi15: -0.0000
+iterations: 33, E15: 4.0000
+iterations: 33, Fidelity of excited state 15: 1.0000
+iterations: 34, loss: 4.0000
+iterations: 34, NumOp_psi15: 4.0000
+iterations: 34, Sz_psi15: -0.0000
+iterations: 34, E15: 4.0000
+iterations: 34, Fidelity of excited state 15: 1.0000
+iterations: 35, loss: 4.0000
+iterations: 35, NumOp_psi15: 4.0000
+iterations: 35, Sz_psi15: -0.0000
+iterations: 35, E15: 4.0000
+iterations: 35, Fidelity of excited state 15: 1.0000
+iterations: 36, loss: 4.0000
+iterations: 36, NumOp_psi15: 4.0000
+iterations: 36, Sz_psi15: 0.0000
+iterations: 36, E15: 4.0000
+iterations: 36, Fidelity of excited state 15: 1.0000
+iterations: 37, loss: 4.0000
+iterations: 37, NumOp_psi15: 4.0000
+iterations: 37, Sz_psi15: 0.0000
+iterations: 37, E15: 4.0000
+iterations: 37, Fidelity of excited state 15: 1.0000
+iterations: 38, loss: 4.0000
+iterations: 38, NumOp_psi15: 4.0000
+iterations: 38, Sz_psi15: -0.0000
+iterations: 38, E15: 4.0000
+iterations: 38, Fidelity of excited state 15: 1.0000
+iterations: 39, loss: 4.0000
+iterations: 39, NumOp_psi15: 4.0000
+iterations: 39, Sz_psi15: -0.0000
+iterations: 39, E15: 4.0000
+iterations: 39, Fidelity of excited state 15: 1.0000
+iterations: 40, loss: 4.0000
+iterations: 40, NumOp_psi15: 4.0000
+iterations: 40, Sz_psi15: -0.0000
+iterations: 40, E15: 4.0000
+iterations: 40, Fidelity of excited state 15: 1.0000
+iterations: 41, loss: 4.0000
+iterations: 41, NumOp_psi15: 4.0000
+iterations: 41, Sz_psi15: -0.0000
+iterations: 41, E15: 4.0000
+iterations: 41, Fidelity of excited state 15: 1.0000
+iterations: 42, loss: 4.0000
+iterations: 42, NumOp_psi15: 4.0000
+iterations: 42, Sz_psi15: 0.0000
+iterations: 42, E15: 4.0000
+iterations: 42, Fidelity of excited state 15: 1.0000
+iterations: 43, loss: 4.0000
+iterations: 43, NumOp_psi15: 4.0000
+iterations: 43, Sz_psi15: 0.0000
+iterations: 43, E15: 4.0000
+iterations: 43, Fidelity of excited state 15: 1.0000
+iterations: 44, loss: 4.0000
+iterations: 44, NumOp_psi15: 4.0000
+iterations: 44, Sz_psi15: -0.0000
+iterations: 44, E15: 4.0000
+iterations: 44, Fidelity of excited state 15: 1.0000
+iterations: 45, loss: 4.0000
+iterations: 45, NumOp_psi15: 4.0000
+iterations: 45, Sz_psi15: -0.0000
+iterations: 45, E15: 4.0000
+iterations: 45, Fidelity of excited state 15: 1.0000
+iterations: 46, loss: 4.0000
+iterations: 46, NumOp_psi15: 4.0000
+iterations: 46, Sz_psi15: -0.0000
+iterations: 46, E15: 4.0000
+iterations: 46, Fidelity of excited state 15: 1.0000
+iterations: 47, loss: 4.0000
+iterations: 47, NumOp_psi15: 4.0000
+iterations: 47, Sz_psi15: 0.0000
+iterations: 47, E15: 4.0000
+iterations: 47, Fidelity of excited state 15: 1.0000
+iterations: 48, loss: 4.0000
+iterations: 48, NumOp_psi15: 4.0000
+iterations: 48, Sz_psi15: -0.0000
+iterations: 48, E15: 4.0000
+iterations: 48, Fidelity of excited state 15: 1.0000
+iterations: 49, loss: 4.0000
+iterations: 49, NumOp_psi15: 4.0000
+iterations: 49, Sz_psi15: -0.0000
+iterations: 49, E15: 4.0000
+iterations: 49, Fidelity of excited state 15: 1.0000
+iterations: 50, loss: 4.0000
+iterations: 50, NumOp_psi15: 4.0000
+iterations: 50, Sz_psi15: 0.0000
+iterations: 50, E15: 4.0000
+iterations: 50, Fidelity of excited state 15: 1.0000
+iterations: 51, loss: 4.0000
+iterations: 51, NumOp_psi15: 4.0000
+iterations: 51, Sz_psi15: -0.0000
+iterations: 51, E15: 4.0000
+iterations: 51, Fidelity of excited state 15: 1.0000
+iterations: 52, loss: 4.0000
+iterations: 52, NumOp_psi15: 4.0000
+iterations: 52, Sz_psi15: -0.0000
+iterations: 52, E15: 4.0000
+iterations: 52, Fidelity of excited state 15: 1.0000
+iterations: 53, loss: 4.0000
+iterations: 53, NumOp_psi15: 4.0000
+iterations: 53, Sz_psi15: -0.0000
+iterations: 53, E15: 4.0000
+iterations: 53, Fidelity of excited state 15: 1.0000
+iterations: 54, loss: 4.0000
+iterations: 54, NumOp_psi15: 4.0000
+iterations: 54, Sz_psi15: -0.0000
+iterations: 54, E15: 4.0000
+iterations: 54, Fidelity of excited state 15: 1.0000
+iterations: 55, loss: 4.0000
+iterations: 55, NumOp_psi15: 4.0000
+iterations: 55, Sz_psi15: -0.0000
+iterations: 55, E15: 4.0000
+iterations: 55, Fidelity of excited state 15: 1.0000
+iterations: 56, loss: 4.0000
+iterations: 56, NumOp_psi15: 4.0000
+iterations: 56, Sz_psi15: 0.0000
+iterations: 56, E15: 4.0000
+iterations: 56, Fidelity of excited state 15: 1.0000
+iterations: 57, loss: 4.0000
+iterations: 57, NumOp_psi15: 4.0000
+iterations: 57, Sz_psi15: -0.0000
+iterations: 57, E15: 4.0000
+iterations: 57, Fidelity of excited state 15: 1.0000
+iterations: 58, loss: 4.0000
+iterations: 58, NumOp_psi15: 4.0000
+iterations: 58, Sz_psi15: -0.0000
+iterations: 58, E15: 4.0000
+iterations: 58, Fidelity of excited state 15: 1.0000
+iterations: 59, loss: 4.0000
+iterations: 59, NumOp_psi15: 4.0000
+iterations: 59, Sz_psi15: 0.0000
+iterations: 59, E15: 4.0000
+iterations: 59, Fidelity of excited state 15: 1.0000
+iterations: 60, loss: 4.0000
+iterations: 60, NumOp_psi15: 4.0000
+iterations: 60, Sz_psi15: 0.0000
+iterations: 60, E15: 4.0000
+iterations: 60, Fidelity of excited state 15: 1.0000
+iterations: 61, loss: 4.0000
+iterations: 61, NumOp_psi15: 4.0000
+iterations: 61, Sz_psi15: -0.0000
+iterations: 61, E15: 4.0000
+iterations: 61, Fidelity of excited state 15: 1.0000
+iterations: 62, loss: 4.0000
+iterations: 62, NumOp_psi15: 4.0000
+iterations: 62, Sz_psi15: -0.0000
+iterations: 62, E15: 4.0000
+iterations: 62, Fidelity of excited state 15: 1.0000
+iterations: 63, loss: 4.0000
+iterations: 63, NumOp_psi15: 4.0000
+iterations: 63, Sz_psi15: -0.0000
+iterations: 63, E15: 4.0000
+iterations: 63, Fidelity of excited state 15: 1.0000
+iterations: 64, loss: 4.0000
+iterations: 64, NumOp_psi15: 4.0000
+iterations: 64, Sz_psi15: -0.0000
+iterations: 64, E15: 4.0000
+iterations: 64, Fidelity of excited state 15: 1.0000
+iterations: 65, loss: 4.0000
+iterations: 65, NumOp_psi15: 4.0000
+iterations: 65, Sz_psi15: 0.0000
+iterations: 65, E15: 4.0000
+iterations: 65, Fidelity of excited state 15: 1.0000
+iterations: 66, loss: 4.0000
+iterations: 66, NumOp_psi15: 4.0000
+iterations: 66, Sz_psi15: 0.0000
+iterations: 66, E15: 4.0000
+iterations: 66, Fidelity of excited state 15: 1.0000
+iterations: 67, loss: 4.0000
+iterations: 67, NumOp_psi15: 4.0000
+iterations: 67, Sz_psi15: 0.0000
+iterations: 67, E15: 4.0000
+iterations: 67, Fidelity of excited state 15: 1.0000
+iterations: 68, loss: 4.0000
+iterations: 68, NumOp_psi15: 4.0000
+iterations: 68, Sz_psi15: 0.0000
+iterations: 68, E15: 4.0000
+iterations: 68, Fidelity of excited state 15: 1.0000
+iterations: 69, loss: 4.0000
+iterations: 69, NumOp_psi15: 4.0000
+iterations: 69, Sz_psi15: -0.0000
+iterations: 69, E15: 4.0000
+iterations: 69, Fidelity of excited state 15: 1.0000
+iterations: 70, loss: 4.0000
+iterations: 70, NumOp_psi15: 4.0000
+iterations: 70, Sz_psi15: -0.0000
+iterations: 70, E15: 4.0000
+iterations: 70, Fidelity of excited state 15: 1.0000
+iterations: 71, loss: 4.0000
+iterations: 71, NumOp_psi15: 4.0000
+iterations: 71, Sz_psi15: 0.0000
+iterations: 71, E15: 4.0000
+iterations: 71, Fidelity of excited state 15: 1.0000
+iterations: 72, loss: 4.0000
+iterations: 72, NumOp_psi15: 4.0000
+iterations: 72, Sz_psi15: -0.0000
+iterations: 72, E15: 4.0000
+iterations: 72, Fidelity of excited state 15: 1.0000
+iterations: 73, loss: 4.0000
+iterations: 73, NumOp_psi15: 4.0000
+iterations: 73, Sz_psi15: 0.0000
+iterations: 73, E15: 4.0000
+iterations: 73, Fidelity of excited state 15: 1.0000
+iterations: 74, loss: 4.0000
+iterations: 74, NumOp_psi15: 4.0000
+iterations: 74, Sz_psi15: -0.0000
+iterations: 74, E15: 4.0000
+iterations: 74, Fidelity of excited state 15: 1.0000
+iterations: 75, loss: 4.0000
+iterations: 75, NumOp_psi15: 4.0000
+iterations: 75, Sz_psi15: -0.0000
+iterations: 75, E15: 4.0000
+iterations: 75, Fidelity of excited state 15: 1.0000
+iterations: 76, loss: 4.0000
+iterations: 76, NumOp_psi15: 4.0000
+iterations: 76, Sz_psi15: 0.0000
+iterations: 76, E15: 4.0000
+iterations: 76, Fidelity of excited state 15: 1.0000
+iterations: 77, loss: 4.0000
+iterations: 77, NumOp_psi15: 4.0000
+iterations: 77, Sz_psi15: 0.0000
+iterations: 77, E15: 4.0000
+iterations: 77, Fidelity of excited state 15: 1.0000
+iterations: 78, loss: 4.0000
+iterations: 78, NumOp_psi15: 4.0000
+iterations: 78, Sz_psi15: -0.0000
+iterations: 78, E15: 4.0000
+iterations: 78, Fidelity of excited state 15: 1.0000
+iterations: 79, loss: 4.0000
+iterations: 79, NumOp_psi15: 4.0000
+iterations: 79, Sz_psi15: -0.0000
+iterations: 79, E15: 4.0000
+iterations: 79, Fidelity of excited state 15: 1.0000
+iterations: 80, loss: 4.0000
+iterations: 80, NumOp_psi15: 4.0000
+iterations: 80, Sz_psi15: 0.0000
+iterations: 80, E15: 4.0000
+iterations: 80, Fidelity of excited state 15: 1.0000
+iterations: 81, loss: 4.0000
+iterations: 81, NumOp_psi15: 4.0000
+iterations: 81, Sz_psi15: -0.0000
+iterations: 81, E15: 4.0000
+iterations: 81, Fidelity of excited state 15: 1.0000
+iterations: 82, loss: 4.0000
+iterations: 82, NumOp_psi15: 4.0000
+iterations: 82, Sz_psi15: 0.0000
+iterations: 82, E15: 4.0000
+iterations: 82, Fidelity of excited state 15: 1.0000
+iterations: 83, loss: 4.0000
+iterations: 83, NumOp_psi15: 4.0000
+iterations: 83, Sz_psi15: -0.0000
+iterations: 83, E15: 4.0000
+iterations: 83, Fidelity of excited state 15: 1.0000
+iterations: 84, loss: 4.0000
+iterations: 84, NumOp_psi15: 4.0000
+iterations: 84, Sz_psi15: 0.0000
+iterations: 84, E15: 4.0000
+iterations: 84, Fidelity of excited state 15: 1.0000
+iterations: 85, loss: 4.0000
+iterations: 85, NumOp_psi15: 4.0000
+iterations: 85, Sz_psi15: -0.0000
+iterations: 85, E15: 4.0000
+iterations: 85, Fidelity of excited state 15: 1.0000
+iterations: 86, loss: 4.0000
+iterations: 86, NumOp_psi15: 4.0000
+iterations: 86, Sz_psi15: 0.0000
+iterations: 86, E15: 4.0000
+iterations: 86, Fidelity of excited state 15: 1.0000
+iterations: 87, loss: 4.0000
+iterations: 87, NumOp_psi15: 4.0000
+iterations: 87, Sz_psi15: 0.0000
+iterations: 87, E15: 4.0000
+iterations: 87, Fidelity of excited state 15: 1.0000
+iterations: 88, loss: 4.0000
+iterations: 88, NumOp_psi15: 4.0000
+iterations: 88, Sz_psi15: -0.0000
+iterations: 88, E15: 4.0000
+iterations: 88, Fidelity of excited state 15: 1.0000
+iterations: 89, loss: 4.0000
+iterations: 89, NumOp_psi15: 4.0000
+iterations: 89, Sz_psi15: -0.0000
+iterations: 89, E15: 4.0000
+iterations: 89, Fidelity of excited state 15: 1.0000
+iterations: 90, loss: 4.0000
+iterations: 90, NumOp_psi15: 4.0000
+iterations: 90, Sz_psi15: -0.0000
+iterations: 90, E15: 4.0000
+iterations: 90, Fidelity of excited state 15: 1.0000
+iterations: 91, loss: 4.0000
+iterations: 91, NumOp_psi15: 4.0000
+iterations: 91, Sz_psi15: -0.0000
+iterations: 91, E15: 4.0000
+iterations: 91, Fidelity of excited state 15: 1.0000
+iterations: 92, loss: 4.0000
+iterations: 92, NumOp_psi15: 4.0000
+iterations: 92, Sz_psi15: -0.0000
+iterations: 92, E15: 4.0000
+iterations: 92, Fidelity of excited state 15: 1.0000
+iterations: 93, loss: 4.0000
+iterations: 93, NumOp_psi15: 4.0000
+iterations: 93, Sz_psi15: 0.0000
+iterations: 93, E15: 4.0000
+iterations: 93, Fidelity of excited state 15: 1.0000
+iterations: 94, loss: 4.0000
+iterations: 94, NumOp_psi15: 4.0000
+iterations: 94, Sz_psi15: -0.0000
+iterations: 94, E15: 4.0000
+iterations: 94, Fidelity of excited state 15: 1.0000
+iterations: 95, loss: 4.0000
+iterations: 95, NumOp_psi15: 4.0000
+iterations: 95, Sz_psi15: 0.0000
+iterations: 95, E15: 4.0000
+iterations: 95, Fidelity of excited state 15: 1.0000
+iterations: 96, loss: 4.0000
+iterations: 96, NumOp_psi15: 4.0000
+iterations: 96, Sz_psi15: 0.0000
+iterations: 96, E15: 4.0000
+iterations: 96, Fidelity of excited state 15: 1.0000
+iterations: 97, loss: 4.0000
+iterations: 97, NumOp_psi15: 4.0000
+iterations: 97, Sz_psi15: -0.0000
+iterations: 97, E15: 4.0000
+iterations: 97, Fidelity of excited state 15: 1.0000
+iterations: 98, loss: 4.0000
+iterations: 98, NumOp_psi15: 4.0000
+iterations: 98, Sz_psi15: -0.0000
+iterations: 98, E15: 4.0000
+iterations: 98, Fidelity of excited state 15: 1.0000
+iterations: 99, loss: 4.0000
+iterations: 99, NumOp_psi15: 4.0000
+iterations: 99, Sz_psi15: 0.0000
+iterations: 99, E15: 4.0000
+iterations: 99, Fidelity of excited state 15: 1.0000
+iterations: 100, loss: 4.0000
+iterations: 100, NumOp_psi15: 4.0000
+iterations: 100, Sz_psi15: 0.0000
+iterations: 100, E15: 4.0000
+iterations: 100, Fidelity of excited state 15: 1.0000
+iterations: 101, loss: 4.0000
+iterations: 101, NumOp_psi15: 4.0000
+iterations: 101, Sz_psi15: -0.0000
+iterations: 101, E15: 4.0000
+iterations: 101, Fidelity of excited state 15: 1.0000
+iterations: 102, loss: 4.0000
+iterations: 102, NumOp_psi15: 4.0000
+iterations: 102, Sz_psi15: -0.0000
+iterations: 102, E15: 4.0000
+iterations: 102, Fidelity of excited state 15: 1.0000
+iterations: 103, loss: 4.0000
+iterations: 103, NumOp_psi15: 4.0000
+iterations: 103, Sz_psi15: -0.0000
+iterations: 103, E15: 4.0000
+iterations: 103, Fidelity of excited state 15: 1.0000
+iterations: 104, loss: 4.0000
+iterations: 104, NumOp_psi15: 4.0000
+iterations: 104, Sz_psi15: -0.0000
+iterations: 104, E15: 4.0000
+iterations: 104, Fidelity of excited state 15: 1.0000
+iterations: 105, loss: 4.0000
+iterations: 105, NumOp_psi15: 4.0000
+iterations: 105, Sz_psi15: 0.0000
+iterations: 105, E15: 4.0000
+iterations: 105, Fidelity of excited state 15: 1.0000
+iterations: 106, loss: 4.0000
+iterations: 106, NumOp_psi15: 4.0000
+iterations: 106, Sz_psi15: -0.0000
+iterations: 106, E15: 4.0000
+iterations: 106, Fidelity of excited state 15: 1.0000
+iterations: 107, loss: 4.0000
+iterations: 107, NumOp_psi15: 4.0000
+iterations: 107, Sz_psi15: -0.0000
+iterations: 107, E15: 4.0000
+iterations: 107, Fidelity of excited state 15: 1.0000
+iterations: 108, loss: 4.0000
+iterations: 108, NumOp_psi15: 4.0000
+iterations: 108, Sz_psi15: 0.0000
+iterations: 108, E15: 4.0000
+iterations: 108, Fidelity of excited state 15: 1.0000
+iterations: 109, loss: 4.0000
+iterations: 109, NumOp_psi15: 4.0000
+iterations: 109, Sz_psi15: -0.0000
+iterations: 109, E15: 4.0000
+iterations: 109, Fidelity of excited state 15: 1.0000
+iterations: 110, loss: 4.0000
+iterations: 110, NumOp_psi15: 4.0000
+iterations: 110, Sz_psi15: -0.0000
+iterations: 110, E15: 4.0000
+iterations: 110, Fidelity of excited state 15: 1.0000
+iterations: 111, loss: 4.0000
+iterations: 111, NumOp_psi15: 4.0000
+iterations: 111, Sz_psi15: 0.0000
+iterations: 111, E15: 4.0000
+iterations: 111, Fidelity of excited state 15: 1.0000
+iterations: 112, loss: 4.0000
+iterations: 112, NumOp_psi15: 4.0000
+iterations: 112, Sz_psi15: -0.0000
+iterations: 112, E15: 4.0000
+iterations: 112, Fidelity of excited state 15: 1.0000
+iterations: 113, loss: 4.0000
+iterations: 113, NumOp_psi15: 4.0000
+iterations: 113, Sz_psi15: 0.0000
+iterations: 113, E15: 4.0000
+iterations: 113, Fidelity of excited state 15: 1.0000
+iterations: 114, loss: 4.0000
+iterations: 114, NumOp_psi15: 4.0000
+iterations: 114, Sz_psi15: 0.0000
+iterations: 114, E15: 4.0000
+iterations: 114, Fidelity of excited state 15: 1.0000
+iterations: 115, loss: 4.0000
+iterations: 115, NumOp_psi15: 4.0000
+iterations: 115, Sz_psi15: 0.0000
+iterations: 115, E15: 4.0000
+iterations: 115, Fidelity of excited state 15: 1.0000
+iterations: 116, loss: 4.0000
+iterations: 116, NumOp_psi15: 4.0000
+iterations: 116, Sz_psi15: 0.0000
+iterations: 116, E15: 4.0000
+iterations: 116, Fidelity of excited state 15: 1.0000
+iterations: 117, loss: 4.0000
+iterations: 117, NumOp_psi15: 4.0000
+iterations: 117, Sz_psi15: 0.0000
+iterations: 117, E15: 4.0000
+iterations: 117, Fidelity of excited state 15: 1.0000
+iterations: 118, loss: 4.0000
+iterations: 118, NumOp_psi15: 4.0000
+iterations: 118, Sz_psi15: 0.0000
+iterations: 118, E15: 4.0000
+iterations: 118, Fidelity of excited state 15: 1.0000
+iterations: 119, loss: 4.0000
+iterations: 119, NumOp_psi15: 4.0000
+iterations: 119, Sz_psi15: -0.0000
+iterations: 119, E15: 4.0000
+iterations: 119, Fidelity of excited state 15: 1.0000
+iterations: 120, loss: 4.0000
+iterations: 120, NumOp_psi15: 4.0000
+iterations: 120, Sz_psi15: -0.0000
+iterations: 120, E15: 4.0000
+iterations: 120, Fidelity of excited state 15: 1.0000
+iterations: 121, loss: 4.0000
+iterations: 121, NumOp_psi15: 4.0000
+iterations: 121, Sz_psi15: 0.0000
+iterations: 121, E15: 4.0000
+iterations: 121, Fidelity of excited state 15: 1.0000
+iterations: 122, loss: 4.0000
+iterations: 122, NumOp_psi15: 4.0000
+iterations: 122, Sz_psi15: -0.0000
+iterations: 122, E15: 4.0000
+iterations: 122, Fidelity of excited state 15: 1.0000
+iterations: 123, loss: 4.0000
+iterations: 123, NumOp_psi15: 4.0000
+iterations: 123, Sz_psi15: -0.0000
+iterations: 123, E15: 4.0000
+iterations: 123, Fidelity of excited state 15: 1.0000
+iterations: 124, loss: 4.0000
+iterations: 124, NumOp_psi15: 4.0000
+iterations: 124, Sz_psi15: -0.0000
+iterations: 124, E15: 4.0000
+iterations: 124, Fidelity of excited state 15: 1.0000
+iterations: 125, loss: 4.0000
+iterations: 125, NumOp_psi15: 4.0000
+iterations: 125, Sz_psi15: 0.0000
+iterations: 125, E15: 4.0000
+iterations: 125, Fidelity of excited state 15: 1.0000
+iterations: 126, loss: 4.0000
+iterations: 126, NumOp_psi15: 4.0000
+iterations: 126, Sz_psi15: -0.0000
+iterations: 126, E15: 4.0000
+iterations: 126, Fidelity of excited state 15: 1.0000
+iterations: 127, loss: 4.0000
+iterations: 127, NumOp_psi15: 4.0000
+iterations: 127, Sz_psi15: 0.0000
+iterations: 127, E15: 4.0000
+iterations: 127, Fidelity of excited state 15: 1.0000
+iterations: 128, loss: 4.0000
+iterations: 128, NumOp_psi15: 4.0000
+iterations: 128, Sz_psi15: -0.0000
+iterations: 128, E15: 4.0000
+iterations: 128, Fidelity of excited state 15: 1.0000
+iterations: 129, loss: 4.0000
+iterations: 129, NumOp_psi15: 4.0000
+iterations: 129, Sz_psi15: 0.0000
+iterations: 129, E15: 4.0000
+iterations: 129, Fidelity of excited state 15: 1.0000
+iterations: 130, loss: 4.0000
+iterations: 130, NumOp_psi15: 4.0000
+iterations: 130, Sz_psi15: -0.0000
+iterations: 130, E15: 4.0000
+iterations: 130, Fidelity of excited state 15: 1.0000
+iterations: 131, loss: 4.0000
+iterations: 131, NumOp_psi15: 4.0000
+iterations: 131, Sz_psi15: -0.0000
+iterations: 131, E15: 4.0000
+iterations: 131, Fidelity of excited state 15: 1.0000
+iterations: 132, loss: 4.0000
+iterations: 132, NumOp_psi15: 4.0000
+iterations: 132, Sz_psi15: 0.0000
+iterations: 132, E15: 4.0000
+iterations: 132, Fidelity of excited state 15: 1.0000
+iterations: 133, loss: 4.0000
+iterations: 133, NumOp_psi15: 4.0000
+iterations: 133, Sz_psi15: 0.0000
+iterations: 133, E15: 4.0000
+iterations: 133, Fidelity of excited state 15: 1.0000
+iterations: 134, loss: 4.0000
+iterations: 134, NumOp_psi15: 4.0000
+iterations: 134, Sz_psi15: 0.0000
+iterations: 134, E15: 4.0000
+iterations: 134, Fidelity of excited state 15: 1.0000
+iterations: 135, loss: 4.0000
+iterations: 135, NumOp_psi15: 4.0000
+iterations: 135, Sz_psi15: 0.0000
+iterations: 135, E15: 4.0000
+iterations: 135, Fidelity of excited state 15: 1.0000
+iterations: 136, loss: 4.0000
+iterations: 136, NumOp_psi15: 4.0000
+iterations: 136, Sz_psi15: 0.0000
+iterations: 136, E15: 4.0000
+iterations: 136, Fidelity of excited state 15: 1.0000
+iterations: 137, loss: 4.0000
+iterations: 137, NumOp_psi15: 4.0000
+iterations: 137, Sz_psi15: 0.0000
+iterations: 137, E15: 4.0000
+iterations: 137, Fidelity of excited state 15: 1.0000
+iterations: 138, loss: 4.0000
+iterations: 138, NumOp_psi15: 4.0000
+iterations: 138, Sz_psi15: 0.0000
+iterations: 138, E15: 4.0000
+iterations: 138, Fidelity of excited state 15: 1.0000
+iterations: 139, loss: 4.0000
+iterations: 139, NumOp_psi15: 4.0000
+iterations: 139, Sz_psi15: -0.0000
+iterations: 139, E15: 4.0000
+iterations: 139, Fidelity of excited state 15: 1.0000
+iterations: 140, loss: 4.0000
+iterations: 140, NumOp_psi15: 4.0000
+iterations: 140, Sz_psi15: 0.0000
+iterations: 140, E15: 4.0000
+iterations: 140, Fidelity of excited state 15: 1.0000
+iterations: 141, loss: 4.0000
+iterations: 141, NumOp_psi15: 4.0000
+iterations: 141, Sz_psi15: 0.0000
+iterations: 141, E15: 4.0000
+iterations: 141, Fidelity of excited state 15: 1.0000
+iterations: 142, loss: 4.0000
+iterations: 142, NumOp_psi15: 4.0000
+iterations: 142, Sz_psi15: 0.0000
+iterations: 142, E15: 4.0000
+iterations: 142, Fidelity of excited state 15: 1.0000
+iterations: 143, loss: 4.0000
+iterations: 143, NumOp_psi15: 4.0000
+iterations: 143, Sz_psi15: 0.0000
+iterations: 143, E15: 4.0000
+iterations: 143, Fidelity of excited state 15: 1.0000
+iterations: 144, loss: 4.0000
+iterations: 144, NumOp_psi15: 4.0000
+iterations: 144, Sz_psi15: -0.0000
+iterations: 144, E15: 4.0000
+iterations: 144, Fidelity of excited state 15: 1.0000
+iterations: 145, loss: 4.0000
+iterations: 145, NumOp_psi15: 4.0000
+iterations: 145, Sz_psi15: 0.0000
+iterations: 145, E15: 4.0000
+iterations: 145, Fidelity of excited state 15: 1.0000
+iterations: 146, loss: 4.0000
+iterations: 146, NumOp_psi15: 4.0000
+iterations: 146, Sz_psi15: 0.0000
+iterations: 146, E15: 4.0000
+iterations: 146, Fidelity of excited state 15: 1.0000
+iterations: 147, loss: 4.0000
+iterations: 147, NumOp_psi15: 4.0000
+iterations: 147, Sz_psi15: 0.0000
+iterations: 147, E15: 4.0000
+iterations: 147, Fidelity of excited state 15: 1.0000
+iterations: 148, loss: 4.0000
+iterations: 148, NumOp_psi15: 4.0000
+iterations: 148, Sz_psi15: -0.0000
+iterations: 148, E15: 4.0000
+iterations: 148, Fidelity of excited state 15: 1.0000
+iterations: 149, loss: 4.0000
+iterations: 149, NumOp_psi15: 4.0000
+iterations: 149, Sz_psi15: 0.0000
+iterations: 149, E15: 4.0000
+iterations: 149, Fidelity of excited state 15: 1.0000
+iterations: 150, loss: 4.0000
+iterations: 150, NumOp_psi15: 4.0000
+iterations: 150, Sz_psi15: 0.0000
+iterations: 150, E15: 4.0000
+iterations: 150, Fidelity of excited state 15: 1.0000
+iterations: 151, loss: 4.0000
+iterations: 151, NumOp_psi15: 4.0000
+iterations: 151, Sz_psi15: -0.0000
+iterations: 151, E15: 4.0000
+iterations: 151, Fidelity of excited state 15: 1.0000
+iterations: 152, loss: 4.0000
+iterations: 152, NumOp_psi15: 4.0000
+iterations: 152, Sz_psi15: -0.0000
+iterations: 152, E15: 4.0000
+iterations: 152, Fidelity of excited state 15: 1.0000
+iterations: 153, loss: 4.0000
+iterations: 153, NumOp_psi15: 4.0000
+iterations: 153, Sz_psi15: -0.0000
+iterations: 153, E15: 4.0000
+iterations: 153, Fidelity of excited state 15: 1.0000
+iterations: 154, loss: 4.0000
+iterations: 154, NumOp_psi15: 4.0000
+iterations: 154, Sz_psi15: -0.0000
+iterations: 154, E15: 4.0000
+iterations: 154, Fidelity of excited state 15: 1.0000
+iterations: 155, loss: 4.0000
+iterations: 155, NumOp_psi15: 4.0000
+iterations: 155, Sz_psi15: 0.0000
+iterations: 155, E15: 4.0000
+iterations: 155, Fidelity of excited state 15: 1.0000
+iterations: 156, loss: 4.0000
+iterations: 156, NumOp_psi15: 4.0000
+iterations: 156, Sz_psi15: -0.0000
+iterations: 156, E15: 4.0000
+iterations: 156, Fidelity of excited state 15: 1.0000
+iterations: 157, loss: 4.0000
+iterations: 157, NumOp_psi15: 4.0000
+iterations: 157, Sz_psi15: 0.0000
+iterations: 157, E15: 4.0000
+iterations: 157, Fidelity of excited state 15: 1.0000
+iterations: 158, loss: 4.0000
+iterations: 158, NumOp_psi15: 4.0000
+iterations: 158, Sz_psi15: 0.0000
+iterations: 158, E15: 4.0000
+iterations: 158, Fidelity of excited state 15: 1.0000
+iterations: 159, loss: 4.0000
+iterations: 159, NumOp_psi15: 4.0000
+iterations: 159, Sz_psi15: -0.0000
+iterations: 159, E15: 4.0000
+iterations: 159, Fidelity of excited state 15: 1.0000
+iterations: 160, loss: 4.0000
+iterations: 160, NumOp_psi15: 4.0000
+iterations: 160, Sz_psi15: 0.0000
+iterations: 160, E15: 4.0000
+iterations: 160, Fidelity of excited state 15: 1.0000
+iterations: 161, loss: 4.0000
+iterations: 161, NumOp_psi15: 4.0000
+iterations: 161, Sz_psi15: 0.0000
+iterations: 161, E15: 4.0000
+iterations: 161, Fidelity of excited state 15: 1.0000
+iterations: 162, loss: 4.0000
+iterations: 162, NumOp_psi15: 4.0000
+iterations: 162, Sz_psi15: 0.0000
+iterations: 162, E15: 4.0000
+iterations: 162, Fidelity of excited state 15: 1.0000
+iterations: 163, loss: 4.0000
+iterations: 163, NumOp_psi15: 4.0000
+iterations: 163, Sz_psi15: 0.0000
+iterations: 163, E15: 4.0000
+iterations: 163, Fidelity of excited state 15: 1.0000
+iterations: 164, loss: 4.0000
+iterations: 164, NumOp_psi15: 4.0000
+iterations: 164, Sz_psi15: -0.0000
+iterations: 164, E15: 4.0000
+iterations: 164, Fidelity of excited state 15: 1.0000
+iterations: 165, loss: 4.0000
+iterations: 165, NumOp_psi15: 4.0000
+iterations: 165, Sz_psi15: -0.0000
+iterations: 165, E15: 4.0000
+iterations: 165, Fidelity of excited state 15: 1.0000
+iterations: 166, loss: 4.0000
+iterations: 166, NumOp_psi15: 4.0000
+iterations: 166, Sz_psi15: -0.0000
+iterations: 166, E15: 4.0000
+iterations: 166, Fidelity of excited state 15: 1.0000
+iterations: 167, loss: 4.0000
+iterations: 167, NumOp_psi15: 4.0000
+iterations: 167, Sz_psi15: 0.0000
+iterations: 167, E15: 4.0000
+iterations: 167, Fidelity of excited state 15: 1.0000
+iterations: 168, loss: 4.0000
+iterations: 168, NumOp_psi15: 4.0000
+iterations: 168, Sz_psi15: -0.0000
+iterations: 168, E15: 4.0000
+iterations: 168, Fidelity of excited state 15: 1.0000
+iterations: 169, loss: 4.0000
+iterations: 169, NumOp_psi15: 4.0000
+iterations: 169, Sz_psi15: -0.0000
+iterations: 169, E15: 4.0000
+iterations: 169, Fidelity of excited state 15: 1.0000
+iterations: 170, loss: 4.0000
+iterations: 170, NumOp_psi15: 4.0000
+iterations: 170, Sz_psi15: 0.0000
+iterations: 170, E15: 4.0000
+iterations: 170, Fidelity of excited state 15: 1.0000
+iterations: 171, loss: 4.0000
+iterations: 171, NumOp_psi15: 4.0000
+iterations: 171, Sz_psi15: -0.0000
+iterations: 171, E15: 4.0000
+iterations: 171, Fidelity of excited state 15: 1.0000
+iterations: 172, loss: 4.0000
+iterations: 172, NumOp_psi15: 4.0000
+iterations: 172, Sz_psi15: 0.0000
+iterations: 172, E15: 4.0000
+iterations: 172, Fidelity of excited state 15: 1.0000
+iterations: 173, loss: 4.0000
+iterations: 173, NumOp_psi15: 4.0000
+iterations: 173, Sz_psi15: -0.0000
+iterations: 173, E15: 4.0000
+iterations: 173, Fidelity of excited state 15: 1.0000
+iterations: 174, loss: 4.0000
+iterations: 174, NumOp_psi15: 4.0000
+iterations: 174, Sz_psi15: 0.0000
+iterations: 174, E15: 4.0000
+iterations: 174, Fidelity of excited state 15: 1.0000
+iterations: 175, loss: 4.0000
+iterations: 175, NumOp_psi15: 4.0000
+iterations: 175, Sz_psi15: -0.0000
+iterations: 175, E15: 4.0000
+iterations: 175, Fidelity of excited state 15: 1.0000
+iterations: 176, loss: 4.0000
+iterations: 176, NumOp_psi15: 4.0000
+iterations: 176, Sz_psi15: -0.0000
+iterations: 176, E15: 4.0000
+iterations: 176, Fidelity of excited state 15: 1.0000
+iterations: 177, loss: 4.0000
+iterations: 177, NumOp_psi15: 4.0000
+iterations: 177, Sz_psi15: -0.0000
+iterations: 177, E15: 4.0000
+iterations: 177, Fidelity of excited state 15: 1.0000
+iterations: 178, loss: 4.0000
+iterations: 178, NumOp_psi15: 4.0000
+iterations: 178, Sz_psi15: -0.0000
+iterations: 178, E15: 4.0000
+iterations: 178, Fidelity of excited state 15: 1.0000
+iterations: 179, loss: 4.0000
+iterations: 179, NumOp_psi15: 4.0000
+iterations: 179, Sz_psi15: -0.0000
+iterations: 179, E15: 4.0000
+iterations: 179, Fidelity of excited state 15: 1.0000
+iterations: 180, loss: 4.0000
+iterations: 180, NumOp_psi15: 4.0000
+iterations: 180, Sz_psi15: -0.0000
+iterations: 180, E15: 4.0000
+iterations: 180, Fidelity of excited state 15: 1.0000
+iterations: 181, loss: 4.0000
+iterations: 181, NumOp_psi15: 4.0000
+iterations: 181, Sz_psi15: -0.0000
+iterations: 181, E15: 4.0000
+iterations: 181, Fidelity of excited state 15: 1.0000
+iterations: 182, loss: 4.0000
+iterations: 182, NumOp_psi15: 4.0000
+iterations: 182, Sz_psi15: -0.0000
+iterations: 182, E15: 4.0000
+iterations: 182, Fidelity of excited state 15: 1.0000
+iterations: 183, loss: 4.0000
+iterations: 183, NumOp_psi15: 4.0000
+iterations: 183, Sz_psi15: -0.0000
+iterations: 183, E15: 4.0000
+iterations: 183, Fidelity of excited state 15: 1.0000
+iterations: 184, loss: 4.0000
+iterations: 184, NumOp_psi15: 4.0000
+iterations: 184, Sz_psi15: -0.0000
+iterations: 184, E15: 4.0000
+iterations: 184, Fidelity of excited state 15: 1.0000
+iterations: 185, loss: 4.0000
+iterations: 185, NumOp_psi15: 4.0000
+iterations: 185, Sz_psi15: 0.0000
+iterations: 185, E15: 4.0000
+iterations: 185, Fidelity of excited state 15: 1.0000
+iterations: 186, loss: 4.0000
+iterations: 186, NumOp_psi15: 4.0000
+iterations: 186, Sz_psi15: -0.0000
+iterations: 186, E15: 4.0000
+iterations: 186, Fidelity of excited state 15: 1.0000
+iterations: 187, loss: 4.0000
+iterations: 187, NumOp_psi15: 4.0000
+iterations: 187, Sz_psi15: -0.0000
+iterations: 187, E15: 4.0000
+iterations: 187, Fidelity of excited state 15: 1.0000
+iterations: 188, loss: 4.0000
+iterations: 188, NumOp_psi15: 4.0000
+iterations: 188, Sz_psi15: -0.0000
+iterations: 188, E15: 4.0000
+iterations: 188, Fidelity of excited state 15: 1.0000
+iterations: 189, loss: 4.0000
+iterations: 189, NumOp_psi15: 4.0000
+iterations: 189, Sz_psi15: -0.0000
+iterations: 189, E15: 4.0000
+iterations: 189, Fidelity of excited state 15: 1.0000
+iterations: 190, loss: 4.0000
+iterations: 190, NumOp_psi15: 4.0000
+iterations: 190, Sz_psi15: 0.0000
+iterations: 190, E15: 4.0000
+iterations: 190, Fidelity of excited state 15: 1.0000
+iterations: 191, loss: 4.0000
+iterations: 191, NumOp_psi15: 4.0000
+iterations: 191, Sz_psi15: -0.0000
+iterations: 191, E15: 4.0000
+iterations: 191, Fidelity of excited state 15: 1.0000
+iterations: 192, loss: 4.0000
+iterations: 192, NumOp_psi15: 4.0000
+iterations: 192, Sz_psi15: -0.0000
+iterations: 192, E15: 4.0000
+iterations: 192, Fidelity of excited state 15: 1.0000
+iterations: 193, loss: 4.0000
+iterations: 193, NumOp_psi15: 4.0000
+iterations: 193, Sz_psi15: 0.0000
+iterations: 193, E15: 4.0000
+iterations: 193, Fidelity of excited state 15: 1.0000
+iterations: 194, loss: 4.0000
+iterations: 194, NumOp_psi15: 4.0000
+iterations: 194, Sz_psi15: 0.0000
+iterations: 194, E15: 4.0000
+iterations: 194, Fidelity of excited state 15: 1.0000
+iterations: 195, loss: 4.0000
+iterations: 195, NumOp_psi15: 4.0000
+iterations: 195, Sz_psi15: -0.0000
+iterations: 195, E15: 4.0000
+iterations: 195, Fidelity of excited state 15: 1.0000
+iterations: 196, loss: 4.0000
+iterations: 196, NumOp_psi15: 4.0000
+iterations: 196, Sz_psi15: 0.0000
+iterations: 196, E15: 4.0000
+iterations: 196, Fidelity of excited state 15: 1.0000
+iterations: 197, loss: 4.0000
+iterations: 197, NumOp_psi15: 4.0000
+iterations: 197, Sz_psi15: -0.0000
+iterations: 197, E15: 4.0000
+iterations: 197, Fidelity of excited state 15: 1.0000
+iterations: 198, loss: 4.0000
+iterations: 198, NumOp_psi15: 4.0000
+iterations: 198, Sz_psi15: -0.0000
+iterations: 198, E15: 4.0000
+iterations: 198, Fidelity of excited state 15: 1.0000
+iterations: 199, loss: 4.0000
+iterations: 199, NumOp_psi15: 4.0000
+iterations: 199, Sz_psi15: -0.0000
+iterations: 199, E15: 4.0000
+iterations: 199, Fidelity of excited state 15: 1.0000
+iterations: 200, loss: 4.0000
+iterations: 200, NumOp_psi15: 4.0000
+iterations: 200, Sz_psi15: -0.0000
+iterations: 200, E15: 4.0000
+iterations: 200, Fidelity of excited state 15: 1.0000
+iterations: 201, loss: 4.0000
+iterations: 201, NumOp_psi15: 4.0000
+iterations: 201, Sz_psi15: 0.0000
+iterations: 201, E15: 4.0000
+iterations: 201, Fidelity of excited state 15: 1.0000
+iterations: 202, loss: 4.0000
+iterations: 202, NumOp_psi15: 4.0000
+iterations: 202, Sz_psi15: -0.0000
+iterations: 202, E15: 4.0000
+iterations: 202, Fidelity of excited state 15: 1.0000
+iterations: 203, loss: 4.0000
+iterations: 203, NumOp_psi15: 4.0000
+iterations: 203, Sz_psi15: -0.0000
+iterations: 203, E15: 4.0000
+iterations: 203, Fidelity of excited state 15: 1.0000
+iterations: 204, loss: 4.0000
+iterations: 204, NumOp_psi15: 4.0000
+iterations: 204, Sz_psi15: 0.0000
+iterations: 204, E15: 4.0000
+iterations: 204, Fidelity of excited state 15: 1.0000
+iterations: 205, loss: 4.0000
+iterations: 205, NumOp_psi15: 4.0000
+iterations: 205, Sz_psi15: 0.0000
+iterations: 205, E15: 4.0000
+iterations: 205, Fidelity of excited state 15: 1.0000
+iterations: 206, loss: 4.0000
+iterations: 206, NumOp_psi15: 4.0000
+iterations: 206, Sz_psi15: -0.0000
+iterations: 206, E15: 4.0000
+iterations: 206, Fidelity of excited state 15: 1.0000
+iterations: 207, loss: 4.0000
+iterations: 207, NumOp_psi15: 4.0000
+iterations: 207, Sz_psi15: 0.0000
+iterations: 207, E15: 4.0000
+iterations: 207, Fidelity of excited state 15: 1.0000
+iterations: 208, loss: 4.0000
+iterations: 208, NumOp_psi15: 4.0000
+iterations: 208, Sz_psi15: 0.0000
+iterations: 208, E15: 4.0000
+iterations: 208, Fidelity of excited state 15: 1.0000
+iterations: 209, loss: 4.0000
+iterations: 209, NumOp_psi15: 4.0000
+iterations: 209, Sz_psi15: 0.0000
+iterations: 209, E15: 4.0000
+iterations: 209, Fidelity of excited state 15: 1.0000
+iterations: 210, loss: 4.0000
+iterations: 210, NumOp_psi15: 4.0000
+iterations: 210, Sz_psi15: -0.0000
+iterations: 210, E15: 4.0000
+iterations: 210, Fidelity of excited state 15: 1.0000
+iterations: 211, loss: 4.0000
+iterations: 211, NumOp_psi15: 4.0000
+iterations: 211, Sz_psi15: -0.0000
+iterations: 211, E15: 4.0000
+iterations: 211, Fidelity of excited state 15: 1.0000
+iterations: 212, loss: 4.0000
+iterations: 212, NumOp_psi15: 4.0000
+iterations: 212, Sz_psi15: 0.0000
+iterations: 212, E15: 4.0000
+iterations: 212, Fidelity of excited state 15: 1.0000
+iterations: 213, loss: 4.0000
+iterations: 213, NumOp_psi15: 4.0000
+iterations: 213, Sz_psi15: 0.0000
+iterations: 213, E15: 4.0000
+iterations: 213, Fidelity of excited state 15: 1.0000
+iterations: 214, loss: 4.0000
+iterations: 214, NumOp_psi15: 4.0000
+iterations: 214, Sz_psi15: 0.0000
+iterations: 214, E15: 4.0000
+iterations: 214, Fidelity of excited state 15: 1.0000
+iterations: 215, loss: 4.0000
+iterations: 215, NumOp_psi15: 4.0000
+iterations: 215, Sz_psi15: 0.0000
+iterations: 215, E15: 4.0000
+iterations: 215, Fidelity of excited state 15: 1.0000
+iterations: 216, loss: 4.0000
+iterations: 216, NumOp_psi15: 4.0000
+iterations: 216, Sz_psi15: 0.0000
+iterations: 216, E15: 4.0000
+iterations: 216, Fidelity of excited state 15: 1.0000
+iterations: 217, loss: 4.0000
+iterations: 217, NumOp_psi15: 4.0000
+iterations: 217, Sz_psi15: 0.0000
+iterations: 217, E15: 4.0000
+iterations: 217, Fidelity of excited state 15: 1.0000
+iterations: 218, loss: 4.0000
+iterations: 218, NumOp_psi15: 4.0000
+iterations: 218, Sz_psi15: 0.0000
+iterations: 218, E15: 4.0000
+iterations: 218, Fidelity of excited state 15: 1.0000
+iterations: 219, loss: 4.0000
+iterations: 219, NumOp_psi15: 4.0000
+iterations: 219, Sz_psi15: -0.0000
+iterations: 219, E15: 4.0000
+iterations: 219, Fidelity of excited state 15: 1.0000
+iterations: 220, loss: 4.0000
+iterations: 220, NumOp_psi15: 4.0000
+iterations: 220, Sz_psi15: 0.0000
+iterations: 220, E15: 4.0000
+iterations: 220, Fidelity of excited state 15: 1.0000
+iterations: 221, loss: 4.0000
+iterations: 221, NumOp_psi15: 4.0000
+iterations: 221, Sz_psi15: 0.0000
+iterations: 221, E15: 4.0000
+iterations: 221, Fidelity of excited state 15: 1.0000
+iterations: 222, loss: 4.0000
+iterations: 222, NumOp_psi15: 4.0000
+iterations: 222, Sz_psi15: 0.0000
+iterations: 222, E15: 4.0000
+iterations: 222, Fidelity of excited state 15: 1.0000
+iterations: 223, loss: 4.0000
+iterations: 223, NumOp_psi15: 4.0000
+iterations: 223, Sz_psi15: -0.0000
+iterations: 223, E15: 4.0000
+iterations: 223, Fidelity of excited state 15: 1.0000
+iterations: 224, loss: 4.0000
+iterations: 224, NumOp_psi15: 4.0000
+iterations: 224, Sz_psi15: -0.0000
+iterations: 224, E15: 4.0000
+iterations: 224, Fidelity of excited state 15: 1.0000
+iterations: 225, loss: 4.0000
+iterations: 225, NumOp_psi15: 4.0000
+iterations: 225, Sz_psi15: -0.0000
+iterations: 225, E15: 4.0000
+iterations: 225, Fidelity of excited state 15: 1.0000
+iterations: 226, loss: 4.0000
+iterations: 226, NumOp_psi15: 4.0000
+iterations: 226, Sz_psi15: -0.0000
+iterations: 226, E15: 4.0000
+iterations: 226, Fidelity of excited state 15: 1.0000
+iterations: 227, loss: 4.0000
+iterations: 227, NumOp_psi15: 4.0000
+iterations: 227, Sz_psi15: -0.0000
+iterations: 227, E15: 4.0000
+iterations: 227, Fidelity of excited state 15: 1.0000
+iterations: 228, loss: 4.0000
+iterations: 228, NumOp_psi15: 4.0000
+iterations: 228, Sz_psi15: -0.0000
+iterations: 228, E15: 4.0000
+iterations: 228, Fidelity of excited state 15: 1.0000
+iterations: 229, loss: 4.0000
+iterations: 229, NumOp_psi15: 4.0000
+iterations: 229, Sz_psi15: 0.0000
+iterations: 229, E15: 4.0000
+iterations: 229, Fidelity of excited state 15: 1.0000
+iterations: 230, loss: 4.0000
+iterations: 230, NumOp_psi15: 4.0000
+iterations: 230, Sz_psi15: 0.0000
+iterations: 230, E15: 4.0000
+iterations: 230, Fidelity of excited state 15: 1.0000
+iterations: 231, loss: 4.0000
+iterations: 231, NumOp_psi15: 4.0000
+iterations: 231, Sz_psi15: 0.0000
+iterations: 231, E15: 4.0000
+iterations: 231, Fidelity of excited state 15: 1.0000
+iterations: 232, loss: 4.0000
+iterations: 232, NumOp_psi15: 4.0000
+iterations: 232, Sz_psi15: -0.0000
+iterations: 232, E15: 4.0000
+iterations: 232, Fidelity of excited state 15: 1.0000
+iterations: 233, loss: 4.0000
+iterations: 233, NumOp_psi15: 4.0000
+iterations: 233, Sz_psi15: -0.0000
+iterations: 233, E15: 4.0000
+iterations: 233, Fidelity of excited state 15: 1.0000
+iterations: 234, loss: 4.0000
+iterations: 234, NumOp_psi15: 4.0000
+iterations: 234, Sz_psi15: 0.0000
+iterations: 234, E15: 4.0000
+iterations: 234, Fidelity of excited state 15: 1.0000
+iterations: 235, loss: 4.0000
+iterations: 235, NumOp_psi15: 4.0000
+iterations: 235, Sz_psi15: 0.0000
+iterations: 235, E15: 4.0000
+iterations: 235, Fidelity of excited state 15: 1.0000
+iterations: 236, loss: 4.0000
+iterations: 236, NumOp_psi15: 4.0000
+iterations: 236, Sz_psi15: -0.0000
+iterations: 236, E15: 4.0000
+iterations: 236, Fidelity of excited state 15: 1.0000
+iterations: 237, loss: 4.0000
+iterations: 237, NumOp_psi15: 4.0000
+iterations: 237, Sz_psi15: 0.0000
+iterations: 237, E15: 4.0000
+iterations: 237, Fidelity of excited state 15: 1.0000
+iterations: 238, loss: 4.0000
+iterations: 238, NumOp_psi15: 4.0000
+iterations: 238, Sz_psi15: 0.0000
+iterations: 238, E15: 4.0000
+iterations: 238, Fidelity of excited state 15: 1.0000
+iterations: 239, loss: 4.0000
+iterations: 239, NumOp_psi15: 4.0000
+iterations: 239, Sz_psi15: -0.0000
+iterations: 239, E15: 4.0000
+iterations: 239, Fidelity of excited state 15: 1.0000
+iterations: 240, loss: 4.0000
+iterations: 240, NumOp_psi15: 4.0000
+iterations: 240, Sz_psi15: -0.0000
+iterations: 240, E15: 4.0000
+iterations: 240, Fidelity of excited state 15: 1.0000
+iterations: 241, loss: 4.0000
+iterations: 241, NumOp_psi15: 4.0000
+iterations: 241, Sz_psi15: 0.0000
+iterations: 241, E15: 4.0000
+iterations: 241, Fidelity of excited state 15: 1.0000
+iterations: 242, loss: 4.0000
+iterations: 242, NumOp_psi15: 4.0000
+iterations: 242, Sz_psi15: -0.0000
+iterations: 242, E15: 4.0000
+iterations: 242, Fidelity of excited state 15: 1.0000
+iterations: 243, loss: 4.0000
+iterations: 243, NumOp_psi15: 4.0000
+iterations: 243, Sz_psi15: 0.0000
+iterations: 243, E15: 4.0000
+iterations: 243, Fidelity of excited state 15: 1.0000
+iterations: 244, loss: 4.0000
+iterations: 244, NumOp_psi15: 4.0000
+iterations: 244, Sz_psi15: -0.0000
+iterations: 244, E15: 4.0000
+iterations: 244, Fidelity of excited state 15: 1.0000
+iterations: 245, loss: 4.0000
+iterations: 245, NumOp_psi15: 4.0000
+iterations: 245, Sz_psi15: 0.0000
+iterations: 245, E15: 4.0000
+iterations: 245, Fidelity of excited state 15: 1.0000
+iterations: 246, loss: 4.0000
+iterations: 246, NumOp_psi15: 4.0000
+iterations: 246, Sz_psi15: -0.0000
+iterations: 246, E15: 4.0000
+iterations: 246, Fidelity of excited state 15: 1.0000
+iterations: 247, loss: 4.0000
+iterations: 247, NumOp_psi15: 4.0000
+iterations: 247, Sz_psi15: 0.0000
+iterations: 247, E15: 4.0000
+iterations: 247, Fidelity of excited state 15: 1.0000
+iterations: 248, loss: 4.0000
+iterations: 248, NumOp_psi15: 4.0000
+iterations: 248, Sz_psi15: -0.0000
+iterations: 248, E15: 4.0000
+iterations: 248, Fidelity of excited state 15: 1.0000
+iterations: 249, loss: 4.0000
+iterations: 249, NumOp_psi15: 4.0000
+iterations: 249, Sz_psi15: -0.0000
+iterations: 249, E15: 4.0000
+iterations: 249, Fidelity of excited state 15: 1.0000
+iterations: 250, loss: 4.0000
+iterations: 250, NumOp_psi15: 4.0000
+iterations: 250, Sz_psi15: 0.0000
+iterations: 250, E15: 4.0000
+iterations: 250, Fidelity of excited state 15: 1.0000
+iterations: 251, loss: 4.0000
+iterations: 251, NumOp_psi15: 4.0000
+iterations: 251, Sz_psi15: 0.0000
+iterations: 251, E15: 4.0000
+iterations: 251, Fidelity of excited state 15: 1.0000
+iterations: 252, loss: 4.0000
+iterations: 252, NumOp_psi15: 4.0000
+iterations: 252, Sz_psi15: -0.0000
+iterations: 252, E15: 4.0000
+iterations: 252, Fidelity of excited state 15: 1.0000
+iterations: 253, loss: 4.0000
+iterations: 253, NumOp_psi15: 4.0000
+iterations: 253, Sz_psi15: -0.0000
+iterations: 253, E15: 4.0000
+iterations: 253, Fidelity of excited state 15: 1.0000
+iterations: 254, loss: 4.0000
+iterations: 254, NumOp_psi15: 4.0000
+iterations: 254, Sz_psi15: -0.0000
+iterations: 254, E15: 4.0000
+iterations: 254, Fidelity of excited state 15: 1.0000
+iterations: 255, loss: 4.0000
+iterations: 255, NumOp_psi15: 4.0000
+iterations: 255, Sz_psi15: -0.0000
+iterations: 255, E15: 4.0000
+iterations: 255, Fidelity of excited state 15: 1.0000
+iterations: 256, loss: 4.0000
+iterations: 256, NumOp_psi15: 4.0000
+iterations: 256, Sz_psi15: 0.0000
+iterations: 256, E15: 4.0000
+iterations: 256, Fidelity of excited state 15: 1.0000
+iterations: 257, loss: 4.0000
+iterations: 257, NumOp_psi15: 4.0000
+iterations: 257, Sz_psi15: 0.0000
+iterations: 257, E15: 4.0000
+iterations: 257, Fidelity of excited state 15: 1.0000
+iterations: 258, loss: 4.0000
+iterations: 258, NumOp_psi15: 4.0000
+iterations: 258, Sz_psi15: 0.0000
+iterations: 258, E15: 4.0000
+iterations: 258, Fidelity of excited state 15: 1.0000
+iterations: 259, loss: 4.0000
+iterations: 259, NumOp_psi15: 4.0000
+iterations: 259, Sz_psi15: -0.0000
+iterations: 259, E15: 4.0000
+iterations: 259, Fidelity of excited state 15: 1.0000
+iterations: 260, loss: 4.0000
+iterations: 260, NumOp_psi15: 4.0000
+iterations: 260, Sz_psi15: -0.0000
+iterations: 260, E15: 4.0000
+iterations: 260, Fidelity of excited state 15: 1.0000
+iterations: 261, loss: 4.0000
+iterations: 261, NumOp_psi15: 4.0000
+iterations: 261, Sz_psi15: 0.0000
+iterations: 261, E15: 4.0000
+iterations: 261, Fidelity of excited state 15: 1.0000
+iterations: 262, loss: 4.0000
+iterations: 262, NumOp_psi15: 4.0000
+iterations: 262, Sz_psi15: 0.0000
+iterations: 262, E15: 4.0000
+iterations: 262, Fidelity of excited state 15: 1.0000
+iterations: 263, loss: 4.0000
+iterations: 263, NumOp_psi15: 4.0000
+iterations: 263, Sz_psi15: -0.0000
+iterations: 263, E15: 4.0000
+iterations: 263, Fidelity of excited state 15: 1.0000
+iterations: 264, loss: 4.0000
+iterations: 264, NumOp_psi15: 4.0000
+iterations: 264, Sz_psi15: -0.0000
+iterations: 264, E15: 4.0000
+iterations: 264, Fidelity of excited state 15: 1.0000
+iterations: 265, loss: 4.0000
+iterations: 265, NumOp_psi15: 4.0000
+iterations: 265, Sz_psi15: -0.0000
+iterations: 265, E15: 4.0000
+iterations: 265, Fidelity of excited state 15: 1.0000
+iterations: 266, loss: 4.0000
+iterations: 266, NumOp_psi15: 4.0000
+iterations: 266, Sz_psi15: 0.0000
+iterations: 266, E15: 4.0000
+iterations: 266, Fidelity of excited state 15: 1.0000
+iterations: 267, loss: 4.0000
+iterations: 267, NumOp_psi15: 4.0000
+iterations: 267, Sz_psi15: 0.0000
+iterations: 267, E15: 4.0000
+iterations: 267, Fidelity of excited state 15: 1.0000
+iterations: 268, loss: 4.0000
+iterations: 268, NumOp_psi15: 4.0000
+iterations: 268, Sz_psi15: -0.0000
+iterations: 268, E15: 4.0000
+iterations: 268, Fidelity of excited state 15: 1.0000
+iterations: 269, loss: 4.0000
+iterations: 269, NumOp_psi15: 4.0000
+iterations: 269, Sz_psi15: -0.0000
+iterations: 269, E15: 4.0000
+iterations: 269, Fidelity of excited state 15: 1.0000
+iterations: 270, loss: 4.0000
+iterations: 270, NumOp_psi15: 4.0000
+iterations: 270, Sz_psi15: -0.0000
+iterations: 270, E15: 4.0000
+iterations: 270, Fidelity of excited state 15: 1.0000
+iterations: 271, loss: 4.0000
+iterations: 271, NumOp_psi15: 4.0000
+iterations: 271, Sz_psi15: -0.0000
+iterations: 271, E15: 4.0000
+iterations: 271, Fidelity of excited state 15: 1.0000
+iterations: 272, loss: 4.0000
+iterations: 272, NumOp_psi15: 4.0000
+iterations: 272, Sz_psi15: -0.0000
+iterations: 272, E15: 4.0000
+iterations: 272, Fidelity of excited state 15: 1.0000
+iterations: 273, loss: 4.0000
+iterations: 273, NumOp_psi15: 4.0000
+iterations: 273, Sz_psi15: 0.0000
+iterations: 273, E15: 4.0000
+iterations: 273, Fidelity of excited state 15: 1.0000
+iterations: 274, loss: 4.0000
+iterations: 274, NumOp_psi15: 4.0000
+iterations: 274, Sz_psi15: 0.0000
+iterations: 274, E15: 4.0000
+iterations: 274, Fidelity of excited state 15: 1.0000
+iterations: 275, loss: 4.0000
+iterations: 275, NumOp_psi15: 4.0000
+iterations: 275, Sz_psi15: 0.0000
+iterations: 275, E15: 4.0000
+iterations: 275, Fidelity of excited state 15: 1.0000
+iterations: 276, loss: 4.0000
+iterations: 276, NumOp_psi15: 4.0000
+iterations: 276, Sz_psi15: 0.0000
+iterations: 276, E15: 4.0000
+iterations: 276, Fidelity of excited state 15: 1.0000
+iterations: 277, loss: 4.0000
+iterations: 277, NumOp_psi15: 4.0000
+iterations: 277, Sz_psi15: -0.0000
+iterations: 277, E15: 4.0000
+iterations: 277, Fidelity of excited state 15: 1.0000
+iterations: 278, loss: 4.0000
+iterations: 278, NumOp_psi15: 4.0000
+iterations: 278, Sz_psi15: 0.0000
+iterations: 278, E15: 4.0000
+iterations: 278, Fidelity of excited state 15: 1.0000
+iterations: 279, loss: 4.0000
+iterations: 279, NumOp_psi15: 4.0000
+iterations: 279, Sz_psi15: 0.0000
+iterations: 279, E15: 4.0000
+iterations: 279, Fidelity of excited state 15: 1.0000
+iterations: 280, loss: 4.0000
+iterations: 280, NumOp_psi15: 4.0000
+iterations: 280, Sz_psi15: 0.0000
+iterations: 280, E15: 4.0000
+iterations: 280, Fidelity of excited state 15: 1.0000
+iterations: 281, loss: 4.0000
+iterations: 281, NumOp_psi15: 4.0000
+iterations: 281, Sz_psi15: -0.0000
+iterations: 281, E15: 4.0000
+iterations: 281, Fidelity of excited state 15: 1.0000
+iterations: 282, loss: 4.0000
+iterations: 282, NumOp_psi15: 4.0000
+iterations: 282, Sz_psi15: 0.0000
+iterations: 282, E15: 4.0000
+iterations: 282, Fidelity of excited state 15: 1.0000
+iterations: 283, loss: 4.0000
+iterations: 283, NumOp_psi15: 4.0000
+iterations: 283, Sz_psi15: -0.0000
+iterations: 283, E15: 4.0000
+iterations: 283, Fidelity of excited state 15: 1.0000
+iterations: 284, loss: 4.0000
+iterations: 284, NumOp_psi15: 4.0000
+iterations: 284, Sz_psi15: -0.0000
+iterations: 284, E15: 4.0000
+iterations: 284, Fidelity of excited state 15: 1.0000
+iterations: 285, loss: 4.0000
+iterations: 285, NumOp_psi15: 4.0000
+iterations: 285, Sz_psi15: -0.0000
+iterations: 285, E15: 4.0000
+iterations: 285, Fidelity of excited state 15: 1.0000
+iterations: 286, loss: 4.0000
+iterations: 286, NumOp_psi15: 4.0000
+iterations: 286, Sz_psi15: 0.0000
+iterations: 286, E15: 4.0000
+iterations: 286, Fidelity of excited state 15: 1.0000
+iterations: 287, loss: 4.0000
+iterations: 287, NumOp_psi15: 4.0000
+iterations: 287, Sz_psi15: -0.0000
+iterations: 287, E15: 4.0000
+iterations: 287, Fidelity of excited state 15: 1.0000
+iterations: 288, loss: 4.0000
+iterations: 288, NumOp_psi15: 4.0000
+iterations: 288, Sz_psi15: -0.0000
+iterations: 288, E15: 4.0000
+iterations: 288, Fidelity of excited state 15: 1.0000
+iterations: 289, loss: 4.0000
+iterations: 289, NumOp_psi15: 4.0000
+iterations: 289, Sz_psi15: -0.0000
+iterations: 289, E15: 4.0000
+iterations: 289, Fidelity of excited state 15: 1.0000
+iterations: 290, loss: 4.0000
+iterations: 290, NumOp_psi15: 4.0000
+iterations: 290, Sz_psi15: -0.0000
+iterations: 290, E15: 4.0000
+iterations: 290, Fidelity of excited state 15: 1.0000
+iterations: 291, loss: 4.0000
+iterations: 291, NumOp_psi15: 4.0000
+iterations: 291, Sz_psi15: -0.0000
+iterations: 291, E15: 4.0000
+iterations: 291, Fidelity of excited state 15: 1.0000
+iterations: 292, loss: 4.0000
+iterations: 292, NumOp_psi15: 4.0000
+iterations: 292, Sz_psi15: -0.0000
+iterations: 292, E15: 4.0000
+iterations: 292, Fidelity of excited state 15: 1.0000
+iterations: 293, loss: 4.0000
+iterations: 293, NumOp_psi15: 4.0000
+iterations: 293, Sz_psi15: 0.0000
+iterations: 293, E15: 4.0000
+iterations: 293, Fidelity of excited state 15: 1.0000
+iterations: 294, loss: 4.0000
+iterations: 294, NumOp_psi15: 4.0000
+iterations: 294, Sz_psi15: -0.0000
+iterations: 294, E15: 4.0000
+iterations: 294, Fidelity of excited state 15: 1.0000
+iterations: 295, loss: 4.0000
+iterations: 295, NumOp_psi15: 4.0000
+iterations: 295, Sz_psi15: -0.0000
+iterations: 295, E15: 4.0000
+iterations: 295, Fidelity of excited state 15: 1.0000
+iterations: 296, loss: 4.0000
+iterations: 296, NumOp_psi15: 4.0000
+iterations: 296, Sz_psi15: -0.0000
+iterations: 296, E15: 4.0000
+iterations: 296, Fidelity of excited state 15: 1.0000
+iterations: 297, loss: 4.0000
+iterations: 297, NumOp_psi15: 4.0000
+iterations: 297, Sz_psi15: 0.0000
+iterations: 297, E15: 4.0000
+iterations: 297, Fidelity of excited state 15: 1.0000
+iterations: 298, loss: 4.0000
+iterations: 298, NumOp_psi15: 4.0000
+iterations: 298, Sz_psi15: -0.0000
+iterations: 298, E15: 4.0000
+iterations: 298, Fidelity of excited state 15: 1.0000
+iterations: 299, loss: 4.0000
+iterations: 299, NumOp_psi15: 4.0000
+iterations: 299, Sz_psi15: -0.0000
+iterations: 299, E15: 4.0000
+iterations: 299, Fidelity of excited state 15: 1.0000
+iterations: 300, loss: 4.0000
+iterations: 300, NumOp_psi15: 4.0000
+iterations: 300, Sz_psi15: 0.0000
+iterations: 300, E15: 4.0000
+iterations: 300, Fidelity of excited state 15: 1.0000

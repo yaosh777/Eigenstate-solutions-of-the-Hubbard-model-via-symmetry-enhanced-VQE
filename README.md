@@ -12,3 +12,23 @@ Open the derivation details, source code of the simulation program, and data gen
 &#8226; The eigenstates of the operators for the Fermi-Hubbard model with two and four lattice sites, obtained using classical methods (matrix form and classical algorithms for eigenvalues and eigenstates), can be found in the "Eigenstates_Operators_Classic" folder.
 
 &#8226; Other Python library version information: numpy: 1.23.0, scipy: 1.13.1. The CPU used is: 12th Gen Intel(R) Core(TM) i9-12900HX.
+
+&#8226; The computational processes corresponding to the filenames of the 1D Hubbard model with two lattice sites:
+'Hea_g': Hardware efficient ansatz, ground state
+'Hea_ae': Hardware efficient ansatz, all eigenstates
+'Hea_ae_Sz': Hardware efficient ansatz, all eigenstates, Sz penalty term
+'Spat1_g': Symmetry preserving ansatz type 1, ground state
+'Spat2_g': Symmetry preserving ansatz type 2, ground state
+'Spat2_en2': Symmetry preserving ansatz type 2, Eigenstate, n=2
+'Spat2_en1': Symmetry preserving ansatz type 2, Eigenstate, n=1
+'Spat2_en0': Symmetry preserving ansatz type 2, Eigenstate, n=0
+'Spat2_en3': Symmetry preserving ansatz type 2, Eigenstate, n=3
+'Spat2_en4': Symmetry preserving ansatz type 2, Eigenstate, n=4
+
+The computational processes corresponding to the filenames of the 2D Hubbard model with four lattice sites:
+'Hea_g': Hardware efficient ansatz, ground state
+'Hea_ae': Hardware efficient ansatz, all eigenstates
+'Spa_g': Symmetry preserving ansatz, ground state
+'Spa_en4': Symmetry preserving ansatz, Eigenstate, n=4
+
+Where n represents the particle number, and this computation process will simultaneously solve for all energy eigenstates that correspond to these particle numbers.

@@ -35,8 +35,7 @@ Open the derivation details, source code of the simulation program, and data gen
 
 'Spat2_en4': Symmetry preserving ansatz type 2, Eigenstate, n=4
 
-
-The computational processes corresponding to the filenames of the 2D Hubbard model with four lattice sites:
+&#8226; The computational processes corresponding to the filenames of the 2D Hubbard model with four lattice sites:
 
 'Hea_g': Hardware efficient ansatz, ground state
 
@@ -45,6 +44,5 @@ The computational processes corresponding to the filenames of the 2D Hubbard mod
 'Spa_g': Symmetry preserving ansatz, ground state
 
 'Spa_en4': Symmetry preserving ansatz, Eigenstate, n=4
-
 
 Where n represents the particle number, and this computation process will simultaneously solve for all energy eigenstates that correspond to these particle numbers.

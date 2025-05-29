@@ -13,6 +13,8 @@ Open the derivation details, source code of the simulation program, and data gen
 
 &#8226; The eigenstates of the operators for the Fermi-Hubbard model with two and four lattice sites, obtained using classical methods (matrix form and classical algorithms for eigenvalues and eigenstates), can be found in the "Eigenstates_Operators_Classic" folder.
 
+&#8226; The code and PDF images for drawing quantum circuit diagrams using the qcircuit package in LaTeX can be found in the "Quantum_Circuit_Drawing" folder.
+
 &#8226; Other Python library version information: numpy: 1.23.0, scipy: 1.13.1. The CPU used is: 12th Gen Intel(R) Core(TM) i9-12900HX.
 
 &#8226; The computational processes corresponding to the filenames of the Hubbard model with two lattice sites:

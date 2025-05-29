@@ -1,0 +1,15 @@
+\documentclass[border=2px]{standalone}
+
+\usepackage[braket, qm]{qcircuit}
+\usepackage{graphicx}
+
+\begin{document}
+\scalebox{1.0}{
+    \Qcircuit @C=1.0em @R=0.5em @!R {
+        & \multigate{1}{U_{N}\left(\theta_{1}\right)} & \qw & \qw \\
+        & \ghost{U_{N}\left(\theta_{1}\right)} & \multigate{1}{U_{N}\left(\theta_{3}\right)} & \qw \\
+        & \multigate{1}{U_{N}\left(\theta_{2}\right)} & \ghost{U_{N}\left(\theta_{3}\right)} & \qw \\
+        & \ghost{U_{N}\left(\theta_{2}\right)} & \qw & \qw \\
+    }
+}
+\end{document}

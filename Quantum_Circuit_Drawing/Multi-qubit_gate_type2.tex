@@ -1,0 +1,15 @@
+\documentclass[border=2px]{standalone}
+
+\usepackage[braket, qm]{qcircuit}
+\usepackage{graphicx}
+
+\begin{document}
+
+\scalebox{1.0}{
+    \Qcircuit @C=1.0em @R=0.5em @!R {
+        & \multigate{1}{U_{N}\left(\theta\right)} & \qw & & & \qw & \qw & \qw & \targ \qw & \gate{R_{z}\left(2\theta-\frac{\pi}{2}\right)} & \ctrl{1} & \qw & \targ \qw & \gate{R_{z}\left(-\frac{\pi}{2}\right)} & \rstick{} \qw & \nghost{} \\
+        & \ghost{U_{N}\left(\theta\right)} & \qw \hspace{3.1em} \raisebox{2.1em}{\rule{.3em}{0em} = \rule{.3em}{0em}} \hspace{1em} & & & \qw & \qw & \gate{R_{z}\left(\frac{\pi}{2}\right)} & \ctrl{-1} & \gate{R_{y}\left(\frac{\pi}{2}-2\theta\right)} & \targ \qw & \gate{R_{y}\left(2\theta-\frac{\pi}{2}\right)} & \ctrl{-1} & \qw & \rstick{} \qw & \nghost{} \\
+    }
+}
+
+\end{document}

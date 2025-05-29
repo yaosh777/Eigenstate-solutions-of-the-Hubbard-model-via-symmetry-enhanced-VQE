@@ -15,7 +15,7 @@ Open the derivation details, source code of the simulation program, and data gen
 
 &#8226; Other Python library version information: numpy: 1.23.0, scipy: 1.13.1. The CPU used is: 12th Gen Intel(R) Core(TM) i9-12900HX.
 
-&#8226; The computational processes corresponding to the filenames of the 1D Hubbard model with two lattice sites:
+&#8226; The computational processes corresponding to the filenames of the Hubbard model with two lattice sites:
 
 'Hea_g': Hardware efficient ansatz, ground state
 
@@ -37,7 +37,7 @@ Open the derivation details, source code of the simulation program, and data gen
 
 'Spat2_en4': Symmetry preserving ansatz type 2, Eigenstate, n=4
 
-&#8226; The computational processes corresponding to the filenames of the 2D Hubbard model with four lattice sites:
+&#8226; The computational processes corresponding to the filenames of the Hubbard model with four lattice sites:
 
 'Hea_g': Hardware efficient ansatz, ground state
 
